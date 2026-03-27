@@ -1,0 +1,8 @@
+[CONFIG]
+QuestionsFile = /home/ubuntu/repo/rag/common/questionsMINTQAPOP.txt
+OutputFile = /home/ubuntu/repo/rag/C103/output.txt
+ResultFile = /home/ubuntu/repo/rag/C103/result.txt
+LLMModel = gpt-4o-2024-11-20
+KG = Yes
+askIsQuestion=False
+

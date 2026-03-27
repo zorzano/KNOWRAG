@@ -1,0 +1,73 @@
+<h1>Organización</h1>
+La organización de los grupos y sus procesos principales de trabajo están en https://telefonicacorp.sharepoint.com/xxx
+
+Los procesos macro de la empresa están provisionalmente aquí: https://telefonicacorp.sharepoint.com/xxx
+
+<h1>Normativa corporativa</h1>
+Normativa corporativa: https://intranet.telefonica.com/normativa-grupo-telefonica/xxx
+
+<h1>Proceso de Trabajo</h1>
+Proceso de Trabajo de Tecnología de Red: Descrita interfaz en PPT de presentación del grupo: https://telefonicacorp.sharepoint.com/xxx
+
+Proceso de Trabajo de Tecnología de Productos Soluciones: API descrita en Excel de seguimiento. 
+Importante la inclusión de operaciones. Los costes del grupo de Jareño están aquí:https://telefonicacorp.sharepoint.com/xxx
+
+Proceso de Trabajo de Proyectos especiales: Secuencia de funciones descrita en Excel de seguimiento.
+Recordatorio de checklist básico:
+- En todos los proyectos tiene que estar involucrado desde el principio (o desde lo antes posible) alguien de ventas, bien BDMs, bien pre-venta
+- Tiene que acabar habiendo un Producto asociado
+- En algún momento tienen que entrar: Operaciones (dando precio y funciones, o conociendo el que da un proveedor externo)
+- Seguridad (dando al menos un “visto”)
+Si vemos una oportunidad para Big Data, IA o similar, contactar con ellos.
+
+<h1>Roles en proyectos</h1>
+https://telefonicacorp.sharepoint.com/yyy
+(De estos, proveemos el Service Architect)
+El rol de consultor se define en este texto (de la oferta de STOLT):"En la oferta se incluyen 5 jornadas de consultoria de un experto en soluciones IoT durante 3 meses de duración. El perfil valorado es un Solution Architect, que será el responsable de la solución técnica para el cliente en las fases iniciales del proyecto.
+Las principales responsabilidades en el marco del IoT y Big Data son:
+- Asegurar que la solución técnica propuesta en el proyecto cumpla con las
+expectativas del cliente.
+- Comprender el negocio del cliente para impulsar la innovación tecnológica y la mejora de la eficiencia a nivel mundial, desafiando el enfoque actual del cliente y co-creando una estrategia TIC innovadora y orientada al valor.
+- Extender la relación a la estrategia comercial del cliente accediendo a los equipos de Marketing, Desarrollo de Clientes e Investigación y Desarrollo para proporcionar soluciones innovadoras y de calidad que se entreguen a la agenda de crecimiento del cliente.<span <br>
+- Apoyar las iniciativas estratégicas de TIC del cliente a nivel mundial, interactuando como responsable para responder a todas las necesidades de TIC y comunicación y para el diseño de soluciones globales, liderando así el equipo de diseño técnico a nivel global, regional y local.
+Los servicios tendrán una duración de 3 meses.
+
+<h1>Onboarding de dispositivos y sistemas</h1>
+Onboarding de dispositivos y sistemas:
+El flujo está descrito en la PPT general del grupo, https://telefonicacorp.sharepoint.com/xxx
+
+<h1>Wish-list y recomendaciones para fabricantes de chipsets y módulos</h1>
+Wish-list para fabricantes de chipsets y módulos
+https://telefonicacorp.sharepoint.com/xxx
+
+<h1>Lista de módulos certificados</h1>
+https://okapi.telefonica.com/iot_modules
+
+<h1>SIMs para pruebas y demos</h1>
+SIMs para pruebas y demos:
+SIMs de cartón. En general el proyecto compra sus SIMs. Si es desarrollo de producto se las pueden pedir a Conectividad Tenemos alguna en el laboratorio que empleamos, exclusivamente, en nuestro trabajo.
+
+SIMs soldadas. El pack mínimo de SIMs soldadas es muy grande para un proyecto, y nosotros tenemos un batch muy grande que si no se usa se estropeará. Para usarlas en un proyecto o demo hay que organizar con Test&Labs que se cambien a la cuenta de Kite del Cliente (Kite Pais o Global) o del Producto (Kite Global)
+
+<h1>URL para aplicación web</h1>
+URL para aplicación web:
+En caso de trabajar en un producto IoTque dependa de unaaplicación Web tendremos que pedir una URL personalizada con el dominio Telefonica Tech. 
+1) Legal tiene que analizar que tipo de servicio se va a ofrecer a través de la web para influir enlaces a textos legales correspondientes.
+2) Con Marca hay que acordar un nombre del producto que se anunciará.
+3) Seguridad tiene que dar el Ok de que la Web es segura. Previamente debemos pedirles una prueba de Pentesting para detectar posibles vulnerabilidades de la Web.
+4) Branding: Dpto. de branding nos tiene que dar el Ok al aspecto general de la Web que debe cumplir la guía de estilos de Telefónica Tech.
+
+<h1>Procedimiento de Crisis</h1>
+
+- Formar equipo gestor de crisis: un director, un &quot;jefe de proyecto&quot; o coordinador, abogado, comunicaciones, otros (con roles).
+- Informar al equipo, prevenir de horarios extraordinarios. Demandar discreción en la comunicación externa.
+- Crear y compartir un repositorio de información. Y en él un documento que resuma lo que ha pasado, lo que se sospecha, lo que se sabe y porque se sabe, y lo que se va a hacer.
+- Establecer horarios de reunion, irán variando desde 2/dia a 1/semana.
+- Documento con explicación oficial a distintos stakeholders, incluyendo roleplaying y preguntas/respuestas.
+- Obtener y recopilar datos duros.
+- Diferenciar planes paliativos (corto plazo) y solución (evitar repeticiones futuras)
+- Aplicar valores de la empresa, especialmente transparencia, trabajo en equipo...
+
+<h1>Peticiones y tickets. ServiceNow</h1>
+
+ServiceNow es la gran herramienta para gestión de tickets de IT y producción. https://telefonica1.service-now.com/sp

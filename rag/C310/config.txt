@@ -1,0 +1,11 @@
+[CONFIG]
+QuestionsFile = /home/ubuntu/repo/rag/common/questionsIRN.txt
+OutputFile = /home/ubuntu/repo/rag/C310/output.txt
+ResultFile = /home/ubuntu/repo/rag/C310/result.txt
+LLMModel = ft:gpt-4o-2024-08-06:javier-zorzano:ft2:BgCtyi64
+KG = Yes
+nHitsKG=1
+extractTerms=0
+nLoopsExtra=0
+extractLoopTerms=0
+askIsQuestion=False

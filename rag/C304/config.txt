@@ -1,0 +1,11 @@
+[CONFIG]
+QuestionsFile = /home/ubuntu/repo/rag/common/questionsIRN.txt
+OutputFile = /home/ubuntu/repo/rag/C304/output.txt
+ResultFile = /home/ubuntu/repo/rag/C304/result.txt
+LLMModel = None
+KG = Yes
+nHitsKG=1
+extractTerms=1
+nLoopsExtra=0
+extractLoopTerms=0
+askIsQuestion=False

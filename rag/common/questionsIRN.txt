@@ -1,0 +1,400 @@
+<Q> which football club does Alan_PULIDO play for ?
+<R> Tigres_UANL
+<Q> what position does Alan_PULIDO play ?
+<R> Forward
+<Q> what is the age of Alan_PULIDO ?
+<R> 23
+<Q> what is the jersey number of Alan_PULIDO ?
+<R> 11
+<Q> which national team does Alan_PULIDO play for ?
+<R> Mexico
+<Q> which country is the soccer team Tigres_UANL based in ?
+<R> Mexico
+<Q> who is from the professional football team Tigres_UANL ?
+<R> Carlos_SALCIDO,Alan_PULIDO
+<Q> who plays for the Mexico national football team ?
+<R> Raul_JIMENEZ,Oribe_PERALTA,Paul_AGUILAR,Alfredo_TALAVERA,Miguel_LAYUN,Carlos_PENA,Diego_REYES,Javier_AQUINO,Miguel_PONCE,Andres_GUARDADO,Giovani_DOS_SANTOS,Marco_FABIAN,Javier_HERNANDEZ,Carlos_SALCIDO,Isaac_BRIZUELA,Hector_HERRERA,Hector_MORENO,Guillermo_OCHOA,Jose_CORONA,Rafael_MARQUEZ
+<Q> who plays Forward ?
+<R> Pedro_RODRIGUEZ,Islam_SLIMANI,Jordan_AYEW,Mauricio_PINILLA,Yoichiro_KAKITANI,Ioannis_FETFATZIDIS,Victor_MOSES,Esteban_PAREDES,Kevin_Prince_BOATENG,Jackson_MARTINEZ,Sofiane_FEGHOULI,Asamoah_GYAN,Edinson_CAVANI,VIEIRINHA,Rony_MARTINEZ,Robin_VAN_PERSIE,EDUARDO_1,Reza_GHOOCHANNEJAD,Fabian_ORELLANA,Georgios_SAMARAS,Olivier_GIROUD,Marco_REUS,Andre_SCHUERRLE,Peter_ODEMWINGIE,Alexey_IONOV,HULK,Enner_VALENCIA,Alexander_KOKORIN,Hiroshi_KIYOTAKE,Bryan_RUIZ,Vincent_ABOUBAKAR,Mario_GAVRANOVIC,Arjen_ROBBEN,Diego_FORLAN,Eduardo_VARGAS,Jeremain_LENS,Rickie_LAMBERT,Yoshito_OKUBO,HELDER_POSTIGA,Abel_HERNANDEZ,Yuya_OSAKO,KOO_Jacheol,Shinji_KAGAWA,Thomas_MUELLER,Wilfried_BONY,Joel_CAMPBELL,RAFA,Klaas_Jan_HUNTELAAR,Konstantinos_MITROGLOU,Jozy_ALTIDORE,Jerry_BENGTSON,Mathew_LECKIE,Didier_DROGBA,Felipe_CAICEDO,Eric_CHOUPO_MOTING,Keisuke_HONDA,Loic_REMY,Sergio_AGUERO,Ben_HALLORAN,EDER,Lorenzo_INSIGNE,NEYMAR,Tim_CAHILL,Javier_HERNANDEZ,Emmanuel_EMENIKE,VARELA,CRISTIANO_RONALDO,Ciro_IMMOBILE,Lukas_PODOLSKI,Edin_DZEKO,Daniel_STURRIDGE,Jaimen_AYOVI,Ezequiel_LAVEZZI,LEE_Keunho,Rodrigo_PALACIO,Franck_RIBERY,NANI,Ante_REBIC,Abdelmoumene_DJABOU,Giovanni_SIO,Manabu_SAITO,Divock_ORIGI,Nikica_JELAVIC,Mario_MANDZUKIC,Edin_VISCA,Masoud_SHOJAEI,Alexis_SANCHEZ,KIM_Shinwook,Wayne_ROONEY,El_Arabi_SOUDANI,Mario_BALOTELLI,Yury_ZHIRKOV,Clint_DEMPSEY,Juan_MATA,Alan_PULIDO,Randall_BRENES,Riyad_MAHREZ,Ivica_OLIC,Gonzalo_HIGUAIN,Aleksandr_KERZHAKOV,Shinji_OKAZAKI,Mario_GOETZE,Dirk_KUYT,Carlo_COSTLY,Karim_BENZEMA,Majeed_WARIS,Dimitrios_SALPINGIDIS,PARK_Chuyoung,Diego_COSTA,Adrian_RAMOS,Ashkan_DEJAGAH,Romelu_LUKAKU,Miroslav_KLOSE,GERVINHO,Maksim_KANUNNIKOV,JO,David_VILLA,Oribe_PERALTA,Haris_SEFEROVIC,Alireza_JAHAN_BAKHSH,Admir_MEHMEDI,Uche_NWOFOR,Chris_WONDOLOWSKI,BERNARD,FRED,Lionel_MESSI,Michael_BABATUNDE,Shola_AMEOBI,Raul_JIMENEZ,Okechukwu_UCHEBO,Danny_WELBECK,Theofanis_GEKAS,Fabrice_OLINGA,Carlos_BACCA,HUGO_ALMEIDA,Memphis_DEPAY,Josip_DRMIC,Aron_JOHANNSSON,Nabil_GHILAS,Vedad_IBISEVIC,Antoine_GRIEZMANN,Fernando_TORRES,Cristhian_STUANI,Victor_IBARBO,Adam_TAGGART,Giovani_DOS_SANTOS,Samuel_ETOO,Alexander_SAMEDOV,Ahmed_MUSA,Khosro_HEYDARI,Pierre_WEBO,Marcos_URENA,Teofilo_GUTIERREZ,Kevin_MIRALLAS,Antonio_CASSANO,Salomon_KALOU,Benjamin_MOUKANDJO,Joao_ROJAS,Alessio_CERCI,Luis_SUAREZ,Karim_ANSARI_FARD
+<Q> which soccer club is based in Mexico ?
+<R> CF_Pachuca,Deportivo_Toluca_FC,Tigres_UANL,Cruz_Azul_FC,Atlante_FC,Club_Tijuana,CA_Monarcas_Morelia,Club_America,Club_Leon,Puebla_FC,CF_Monterrey,Club_Santos_Laguna
+<Q> where is the football club that Alan_PULIDO plays for ?
+<R> Mexico
+<Q> name a soccer club that has a player from Mexico ?
+<R> CF_Pachuca,Deportivo_Toluca_FC,Tigres_UANL,Cruz_Azul_FC,Atlante_FC,Club_Tijuana,CA_Monarcas_Morelia,Club_America,Club_Leon,Puebla_FC,CF_Monterrey,Club_Santos_Laguna
+<Q> which club does Adam_TAGGART play for ?
+<R> Newcastle_United_Jets_FC
+<Q> what position does Adam_TAGGART play ?
+<R> Forward
+<Q> how old is Adam_TAGGART ?
+<R> 21
+<Q> what number does Adam_TAGGART wear ?
+<R> 9
+<Q> which country is Adam_TAGGART from ?
+<R> Australia
+<Q> which country is the soccer team Newcastle_United_Jets_FC based in ?
+<R> Australia
+<Q> name a player from Newcastle_United_Jets_FC ?
+<R> Adam_TAGGART
+<Q> which player is from Australia ?
+<R> James_TROISI,Ben_HALLORAN,Mathew_LECKIE,Mile_JEDINAK,Jason_DAVIDSON,Massimo_LUONGO,Dario_VIDOSIC,Tommy_OAR,Adam_TAGGART,Bailey_WRIGHT,James_HOLLAND,Mitch_LANGERAK,Alex_WILKINSON,Eugene_GALEKOVIC,Maty_RYAN,Ryan_McGOWAN,Ivan_FRANJIC,Mark_BRESCIANO,Tim_CAHILL,Matthew_SPIRANOVIC,Matt_McKAY,Oliver_BOZANIC,Mark_MILLIGAN
+<Q> name a soccer club in Australia ?
+<R> Newcastle_United_Jets_FC,Western_Sydney_Wanderers_FC,Brisbane_Roar_FC,Adelaide_United_FC,Melbourne_Victory_FC
+<Q> where is the football club that Adam_TAGGART plays for ?
+<R> Australia
+<Q> which professional football team do players from Australia play for ?
+<R> Newcastle_United_Jets_FC,Western_Sydney_Wanderers_FC,Brisbane_Roar_FC,Adelaide_United_FC,Melbourne_Victory_FC
+<Q> which prefessional football team does Reza_GHOOCHANNEJAD play for ?
+<R> Charlton_Athletic_FC
+<Q> what position does Reza_GHOOCHANNEJAD play ?
+<R> Forward
+<Q> what is the age of Reza_GHOOCHANNEJAD ?
+<R> 26
+<Q> what number does Reza_GHOOCHANNEJAD wear ?
+<R> 16
+<Q> what is the nationality of Reza_GHOOCHANNEJAD ?
+<R> England
+<Q> which country is the soccer team Charlton_Athletic_FC based in ?
+<R> England
+<Q> who plays professionally at Charlton_Athletic_FC ?
+<R> Reza_GHOOCHANNEJAD
+<Q> which player is from England ?
+<R> BERLAIN,Luke_SHAW,Raheem_STERLING,Rickie_LAMBERT,Phil_JONES,Jack_WILSHERE,Ben_FOSTER,Chris_SMALLING,Jordan_HENDERSON,Adam_LALLANA,Daniel_STURRIDGE,Steven_GERRARD,Glen_JOHNSON,James_MILNER,Fraser_FORSTER
+<Q> name a player who plays Forward ?
+<R> Pedro_RODRIGUEZ,Islam_SLIMANI,Jordan_AYEW,Mauricio_PINILLA,Yoichiro_KAKITANI,Ioannis_FETFATZIDIS,Victor_MOSES,Esteban_PAREDES,Kevin_Prince_BOATENG,Jackson_MARTINEZ,Sofiane_FEGHOULI,Asamoah_GYAN,Edinson_CAVANI,VIEIRINHA,Rony_MARTINEZ,Robin_VAN_PERSIE,EDUARDO_1,Reza_GHOOCHANNEJAD,Fabian_ORELLANA,Georgios_SAMARAS,Olivier_GIROUD,Marco_REUS,Andre_SCHUERRLE,Peter_ODEMWINGIE,Alexey_IONOV,HULK,Enner_VALENCIA,Alexander_KOKORIN,Hiroshi_KIYOTAKE,Bryan_RUIZ,Vincent_ABOUBAKAR,Mario_GAVRANOVIC,Arjen_ROBBEN,Diego_FORLAN,Eduardo_VARGAS,Jeremain_LENS,Rickie_LAMBERT,Yoshito_OKUBO,HELDER_POSTIGA,Abel_HERNANDEZ,Yuya_OSAKO,KOO_Jacheol,Shinji_KAGAWA,Thomas_MUELLER,Wilfried_BONY,Joel_CAMPBELL,RAFA,Klaas_Jan_HUNTELAAR,Konstantinos_MITROGLOU,Jozy_ALTIDORE,Jerry_BENGTSON,Mathew_LECKIE,Didier_DROGBA,Felipe_CAICEDO,Eric_CHOUPO_MOTING,Keisuke_HONDA,Loic_REMY,Sergio_AGUERO,Ben_HALLORAN,EDER,Lorenzo_INSIGNE,NEYMAR,Tim_CAHILL,Javier_HERNANDEZ,Emmanuel_EMENIKE,VARELA,CRISTIANO_RONALDO,Ciro_IMMOBILE,Lukas_PODOLSKI,Edin_DZEKO,Daniel_STURRIDGE,Jaimen_AYOVI,Ezequiel_LAVEZZI,LEE_Keunho,Rodrigo_PALACIO,Franck_RIBERY,NANI,Ante_REBIC,Abdelmoumene_DJABOU,Giovanni_SIO,Manabu_SAITO,Divock_ORIGI,Nikica_JELAVIC,Mario_MANDZUKIC,Edin_VISCA,Masoud_SHOJAEI,Alexis_SANCHEZ,KIM_Shinwook,Wayne_ROONEY,El_Arabi_SOUDANI,Mario_BALOTELLI,Yury_ZHIRKOV,Clint_DEMPSEY,Juan_MATA,Alan_PULIDO,Randall_BRENES,Riyad_MAHREZ,Ivica_OLIC,Gonzalo_HIGUAIN,Aleksandr_KERZHAKOV,Shinji_OKAZAKI,Mario_GOETZE,Dirk_KUYT,Carlo_COSTLY,Karim_BENZEMA,Majeed_WARIS,Dimitrios_SALPINGIDIS,PARK_Chuyoung,Diego_COSTA,Adrian_RAMOS,Ashkan_DEJAGAH,Romelu_LUKAKU,Miroslav_KLOSE,GERVINHO,Maksim_KANUNNIKOV,JO,David_VILLA,Oribe_PERALTA,Haris_SEFEROVIC,Alireza_JAHAN_BAKHSH,Admir_MEHMEDI,Uche_NWOFOR,Chris_WONDOLOWSKI,BERNARD,FRED,Lionel_MESSI,Michael_BABATUNDE,Shola_AMEOBI,Raul_JIMENEZ,Okechukwu_UCHEBO,Danny_WELBECK,Theofanis_GEKAS,Fabrice_OLINGA,Carlos_BACCA,HUGO_ALMEIDA,Memphis_DEPAY,Josip_DRMIC,Aron_JOHANNSSON,Nabil_GHILAS,Vedad_IBISEVIC,Antoine_GRIEZMANN,Fernando_TORRES,Cristhian_STUANI,Victor_IBARBO,Adam_TAGGART,Giovani_DOS_SANTOS,Samuel_ETOO,Alexander_SAMEDOV,Ahmed_MUSA,Khosro_HEYDARI,Pierre_WEBO,Marcos_URENA,Teofilo_GUTIERREZ,Kevin_MIRALLAS,Antonio_CASSANO,Salomon_KALOU,Benjamin_MOUKANDJO,Joao_ROJAS,Alessio_CERCI,Luis_SUAREZ,Karim_ANSARI_FARD
+<Q> which soccer club is based in England ?
+<R> Wigan_Athletic_FC,Watford_FC,Aston_Villa_FC,Swindon_Town_FC,Preston_North_End_FC,Stoke_City_FC,Tottenham_Hotspur_FC,Nottingham_Forest_FC,Charlton_Athletic_FC,Swansea_City_AFC,Newcastle_United_FC,Queens_Park_Rangers_FC,West_Ham_United_FC,Crystal_Palace_FC,Manchester_United_FC,Hull_City_FC,Cardiff_City_FC,Fulham_FC,Everton_FC,Chelsea_FC,Norwich_City_FC,Liverpool_FC,Leicester_City_FC,Southampton_FC,Arsenal_FC,Bolton_Wanderers_FC,Middlesbrough_FC,West_Bromwich_Albion_FC,Sunderland_AFC,Manchester_City_FC
+<Q> where is the football club that Reza_GHOOCHANNEJAD plays for ?
+<R> England
+<Q> name a soccer club that has a player from England ?
+<R> Wigan_Athletic_FC,Watford_FC,Aston_Villa_FC,Swindon_Town_FC,Preston_North_End_FC,Stoke_City_FC,Tottenham_Hotspur_FC,Nottingham_Forest_FC,Charlton_Athletic_FC,Swansea_City_AFC,Newcastle_United_FC,Queens_Park_Rangers_FC,West_Ham_United_FC,Crystal_Palace_FC,Manchester_United_FC,Hull_City_FC,Cardiff_City_FC,Fulham_FC,Everton_FC,Chelsea_FC,Norwich_City_FC,Liverpool_FC,Leicester_City_FC,Southampton_FC,Arsenal_FC,Bolton_Wanderers_FC,Middlesbrough_FC,West_Bromwich_Albion_FC,Sunderland_AFC,Manchester_City_FC
+<Q> which football club does NEYMAR play for ?
+<R> FC_Barcelona
+<Q> what position does NEYMAR play ?
+<R> Forward
+<Q> what is the age of NEYMAR ?
+<R> 22
+<Q> what number does NEYMAR wear ?
+<R> 10
+<Q> what is the nationality of NEYMAR ?
+<R> Brazil
+<Q> which country is the soccer team FC_Barcelona based in ?
+<R> Spain
+<Q> who plays at the soccer club FC_Barcelona ?
+<R> Gerard_PIQUE,Sergio_BUSQUETS,Javier_MASCHERANO,Alexis_SANCHEZ,Lionel_MESSI,Andres_INIESTA,DANI_ALVES,Pedro_RODRIGUEZ,Xavi_HERNANDEZ,Alexandre_SONG,NEYMAR,Cesc_FABREGAS,Jordi_ALBA
+<Q> name a player from Spain ?
+<R> David_VILLA,Sergio_BUSQUETS,Xavi_HERNANDEZ,Xabi_ALONSO,Fernando_TORRES,Gerard_PIQUE,David_SILVA,KOKE,Pepe_REINA,Juan_MATA,Raul_ALBIOL,Andres_INIESTA,Cesar_AZPILICUETA,Santi_CAZORLA,Sergio_RAMOS,JUANFRAN,Pedro_RODRIGUEZ,Iker_CASILLAS,Jordi_ALBA,David_DE_GEA,Cesc_FABREGAS,Javi_MARTINEZ,Diego_COSTA
+<Q> name a soccer club in Spain ?
+<R> UD_Las_Palmas,Sevilla_FC,Elche_CF,Granada_CF,Atletico_Madrid,Real_Sociedad,UD_Almeria,CA_Osasuna,Valencia_CF,Getafe_CF,Celta_Vigo,Levante_UD,FC_Barcelona,Villarreal_CF,Real_Madrid_CF,RCD_Mallorca,RCD_Espanyol
+<Q> where is the football club that NEYMAR plays for ?
+<R> Spain
+<Q> which professional football team do players from Spain play for ?
+<R> UD_Las_Palmas,Sevilla_FC,Elche_CF,Granada_CF,Atletico_Madrid,Real_Sociedad,UD_Almeria,CA_Osasuna,Valencia_CF,Getafe_CF,Celta_Vigo,Levante_UD,FC_Barcelona,Villarreal_CF,Real_Madrid_CF,RCD_Mallorca,RCD_Espanyol
+<Q> which football club does Didier_DROGBA play for ?
+<R> Galatasaray_SK
+<Q> what position does Didier_DROGBA play ?
+<R> Forward
+<Q> how old is Didier_DROGBA ?
+<R> 36
+<Q> what is the jersey number of Didier_DROGBA ?
+<R> 11
+<Q> which country is Didier_DROGBA from ?
+<R> Ivory_Coast
+<Q> which country is the soccer team Galatasaray_SK based in ?
+<R> Turkey
+<Q> who plays at the soccer club Galatasaray_SK ?
+<R> Didier_DROGBA,Aurelien_CHEDJOU,Wesley_SNEIJDER,Fernando_MUSLERA,Izet_HAJROVIC
+<Q> name a soccer club in Turkey ?
+<R> Fenerbahce_SK,Konyaspor,Fethiyespor,Kayseri_Erciyesspor,Galatasaray_SK,Elazigspor,Istanbul_BBSK,Caykur_Rizespor,Trabzonspor,Gaziantepspor,Antalyaspor_AS,Besiktas_JK,Kayserispor
+<Q> where is the football club that Didier_DROGBA plays for ?
+<R> Turkey
+<Q> which football club does David_VILLA play for ?
+<R> Atletico_Madrid
+<Q> what position does David_VILLA play ?
+<R> Forward
+<Q> what is the age of David_VILLA ?
+<R> 32
+<Q> what number does David_VILLA wear ?
+<R> 7
+<Q> what is the nationality of David_VILLA ?
+<R> Spain
+<Q> which country is the soccer team Atletico_Madrid based in ?
+<R> Spain
+<Q> name a player from Atletico_Madrid ?
+<R> Cristian_RODRIGUEZ,Diego_GODIN,KOKE,David_VILLA,Toby_ALDERWEIRELD,JUANFRAN,Diego_COSTA,Thibaut_COURTOIS,Jose_GIMENEZ
+<Q> which soccer club is based in Spain ?
+<R> UD_Las_Palmas,Sevilla_FC,Elche_CF,Granada_CF,Atletico_Madrid,Real_Sociedad,UD_Almeria,CA_Osasuna,Valencia_CF,Getafe_CF,Celta_Vigo,Levante_UD,FC_Barcelona,Villarreal_CF,Real_Madrid_CF,RCD_Mallorca,RCD_Espanyol
+<Q> where is the football club that David_VILLA plays for ?
+<R> Spain
+<Q> name a soccer club that has a player from Spain ?
+<R> UD_Las_Palmas,Sevilla_FC,Elche_CF,Granada_CF,Atletico_Madrid,Real_Sociedad,UD_Almeria,CA_Osasuna,Valencia_CF,Getafe_CF,Celta_Vigo,Levante_UD,FC_Barcelona,Villarreal_CF,Real_Madrid_CF,RCD_Mallorca,RCD_Espanyol
+<Q> which prefessional football team does Abel_HERNANDEZ play for ?
+<R> US_Citta_di_Palermo
+<Q> what position does Abel_HERNANDEZ play ?
+<R> Forward
+<Q> how old is Abel_HERNANDEZ ?
+<R> 23
+<Q> what is the jersey number of Abel_HERNANDEZ ?
+<R> 8
+<Q> which country is Abel_HERNANDEZ from ?
+<R> Uruguay
+<Q> which country is the soccer team US_Citta_di_Palermo based in ?
+<R> Italy
+<Q> who is from the professional football team US_Citta_di_Palermo ?
+<R> Abel_HERNANDEZ
+<Q> who is from Italy ?
+<R> Marco_PAROLO,Giorgio_CHIELLINI,Mario_BALOTELLI,Leonardo_BONUCCI,THIAGO_MOTTA,Gabriel_PALETTA,Mattia_PERIN,Claudio_MARCHISIO,Alberto_AQUILANI,Alessio_CERCI,Lorenzo_INSIGNE,Marco_VERRATTI,Salvatore_SIRIGU,Antonio_CANDREVA,Ciro_IMMOBILE,Daniele_DE_ROSSI,Ignazio_ABATE,Andrea_BARZAGLI,Matteo_DARMIAN,Andrea_PIRLO,Antonio_CASSANO,Mattia_DE_SCIGLIO,EDER,Gianluigi_BUFFON
+<Q> name a soccer club in Italy ?
+<R> Torino_FC,AS_Roma,Juventus_FC,US_Citta_di_Palermo,Calcio_Catania,Genoa_CFC,Parma_FC,Bologna_FC,US_Sassuolo,SS_Lazio,Atalanta_Bergamo,Cagliari_Calcio,Udinese_Calcio,AC_Milan,SSC_Napoli,Hellas_Verona_FC,ACF_Fiorentina,AS_Livorno,FC_Internazionale
+<Q> which country does Abel_HERNANDEZ play professional in ?
+<R> Italy
+<Q> which professional football team do players from Italy play for ?
+<R> Torino_FC,AS_Roma,Juventus_FC,US_Citta_di_Palermo,Calcio_Catania,Genoa_CFC,Parma_FC,Bologna_FC,US_Sassuolo,SS_Lazio,Atalanta_Bergamo,Cagliari_Calcio,Udinese_Calcio,AC_Milan,SSC_Napoli,Hellas_Verona_FC,ACF_Fiorentina,AS_Livorno,FC_Internazionale
+<Q> which professional football team does Javier_HERNANDEZ play for ?
+<R> Manchester_United_FC
+<Q> what position does Javier_HERNANDEZ play ?
+<R> Forward
+<Q> how old is Javier_HERNANDEZ ?
+<R> 26
+<Q> what is the jersey number of Javier_HERNANDEZ ?
+<R> 14
+<Q> which national team does Javier_HERNANDEZ play for ?
+<R> Mexico
+<Q> which country is the soccer team Manchester_United_FC based in ?
+<R> England
+<Q> who plays at the soccer club Manchester_United_FC ?
+<R> Phil_JONES,Marouane_FELLAINI,Chris_SMALLING,Shinji_KAGAWA,David_DE_GEA,Antonio_VALENCIA,Javier_HERNANDEZ,Robin_VAN_PERSIE,Patrice_EVRA,Juan_MATA,NANI,Wayne_ROONEY,Adnan_JANUZAJ,Danny_WELBECK
+<Q> who plays for the England national football team ?
+<R> Frank_LAMPARD,Gary_CAHILL,Joe_HART,Danny_WELBECK,Ross_BARKLEY,Wayne_ROONEY,Phil_JAGIELKA,Leighton_BAINES,Alex_OXLADE_CHAMBERLAIN,Luke_SHAW,Raheem_STERLING,Rickie_LAMBERT,Phil_JONES,Jack_WILSHERE,Ben_FOSTER,Chris_SMALLING,Jordan_HENDERSON,Adam_LALLANA,Daniel_STURRIDGE,Steven_GERRARD,Glen_JOHNSON,James_MILNER,Fraser_FORSTER
+<Q> name a soccer club in England ?
+<R> Wigan_Athletic_FC,Watford_FC,Aston_Villa_FC,Swindon_Town_FC,Preston_North_End_FC,Stoke_City_FC,Tottenham_Hotspur_FC,Nottingham_Forest_FC,Charlton_Athletic_FC,Swansea_City_AFC,Newcastle_United_FC,Queens_Park_Rangers_FC,West_Ham_United_FC,Crystal_Palace_FC,Manchester_United_FC,Hull_City_FC,Cardiff_City_FC,Fulham_FC,Everton_FC,Chelsea_FC,Norwich_City_FC,Liverpool_FC,Leicester_City_FC,Southampton_FC,Arsenal_FC,Bolton_Wanderers_FC,Middlesbrough_FC,West_Bromwich_Albion_FC,Sunderland_AFC,Manchester_City_FC
+<Q> which country does Javier_HERNANDEZ play professional in ?
+<R> Mexico
+<Q> which club does Edin_DZEKO play for ?
+<R> Manchester_City_FC
+<Q> what position does Edin_DZEKO play ?
+<R> Forward
+<Q> what is the age of Edin_DZEKO ?
+<R> 28
+<Q> what number does Edin_DZEKO wear ?
+<R> 11
+<Q> which national team does Edin_DZEKO play for ?
+<R> Bosnia_&_Herzegovina
+<Q> which country is the soccer team Manchester_City_FC based in ?
+<R> England
+<Q> who plays professionally at Manchester_City_FC ?
+<R> Phil_JONES,Marouane_FELLAINI,Chris_SMALLING,Shinji_KAGAWA,David_DE_GEA,Antonio_VALENCIA,Javier_HERNANDEZ,Robin_VAN_PERSIE,Patrice_EVRA,Juan_MATA,NANI,Wayne_ROONEY,Adnan_JANUZAJ,Danny_WELBECK
+<Q> who plays for the England national football team ?
+<R> Frank_LAMPARD,Gary_CAHILL,Joe_HART,Danny_WELBECK,Ross_BARKLEY,Wayne_ROONEY,Phil_JAGIELKA,Leighton_BAINES,Alex_OXLADE_CHAMBERLAIN,Luke_SHAW,Raheem_STERLING,Rickie_LAMBERT,Phil_JONES,Jack_WILSHERE,Ben_FOSTER,Chris_SMALLING,Jordan_HENDERSON,Adam_LALLANA,Daniel_STURRIDGE,Steven_GERRARD,Glen_JOHNSON,James_MILNER,Fraser_FORSTER
+<Q> which country does Edin_DZEKO play professional in ?
+<R> England
+<Q> which club does Klaas_Jan_HUNTELAAR play for ?
+<R> FC_Schalke_04
+<Q> what position does Klaas_Jan_HUNTELAAR play ?
+<R> Forward
+<Q> how old is Klaas_Jan_HUNTELAAR ?
+<R> 30
+<Q> what is the jersey number of Klaas_Jan_HUNTELAAR ?
+<R> 19
+<Q> which national team does Klaas_Jan_HUNTELAAR play for ?
+<R> Netherlands
+<Q> which country is the soccer team FC_Schalke_04 based in ?
+<R> Germany
+<Q> who plays at the soccer club FC_Schalke_04 ?
+<R> Joel_MATIP,Julian_DRAXLER,Sead_KOLASINAC,Atsuto_UCHIDA,Kevin_Prince_BOATENG,Benedikt_HOEWEDES,Klaas_Jan_HUNTELAAR
+<Q> which player is from Germany ?
+<R> Lukas_PODOLSKI,Marco_REUS,Toni_KROOS,Bastian_SCHWEINSTEIGER,Erik_DURM,Manuel_NEUER,Mario_GOETZE,Sami_KHEDIRA,Andre_SCHUERRLE,Benedikt_HOEWEDES,Christoph_KRAMER,Mats_HUMMELS,Jerome_BOATENG,Roman_WEIDENFELLER,Matthias_GINTER,Paul_VERHAEGH,Thomas_MUELLER,Mesut_OEZIL,Philipp_LAHM,Ron-Robert_ZIELER,Per_MERTESACKER,Julian_DRAXLER,Miroslav_KLOSE,Kevin_GROSSKREUTZ
+<Q> which soccer club is based in Germany ?
+<R> 1._FC_Nuernberg,VfL_Wolfsburg,Hertha_BSC,Bayer_04_Leverkusen,VfB_Stuttgart,Eintracht_Frankfurt,FC_Augsburg,FC_Schalke_04,Fortuna_Duesseldorf,FSV_Frankfurt,Borussia_Dortmund,Hamburger_SV,Hannover_96,FC_Bayern_Muenchen,SC_Freiburg,TSV_1860_Muenchen,Eintracht_Braunschweig,FSV_Mainz_05,VfR_Aalen,TSG_1899_Hoffenheim,Borussia_Moenchengladbach
+<Q> which country does Klaas_Jan_HUNTELAAR play professional in ?
+<R> Germany
+<Q> name a soccer club that has a player from Germany ?
+<R> 1._FC_Nuernberg,VfL_Wolfsburg,Hertha_BSC,Bayer_04_Leverkusen,VfB_Stuttgart,Eintracht_Frankfurt,FC_Augsburg,FC_Schalke_04,Fortuna_Duesseldorf,FSV_Frankfurt,Borussia_Dortmund,Hamburger_SV,Hannover_96,FC_Bayern_Muenchen,SC_Freiburg,TSV_1860_Muenchen,Eintracht_Braunschweig,FSV_Mainz_05,VfR_Aalen,TSG_1899_Hoffenheim,Borussia_Moenchengladbach
+<Q> which club does Gonzalo_HIGUAIN play for ?
+<R> SSC_Napoli
+<Q> what position does Gonzalo_HIGUAIN play ?
+<R> Forward
+<Q> what is the age of Gonzalo_HIGUAIN ?
+<R> 26
+<Q> what is the jersey number of Gonzalo_HIGUAIN ?
+<R> 9
+<Q> what is the nationality of Gonzalo_HIGUAIN ?
+<R> Argentina
+<Q> which country is the soccer team SSC_Napoli based in ?
+<R> Italy
+<Q> who is from the professional football team SSC_Napoli ?
+<R> Blerim_DZEMAILI,Lorenzo_INSIGNE,Juan_ZUNIGA,Federico_FERNANDEZ,HENRIQUE,Raul_ALBIOL,Gokhan_INLER,Gonzalo_HIGUAIN,Pepe_REINA,Dries_MERTENS,Faouzi_GHOULAM,Valon_BEHRAMI
+<Q> name a player from Italy ?
+<R> Marco_PAROLO,Giorgio_CHIELLINI,Mario_BALOTELLI,Leonardo_BONUCCI,THIAGO_MOTTA,Gabriel_PALETTA,Mattia_PERIN,Claudio_MARCHISIO,Alberto_AQUILANI,Alessio_CERCI,Lorenzo_INSIGNE,Marco_VERRATTI,Salvatore_SIRIGU,Antonio_CANDREVA,Ciro_IMMOBILE,Daniele_DE_ROSSI,Ignazio_ABATE,Andrea_BARZAGLI,Matteo_DARMIAN,Andrea_PIRLO,Antonio_CASSANO,Mattia_DE_SCIGLIO,EDER,Gianluigi_BUFFON
+<Q> which soccer club is based in Italy ?
+<R> Torino_FC,AS_Roma,Juventus_FC,US_Citta_di_Palermo,Calcio_Catania,Genoa_CFC,Parma_FC,Bologna_FC,US_Sassuolo,SS_Lazio,Atalanta_Bergamo,Cagliari_Calcio,Udinese_Calcio,AC_Milan,SSC_Napoli,Hellas_Verona_FC,ACF_Fiorentina,AS_Livorno,FC_Internazionale
+<Q> where is the football club that Gonzalo_HIGUAIN plays for ?
+<R> Italy
+<Q> which professional foootball team has a player from Italy ?
+<R> Torino_FC,AS_Roma,Juventus_FC,US_Citta_di_Palermo,Calcio_Catania,Genoa_CFC,Parma_FC,Bologna_FC,US_Sassuolo,SS_Lazio,Atalanta_Bergamo,Cagliari_Calcio,Udinese_Calcio,AC_Milan,SSC_Napoli,Hellas_Verona_FC,ACF_Fiorentina,AS_Livorno,FC_Internazionale
+<Q> which professional football team does Oribe_PERALTA play for ?
+<R> Club_Santos_Laguna
+<Q> what position does Oribe_PERALTA play ?
+<R> Forward
+<Q> what is the age of Oribe_PERALTA ?
+<R> 30
+<Q> what number does Oribe_PERALTA wear ?
+<R> 19
+<Q> which national team does Oribe_PERALTA play for ?
+<R> Mexico
+<Q> which country is the soccer team Club_Santos_Laguna based in ?
+<R> Mexico
+<Q> who plays at the soccer club Club_Santos_Laguna ?
+<R> Oribe_PERALTA
+<Q> which player is from Mexico ?
+<R> Raul_JIMENEZ,Oribe_PERALTA,Paul_AGUILAR,Alfredo_TALAVERA,Miguel_LAYUN,Carlos_PENA,Diego_REYES,Javier_AQUINO,Miguel_PONCE,Andres_GUARDADO,Giovani_DOS_SANTOS,Marco_FABIAN,Javier_HERNANDEZ,Carlos_SALCIDO,Isaac_BRIZUELA,Hector_HERRERA,Hector_MORENO,Guillermo_OCHOA,Jose_CORONA,Rafael_MARQUEZ
+<Q> name a soccer club in Mexico ?
+<R> CF_Pachuca,Deportivo_Toluca_FC,Tigres_UANL,Cruz_Azul_FC,Atlante_FC,Club_Tijuana,CA_Monarcas_Morelia,Club_America,Club_Leon,Puebla_FC,CF_Monterrey,Club_Santos_Laguna
+<Q> which country does Oribe_PERALTA play professional in ?
+<R> Mexico
+<Q> which football club does Islam_SLIMANI play for ?
+<R> Sporting_CP
+<Q> what position does Islam_SLIMANI play ?
+<R> Forward
+<Q> how old is Islam_SLIMANI ?
+<R> 26
+<Q> what is the jersey number of Islam_SLIMANI ?
+<R> 13
+<Q> which national team does Islam_SLIMANI play for ?
+<R> Algeria
+<Q> which country is the soccer team Sporting_CP based in ?
+<R> Portugal
+<Q> who is from the professional football team Sporting_CP ?
+<R> WILLIAM,Marcos_ROJO,RUI_PATRICIO,Islam_SLIMANI
+<Q> which player is from Portugal ?
+<R> RAUL_MEIRELES,RUBEN_AMORIM,JOAO_PEREIRA,RICARDO_COSTA,MIGUEL_VELOSO,CRISTIANO_RONALDO,RAFA,BRUNO_ALVES,NANI,JOAO_MOUTINHO,PEPE,LUIS_NETO,ANDRE_ALMEIDA,VIEIRINHA,FABIO_COENTRAO,RUI_PATRICIO,BETO,HELDER_POSTIGA,HUGO_ALMEIDA
+<Q> name a soccer club in Portugal ?
+<R> Sporting_CP,Sporting_Covilha,FC_Porto,Sporting_Braga,Academica_Coimbra,SL_Benfica
+<Q> which country does Islam_SLIMANI play professional in ?
+<R> Portugal
+<Q> which professional football team do players from Portugal play for ?
+<R> Sporting_CP,Sporting_Covilha,FC_Porto,Sporting_Braga,Academica_Coimbra,SL_Benfica
+<Q> which club does Miroslav_KLOSE play for ?
+<R> SS_Lazio
+<Q> what position does Miroslav_KLOSE play ?
+<R> Forward
+<Q> how old is Miroslav_KLOSE ?
+<R> 36
+<Q> what number does Miroslav_KLOSE wear ?
+<R> 11
+<Q> which country is Miroslav_KLOSE from ?
+<R> Germany
+<Q> which country is the soccer team SS_Lazio based in ?
+<R> Italy
+<Q> who is from the professional football team SS_Lazio ?
+<R> Senad_LULIC,Antonio_CANDREVA,Ogenyi_ONAZI,HELDER_POSTIGA,Lucas_BIGLIA,Alvaro_GONZALEZ,Miroslav_KLOSE
+<Q> where is the football club that Miroslav_KLOSE plays for ?
+<R> Italy
+<Q> which professional football team does Robin_VAN_PERSIE play for ?
+<R> Manchester_United_FC
+<Q> what position does Robin_VAN_PERSIE play ?
+<R> Forward
+<Q> what is the age of Robin_VAN_PERSIE ?
+<R> 30
+<Q> what is the jersey number of Robin_VAN_PERSIE ?
+<R> 9
+<Q> which country is Robin_VAN_PERSIE from ?
+<R> Netherlands
+<Q> who plays professionally at Manchester_United_FC ?
+<R> Phil_JONES,Marouane_FELLAINI,Chris_SMALLING,Shinji_KAGAWA,David_DE_GEA,Antonio_VALENCIA,Javier_HERNANDEZ,Robin_VAN_PERSIE,Patrice_EVRA,Juan_MATA,NANI,Wayne_ROONEY,Adnan_JANUZAJ,Danny_WELBECK
+<Q> which country does Robin_VAN_PERSIE play professional in ?
+<R> England
+<Q> which football club does Shinji_OKAZAKI play for ?
+<R> FSV_Mainz_05
+<Q> what position does Shinji_OKAZAKI play ?
+<R> Forward
+<Q> what is the age of Shinji_OKAZAKI ?
+<R> 28
+<Q> what is the jersey number of Shinji_OKAZAKI ?
+<R> 9
+<Q> what is the nationality of Shinji_OKAZAKI ?
+<R> Japan
+<Q> which country is the soccer team FSV_Mainz_05 based in ?
+<R> Germany
+<Q> who plays at the soccer club FSV_Mainz_05 ?
+<R> PARK_Jooho,Junior_DIAZ,Shinji_OKAZAKI,Eric_CHOUPO_MOTING,KOO_Jacheol
+<Q> who is from Germany ?
+<R> Lukas_PODOLSKI,Marco_REUS,Toni_KROOS,Bastian_SCHWEINSTEIGER,Erik_DURM,Manuel_NEUER,Mario_GOETZE,Sami_KHEDIRA,Andre_SCHUERRLE,Benedikt_HOEWEDES,Christoph_KRAMER,Mats_HUMMELS,Jerome_BOATENG,Roman_WEIDENFELLER,Matthias_GINTER,Paul_VERHAEGH,Thomas_MUELLER,Mesut_OEZIL,Philipp_LAHM,Ron-Robert_ZIELER,Per_MERTESACKER,Julian_DRAXLER,Miroslav_KLOSE,Kevin_GROSSKREUTZ
+<Q> which country does Shinji_OKAZAKI play professional in ?
+<R> Germany
+<Q> which prefessional football team does Luis_SUAREZ play for ?
+<R> Liverpool_FC
+<Q> what position does Luis_SUAREZ play ?
+<R> Forward
+<Q> what is the age of Luis_SUAREZ ?
+<R> 27
+<Q> what is the jersey number of Luis_SUAREZ ?
+<R> 9
+<Q> which national team does Luis_SUAREZ play for ?
+<R> Uruguay
+<Q> which country is the soccer team Liverpool_FC based in ?
+<R> England
+<Q> name a player from Liverpool_FC ?
+<R> Daniel_STURRIDGE,Luis_SUAREZ,Raheem_STERLING,Steven_GERRARD,Kolo_TOURE,Jordan_HENDERSON,Simon_MIGNOLET,Victor_MOSES,Mamadou_SAKHO,Glen_JOHNSON
+<Q> name a player from England ?
+<R> Frank_LAMPARD,Gary_CAHILL,Joe_HART,Danny_WELBECK,Ross_BARKLEY,Wayne_ROONEY,Phil_JAGIELKA,Leighton_BAINES,Alex_OXLADE_CHAMBERLAIN,Luke_SHAW,Raheem_STERLING,Rickie_LAMBERT,Phil_JONES,Jack_WILSHERE,Ben_FOSTER,Chris_SMALLING,Jordan_HENDERSON,Adam_LALLANA,Daniel_STURRIDGE,Steven_GERRARD,Glen_JOHNSON,James_MILNER,Fraser_FORSTER
+<Q> which country does Luis_SUAREZ play professional in ?
+<R> England
+<Q> which professional foootball team has a player from England ?
+<R> Wigan_Athletic_FC,Watford_FC,Aston_Villa_FC,Swindon_Town_FC,Preston_North_End_FC,Stoke_City_FC,Tottenham_Hotspur_FC,Nottingham_Forest_FC,Charlton_Athletic_FC,Swansea_City_AFC,Newcastle_United_FC,Queens_Park_Rangers_FC,West_Ham_United_FC,Crystal_Palace_FC,Manchester_United_FC,Hull_City_FC,Cardiff_City_FC,Fulham_FC,Everton_FC,Chelsea_FC,Norwich_City_FC,Liverpool_FC,Leicester_City_FC,Southampton_FC,Arsenal_FC,Bolton_Wanderers_FC,Middlesbrough_FC,West_Bromwich_Albion_FC,Sunderland_AFC,Manchester_City_FC
+<Q> which football club does FRED play for ?
+<R> Fluminense_FC
+<Q> what position does FRED play ?
+<R> Forward
+<Q> what is the age of FRED ?
+<R> 30
+<Q> what number does FRED wear ?
+<R> 9
+<Q> which national team does FRED play for ?
+<R> Brazil
+<Q> which country is the soccer team Fluminense_FC based in ?
+<R> Brazil
+<Q> who is from the professional football team Fluminense_FC ?
+<R> FRED
+<Q> who plays for the Brazil national football team ?
+<R> JULIO_CESAR,WILLIAN,JO,BERNARD,HENRIQUE,OSCAR,DANTE,DANI_ALVES,PAULINHO,MAXWELL,JEFFERSON,HULK,DAVID_LUIZ,NEYMAR,WILLIAM,RAMIRES,LUIZ_GUSTAVO,FERNANDINHO,EDUARDO_1,HERNANES,THIAGO_SILVA,MAICON,FRED,MARCELO
+<Q> which soccer club is based in Brazil ?
+<R> Palmeiras,Fluminense_FC,CR_Vasco_da_Gama,SC_Internacional,Santos_FC,Botafogo_FR,Sao_Paulo_FC,CR_Flamengo,Atletico_Mineiro
+<Q> which country does FRED play professional in ?
+<R> Brazil
+<Q> which professional football team do players from Brazil play for ?
+<R> Palmeiras,Fluminense_FC,CR_Vasco_da_Gama,SC_Internacional,Santos_FC,Botafogo_FR,Sao_Paulo_FC,CR_Flamengo,Atletico_Mineiro
+<Q> which football club does Eric_CHOUPO_MOTING play for ?
+<R> FSV_Mainz_05
+<Q> what position does Eric_CHOUPO_MOTING play ?
+<R> Forward
+<Q> what is the age of Eric_CHOUPO_MOTING ?
+<R> 25
+<Q> what number does Eric_CHOUPO_MOTING wear ?
+<R> 13
+<Q> which country is Eric_CHOUPO_MOTING from ?
+<R> Cameroon
+<Q> where is the football club that Eric_CHOUPO_MOTING plays for ?
+<R> Germany
+<Q> which prefessional football team does Fabian_SCHAER play for ?
+<R> FC_Basel
+<Q> what position does Fabian_SCHAER play ?
+<R> Defender
+<Q> how old is Fabian_SCHAER ?
+<R> 22
+<Q> what number does Fabian_SCHAER wear ?
+<R> 22
+<Q> what is the nationality of Fabian_SCHAER ?
+<R> Switzerland
+<Q> which country is the soccer team FC_Basel based in ?
+<R> Switzerland
+<Q> who plays professionally at FC_Basel ?
+<R> Fabian_SCHAER,Valentin_STOCKER,Marcelo_DIAZ,Die_SEREY,Giovanni_SIO,Yann_SOMMER
+<Q> who is from Switzerland ?
+<R> Granit_XHAKA,Diego_BENAGLIO,Valon_BEHRAMI,Ricardo_RODRIGUEZ,Admir_MEHMEDI,Haris_SEFEROVIC,Steve_VON_BERGEN,Fabian_SCHAER,Yann_SOMMER,Gokhan_INLER,Johan_DJOUROU,Xherdan_SHAQIRI,Gelson_FERNANDES,Valentin_STOCKER,Blerim_DZEMAILI,Josip_DRMIC,Stephan_LICHTSTEINER,Francisco_RODRIGUEZ,Roman_BUERKI,Reto_ZIEGLER,Philippe_SENDEROS,Tranquillo_BARNETTA,Michael_LANG,Mario_GAVRANOVIC
+<Q> name a player who plays Defender ?
+<R> Juan_MONTES,Joel_VELTMAN,Ricardo_RODRIGUEZ,JOAO_PEREIRA,Nicolas_NKOULOU,Mamadou_SAKHO,Rafael_MARQUEZ,Jean_Daniel_AKPA,Michael_LANG,Rafik_HALLICHE,Gordon_SCHILDENFELD,Jose_GIMENEZ,Phil_JONES,PARK_Jooho,Luke_SHAW,Benedikt_HOEWEDES,Oscar_DUARTE,Emir_SPAHIC,Vasileios_TOROSIDIS,Aissa_MANDI,Osman_CHAVEZ,Sokratis_PAPASTATHOPOULOS,Vangelis_MORAS,Pablo_ZABALETA,Andrey_ESHCHENKO,Philippe_SENDEROS,JUANFRAN,Reto_ZIEGLER,Dmitry_KOMBAROV,Diego_GODIN,Federico_FERNANDEZ,Didier_ZOKORA,Thomas_VERMAELEN,Harrison_AFFUL,Maximiliano_PEREIRA,Terence_KONGOLO,Erik_DURM,Joseph_YOBO,Victor_BERNARDEZ,Bacary_SAGNA,Liassine_CADAMURO,Gabriel_PALETTA,Gary_MEDEL,Carl_MEDJANI,Cristian_GAMBOA,FABIO_COENTRAO,Geoff_CAMERON,Jan_VERTONGHEN,Masato_MORISHIGE,Ryan_McGOWAN,Maynor_FIGUEROA,Efe_AMBROSE,Martin_DEMICHELIS,Juwon_OSHANIWA,Matteo_DARMIAN,Sebastian_COATES,KIM_Younggwon,Vincent_KOMPANY,Loukas_VYNTRA,Mats_HUMMELS,HWANG_Seokho,RICARDO_COSTA,Andrea_BARZAGLI,Toby_ALDERWEIRELD,Raul_ALBIOL,Azubuike_EGWUEKWE,Laurent_KOSCIELNY,Laurent_CIMAN,Henri_BEDIMO,Matt_BESLER,Madjid_BOUGUERRA,PEPE,Michael_UMANA,DaMarcus_BEASLEY,Hiroki_SAKAI,Martin_CACERES,Jorge_GUAGUA,Andrey_SEMENOV,Amirhossein_SADEGHI,Sergio_RAMOS,THIAGO_SILVA,Aleksei_KOZLOV,Mattia_DE_SCIGLIO,Oscar_BAGUI,Santiago_ARIAS,Fabian_JOHNSON,Gonzalo_JARA,Djamel_MESBAH,Toni_SUNJIC,Daley_BLIND,Hugo_CAMPAGNARO,Johnny_ACOSTA,Rashid_SUMAILA,Konstantinos_MANOLAS,Paul_VERHAEGH,Giancarlo_GONZALEZ,Atsuto_UCHIDA,Bailey_WRIGHT,Ivan_FRANJIC,Anthony_VANDEN_BORRE,Jerome_BOATENG,Mauricio_ISLA,Juan_PAREDES,DANI_ALVES,LEE_Yong,Daryl_JANMAAT,Cedric_DJEUGOUE,Mehrdad_POOLADI,Pablo_ARMERO,Benoit_ASSOU_EKOTTO,Andres_GUARDADO,Giorgio_CHIELLINI,HONG_Jeongho,BRUNO_ALVES,Cristian_ZAPATA,Ahmad_ALNAMEH,Kevin_GROSSKREUTZ,Vladimir_GRANAT,Vasily_BEREZUTSKIY,Daniel_VAN_BUYTEN,Georgy_SHCHENNIKOV,Sead_KOLASINAC,Miguel_LAYUN,Miguel_PONCE,Jordi_ALBA,John_BOYE,Godfrey_OBOABONA,Ezequiel_GARAY,Paul_AGUILAR,Jason_DAVIDSON,Allan_NYOM,Uwa_ECHIEJILE,Timmy_CHANDLER,Serge_AURIER,Kenneth_OMERUO,Kolo_TOURE,Juan_ZUNIGA,Constant_DJAKPA,MARCELO,DeAndre_YEDLIN,Junior_DIAZ,Ousmane_DIARRASSOUBA,Danijel_PRANJIC,Gerard_PIQUE,Daniel_OPARE,Raphael_VARANE,Jalal_HOSSEINI,Roy_MILLER,Francisco_RODRIGUEZ,Miiko_ALBORNOZ,Stephan_LICHTSTEINER,Georgios_TZAVELAS,Pejman_MONTAZERI,Leighton_BAINES,Diego_REYES,KWAK_Taehwi,Stefan_DE_VRIJ,Yasuyuki_KONNO,Per_MERTESACKER,Hossein_MAHINI,Gabriel_ACHILIER,Ermin_BICAKCIC,Marcos_ROJO,LUIS_NETO,Ignazio_ABATE,Darijo_SRNA,Nicolas_LOMBAERTS,Chris_SMALLING,MAXWELL,Vedran_CORLUKA,Gotoku_SAKAI,Patrice_EVRA,Alex_WILKINSON,Juan_Carlos_GARCIA,Maya_YOSHIDA,Jorge_FUCILE,Bruno_MARTINS_INDI,Omar_GONZALEZ,Carlos_VALDES,Phil_JAGIELKA,Jose_CHOLEVAS,Hector_MORENO,Diego_LUGANO,Heiner_MORA,YUN_Sukyoung,Faouzi_GHOULAM,Eugenio_MENA,John_BROOKS,Ebenezer_ODUNLAMI,Waylon_FRANCIS,Johan_DJOUROU,DANTE,Esseid_BELKALEM,Eder_BALANTA,Domagoj_VIDA,Steven_BEITASHOUR,Sime_VRSALJKO,Dany_NOUNKEU,Brayan_BECKELES,Carlos_SALCIDO,Dejan_LOVREN,Mario_YEPES,Souleymane_BAMBA,Yuto_NAGATOMO,Gary_CAHILL,MAICON,Glen_JOHNSON,Lucas_DIGNE,Leonardo_BONUCCI,Arthur_BOKA,Masahiko_INOHA,Jose_ROJAS,Aurelien_CHEDJOU,Steve_VON_BERGEN,Mathieu_DEBUCHY,ANDRE_ALMEIDA,KIM_Changsoo,Matthias_GINTER,Ognjen_VRANJES,Fabian_SCHAER,DAVID_LUIZ,Jonathan_MENSAH,Ron_VLAAR,Jose_Maria_BASANTA,HENRIQUE,Frickson_ERAZO,Matthew_SPIRANOVIC,Samuel_INKOOM,Eliaquim_MANGALA,Sergey_IGNASHEVICH
+<Q> name a soccer club in Switzerland ?
+<R> FC_Basel,Grasshopper_Club,FC_Zuerich,FC_Luzern,FC_Sion,BSC_Young_Boys
+<Q> which country does Fabian_SCHAER play professional in ?
+<R> Switzerland

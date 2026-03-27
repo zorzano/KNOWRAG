@@ -1,0 +1,11 @@
+[CONFIG]
+QuestionsFile = /home/ubuntu/repo/rag/common/questions.txt
+OutputFile = /home/ubuntu/repo/rag/C002/output.txt
+ResultFile = /home/ubuntu/repo/rag/C002/result.txt
+LLMModel = ft:gpt-4o-mini-2024-07-18:javier-zorzano:irn:CXQbFEMC
+KG = No
+nHitsKG=1
+extractTerms=0
+nLoopsExtra=0
+extractLoopTerms=0
+askIsQuestion=False

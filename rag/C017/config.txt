@@ -1,0 +1,11 @@
+[CONFIG]
+QuestionsFile = /home/ubuntu/repo/rag/common/questions.txt
+OutputFile = /home/ubuntu/repo/rag/C017/output.txt
+ResultFile = /home/ubuntu/repo/rag/C017/result.txt
+LLMModel = gpt-4o-2024-11-20
+KG = Yes
+nHitsKG=5
+extractTerms=5
+nLoopsExtra=3
+extractLoopTerms=5
+askIsQuestion=False

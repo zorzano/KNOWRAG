@@ -1,0 +1,15 @@
+﻿Headers;;;;;;;;
+N;ProcessA;name;Protestar;text;Aquí se viene ya llorado de casa.;;;
+N;Service;name;NB-IoT;text;openai#Describe tecnicamente NB-IoT;;;
+N;Service;name;LTE-M;text;openai#Describe tecnicamente LTE-M;;;
+N;Service;name;Cat1;text;openai#Describe tecnicamente LTE Cat1;;;
+N;Service;name;4G;text;openai#Describe tecnicamente 4G;;;
+N;Service;name;5G;text;openai#Describe tecnicamente 5G;;;
+N;Service;name;Communications;;;;;
+N;Person;name;Gordopilo;text;Soy Gordopilo v2.0. RAG autentico, pasando la respuesta por el LLM;;;
+R;WorksFor;Person;name;Gordopilo;->;Organization;name;Telefonica
+R;serviceType;Service;name;NB-IoT;->;Service;name;Communications
+R;serviceType;Service;name;LTE-M;->;Service;name;Communications
+R;serviceType;Service;name;Cat1;->;Service;name;Communications
+R;serviceType;Service;name;4G;->;Service;name;Communications
+R;serviceType;Service;name;5G;->;Service;name;Communications

@@ -1,0 +1,5 @@
+﻿"Id";"Customer";"Manufacturer";"Model";"Device_mode";"Device_type";"Device_use_case";"Price";"URL";"Geo";"Contact";"email_Contact";"TEF_Contact";"email_TEF_Contact";"TEF_OB";"Source";"User"
+"1";"";"7p";"";"";"Tracker ";"Flight Dig IO ";"";"https://www.7pgps.com/";"USA";"xxx";"xxx@7pgps.com;yyy@7pgps.com";"Persona";"persona@telefonica.com";"";"";"persona"
+"2";"";"AAEON";"";"";"Router/gw ";"Industrial VPN-Sec ";"";"https://www.aaeon.com/";"Taiwan";"Persona";"Persona@aaeon.eu";"Javier Zorzano";"franciscojavier.zorzanomier@telefonica.com";"";"";"operador"
+"3";"ABB";"ABB";"M19-3G";"END DEVICE";"";"";"";"https://new.abb.com/es";"Spain";"";"";"";"";"";"TTECH IoT&BD";"operador"
+"4";"";"Accent";"TRK-230";"END DEVICE";"Tracker ";"Asset ";"";"https://accent-systems.com/";"Spain";"Persona";"persona@accent-systems.com";"Contacto TEF";"";"";"TTECH Asset Tracking Product";"operador"

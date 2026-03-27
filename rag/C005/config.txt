@@ -1,0 +1,11 @@
+[CONFIG]
+QuestionsFile = /home/ubuntu/repo/rag/common/questions.txt
+OutputFile = /home/ubuntu/repo/rag/C005/output.txt
+ResultFile = /home/ubuntu/repo/rag/C005/result.txt
+LLMModel = None
+KG = Yes
+nHitsKG=1
+extractTerms=5
+nLoopsExtra=0
+extractLoopTerms=0
+askIsQuestion=False

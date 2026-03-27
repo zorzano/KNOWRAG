@@ -1,0 +1,401 @@
+<Q> ¿Como se reserva una plaza de parking?
+<R> office.assistant.tech@telefonica.com
+<Q>¿Donde puedo ver la organización del grupo?
+<R>Puedo verla en en https://telefonicacorp.sharepoint.com/:p:/s/TechTechTech.TMHSG/EXi5pjBcUUJFiOyj3wiy5o8ByFnQ2QdBLxq55XjItkGI0w
+<Q>¿Donde puedo ver mis beneficios?
+<R>Mi Compensación: https://micompensacion.com/DefaultPageXHTML.aspx?pid3D3252862
+<Q>¿Donde puedo ver mi compensación?
+<R>Mi Compensación: https://micompensacion.com/DefaultPageXHTML.aspx?pid3D3252862
+<Q>¿Como se usan las listas de correo?
+<R>Las listas son listas de correos. Los buzones genéricos son un correo asociado a personas. Los buzones no personales son un buzón con contraseña a la que se accede como si fuese un correo personal.
+<Q>¿Como se hace un NDA?
+<R>Petición de datos legales a la contraparte.
+Plantilla de NDA https://telefonicacorp.sharepoint.com/:w:/s/IoTDevices.TMEHI/EXyBfRTO2lVFva4L_wJW4eUB8Da8yMH-j9Bp00B_18Z9zQ?e3DMDpZvP
+Enviar a Sonia Serrano
+<Q>¿Donde encuentro la Wish-list y recomendaciones para fabricantes de chipsets y módulos?
+<R>En https://telefonicacorp.sharepoint.com/:w:/s/IoTDevices.TMEHI/EZRh_-nsFq9OjGAu4zb1GQMBnLUD4cwPd0Va-oTuSqLL7g?e3D83NGdd
+<Q>¿Donde encuentro la web de módulos certificados?
+<R>https://okapi.telefonica.com/iot_modules
+<Q>¿Donde encuentro la lista de módulos certificados?
+<R>https://okapi.telefonica.com/iot_modules
+<Q>¿Donde están los módulos certificados?
+<R>https://okapi.telefonica.com/iot_modules
+<Q>¿Como se gestionan las nuevas capacidades tecnológicas?
+<R>Con la tabla de nuevas tecnologías y proceso de adopción.
+https://telefonicacorp.sharepoint.com/:x:/s/TechTechTech.TMHSG/EVGrgS6kHw1NtoknZM8ncSEBSUedqkegjTdT0qjpBeoCYQ?e3DxxOFVe
+En ella se seleccionan 1-2 activas en cada momento. También se describe el entregable esperado.
+<Q>¿Cómo se consiguen SIMs para pruebas?
+<R>SIMs para pruebas y demos:
+SIMs de cartón. En general el proyecto compra sus SIMs. Si es desarrollo de producto se las pueden pedir a Conectividad (Juan Ignacio Jimenez Martin o a quien
+redirija). Tenemos alguna en el laboratorio que empleamos, exclusivamente, en nuestro trabajo.
+SIMs soldadas. El pack mínimo de SIMs soldadas es muy grande para un proyecto, y nosotros tenemos un batch muy grande que si no se usa se estropeará. Para usarlas en un proyecto o demo hay que organizar con Test&Labs que se cambien a la cuenta de Kite del Cliente (Kite Pais o Global) o del Producto (Kite Global)
+<Q>¿Que hacer en caso Crisis?
+<R>
+- Formar equipo gestor de crisis: un director, un &quot;jefe de proyecto&quot; o coordinador, abogado, comunicaciones, otros (con roles).
+- Informar al equipo, prevenir de horarios extraordinarios. Demandar discreción en la comunicación externa.
+- Crear y compartir un repositorio de información. Y en él un documento que resuma lo que ha pasado, lo que se sospecha, lo que se sabe y porque se sabe, y lo que se va a hacer.
+- Establecer horarios de reunion, irán variando desde 2/dia a 1/semana.
+- Documento con explicación oficial a distintos stakeholders, incluyendo roleplaying y preguntas/respuestas.
+- Obtener y recopilar datos duros.
+- Diferenciar planes paliativos (corto plazo) y solución (evitar repeticiones futuras)
+- Aplicar valores de la empresa, especialmente transparencia, trabajo en equipo...
+<Q>¿Como se abren tickets en ServiceNow?
+<R>ServiceNow es la gran herramienta para gestión de tickets de IT y producción. https://telefonica1.service-now.com/sp
+Está documentado en https://telefonicacorp.sharepoint.com/:b:/s/TechTechTech.TMHSG/EZi-a2Qu1TRNp8gYQfQI_30B7tqw7BB2X97-uV2CfEPQ6w?e3D8QTcOs (Guía básica para la creación de tickets) 
+y https://telefonicacorp.sharepoint.com/:b:/s/TechTechTech.TMHSG/EZj-RDNz5tFInlmv9hdS1eoBiEW6AuQ0fgJ_9Y6rChQ2NQ?e3DjFbYKW (Manual Servicenow para Catálogo de Servicios IT)
+<Q>¿Como se abren tickets?
+<R>ServiceNow es la gran herramienta para gestión de tickets de IT y producción. https://telefonica1.service-now.com/sp
+Está documentado en https://telefonicacorp.sharepoint.com/:b:/s/TechTechTech.TMHSG/EZi-a2Qu1TRNp8gYQfQI_30B7tqw7BB2X97-uV2CfEPQ6w?e3D8QTcOs (Guía básica para la creación de tickets) 
+y https://telefonicacorp.sharepoint.com/:b:/s/TechTechTech.TMHSG/EZj-RDNz5tFInlmv9hdS1eoBiEW6AuQ0fgJ_9Y6rChQ2NQ?e3DjFbYKW (Manual Servicenow para Catálogo de Servicios IT)
+<Q>¿Donde está ServiceNow?
+<R>ServiceNow es la gran herramienta para gestión de tickets de IT y producción. https://telefonica1.service-now.com/sp
+Está documentado en https://telefonicacorp.sharepoint.com/:b:/s/TechTechTech.TMHSG/EZi-a2Qu1TRNp8gYQfQI_30B7tqw7BB2X97-uV2CfEPQ6w?e3D8QTcOs (Guía básica para la creación de tickets) 
+y https://telefonicacorp.sharepoint.com/:b:/s/TechTechTech.TMHSG/EZj-RDNz5tFInlmv9hdS1eoBiEW6AuQ0fgJ_9Y6rChQ2NQ?e3DjFbYKW (Manual Servicenow para Catálogo de Servicios IT)
+<Q>Horario de reuniones
+<R>Entre 09:30 y 18:00.
+<Q>¿Como se cambia de movil?
+<R>
+Pedir movil o renovar movil (2 años): mailto:moviles.iotbd@telefonica.com, copia a Sonia Andres Conde, sonia.andresconde@telefonica.com y al gerente del Ceco, rellenando la ficha https://telefonicacorp.sharepoint.com/:x:/s/TechTechTech.TMHSG/EWX8jls6w_NPk08dq4v4ae0BlFzNT8zO7VvyivObth3Hmw?e3DVJbQ6Y
+<Q>Cambio de movil
+<R>
+Pedir movil o renovar movil (2 años): mailto:moviles.iotbd@telefonica.com, copia a Sonia Andres Conde, sonia.andresconde@telefonica.com y al gerente del Ceco, rellenando la ficha https://telefonicacorp.sharepoint.com/:x:/s/TechTechTech.TMHSG/EWX8jls6w_NPk08dq4v4ae0BlFzNT8zO7VvyivObth3Hmw?e3DVJbQ6Y
+<Q>¿Como se obtiene una cuenta de correo?
+<R>
+- La lista es la más sencilla, se reune a un grupo de gente bajo un nombre y es similar a un buzón genérico, sirve para reenviar correos y que te lleguen correos
+- Los buzones genéricos son un correo asociado a personas, por ejemplo en el CAU tenemos el buzón CAU.IOTBD que podemos añadirnoslo el equipo de CAU donde nos llegan una serie de correos y podemos verlo e incluso responder en nombre del CAU
+- Los buzones no personales son los que más se parecen a un buzón de correo de siempre, es un buzón con contraseña a la que se accede como si fuese un correo personal, pero sin ir asociado a nadie, es decir la mayor diferencia entre uno genérico y uno no personal es que el el genérico va asociado a personas y el no personal se accede a él.
+<Q>¿Como se crea una lista de correo?
+<R>
+- La lista es la más sencilla, se reune a un grupo de gente bajo un nombre y es similar a un buzón genérico, sirve para reenviar correos y que te lleguen correos
+- Los buzones genéricos son un correo asociado a personas, por ejemplo en el CAU tenemos el buzón CAU.IOTBD que podemos añadirnoslo el equipo de CAU donde nos llegan una serie de correos y podemos verlo e incluso responder en nombre del CAU
+- Los buzones no personales son los que más se parecen a un buzón de correo de siempre, es un buzón con contraseña a la que se accede como si fuese un correo personal, pero sin ir asociado a nadie, es decir la mayor diferencia entre uno genérico y uno no personal es que el el genérico va asociado a personas y el no personal se accede a él.
+<Q>¿Como contacto con Registro Central?
+<R>
+Teléfono Registro Central: 91 482 84 59
+Sólo se registran envíos si vienen por mensajero tipo SEUR, si viene por Correos o por mensajero, lo dejan directamente en el casillero de la planta (el que hay a la entrada)
+<Q>¿Como se envia un paquete con mensajero?
+<R>
+ Escribir a: logistica.iotbd@telefonica.com siguiendo la plantilla adjunta abajo.
+ 
+Se genera un ticket general y pasan a recoger el envío.
+Preparar las cajas con etiquetas con la dirección y el número de teléfono del destinatario.
+En caso de retraso o incidencia su responsable es: Olga Rodriguez Fernandez
+Otros contactos en logística: Maria Soledad Grobas Silva y Laura Marques Laso
+DATOS RECOGIDA
+EMPRESA:
+DIRECCIÓN COMPLETA:
+CÓDIGO POSTAL:
+POBLACIÓN:
+PROVINCIA:
+PAÍS: España
+PERSONA DE CONTACTO Y TELÉFONO:
+INSTRUCCIONES DE RECOGIDA:
+
+DATOS DE ENTREGA
+EMPRESA:
+DIRECCIÓN COMPLETA:
+CÓDIGO POSTAL:
+POBLACIÓN:
+PROVINCIA:
+PAÍS: España
+PERSONA DE CONTACTO Y TELÉFONO:
+C.I.F O D.N.I DEL CLIENTE:
+INSTRUCCIONES DE ENTREGA:
+
+DATOS MERCANCÍA
+DIMENSIONES DEL PAQUETE:
+PESO:
+HORARIO DE RECOGIDA:
+DESCRIPCIÓN:
+VALOR:
+*Envíos internacionales: Obligatorio tipo de mercancía y su valor
+Cualquier otra incidencia contactar con logística.
+<Q>¿Como se envia un paquete?
+<R>
+ Escribir a: logistica.iotbd@telefonica.com siguiendo la plantilla adjunta abajo.
+ 
+Se genera un ticket general y pasan a recoger el envío.
+Preparar las cajas con etiquetas con la dirección y el número de teléfono del destinatario.
+En caso de retraso o incidencia su responsable es: Olga Rodriguez Fernandez
+Otros contactos en logística: Maria Soledad Grobas Silva y Laura Marques Laso
+DATOS RECOGIDA
+EMPRESA:
+DIRECCIÓN COMPLETA:
+CÓDIGO POSTAL:
+POBLACIÓN:
+PROVINCIA:
+PAÍS: España
+PERSONA DE CONTACTO Y TELÉFONO:
+INSTRUCCIONES DE RECOGIDA:
+
+DATOS DE ENTREGA
+EMPRESA:
+DIRECCIÓN COMPLETA:
+CÓDIGO POSTAL:
+POBLACIÓN:
+PROVINCIA:
+PAÍS: España
+PERSONA DE CONTACTO Y TELÉFONO:
+C.I.F O D.N.I DEL CLIENTE:
+INSTRUCCIONES DE ENTREGA:
+
+DATOS MERCANCÍA
+DIMENSIONES DEL PAQUETE:
+PESO:
+HORARIO DE RECOGIDA:
+DESCRIPCIÓN:
+VALOR:
+*Envíos internacionales: Obligatorio tipo de mercancía y su valor
+Cualquier otra incidencia contactar con logística.
+
+
+<Q>¿Como se sale del grupo?
+<R>
+- Comunicar al responsable
+- Comunicar a director
+- Comunicar a RRHH con mail a preguntanos_peopleiotbd@telefonica.com
+- Comunicar a colaboradores
+- Comunicar a cliente interno
+- Comunicar en reunion de lideres y al grupo en general
+- Sustitución:
+	- Comunicar/consultar a director
+	- Comunicar a saliente
+	- Comunicar/consultar a sustituto
+	- Comunicar a colaboradores
+	- Comunicar en reunion de lideres y al grupo en general
+	- Comunicar a preguntanos_peopleiotbd@telefonica.com
+
+
+<Q>Formación
+<R>
+Tenemos 3 niveles de formación:
+- uUnconference, primer miércoles de cada mes, para la gerencia
+- Formaciones del grupo de interés de IoT, para técnicos.
+- Formación para la empresa en general en tecnologías que hemos pasado a amarillo. En principio a través de una reunión con los Directores/Gerentes de Producto y Desarrollo de Negocio.
+Reflejar las formaciones recibidas o por recibir en la Excel general de control, en la pestaña de Formación
+<Q>Posibilidade de Formación
+<R>
+Tenemos 3 niveles de formación:
+- uUnconference, primer miércoles de cada mes, para la gerencia
+- Formaciones del grupo de interés de IoT, para técnicos.
+- Formación para la empresa en general en tecnologías que hemos pasado a amarillo. En principio a través de una reunión con los Directores/Gerentes de Producto y Desarrollo de Negocio.
+Reflejar las formaciones recibidas o por recibir en la Excel general de control, en la pestaña de Formación
+
+<Q>¿Que oportunidades hay de movilidad?
+<R>
+- SuccessFactors: Apartado “carrera profesional”. Si buscan por palabras clave, usar TECH y salen las que hay abiertas en todo TECH
+- https://www.linkedin.com/feed/update/urn:li:activity:7018899454074269696/ Linkedin Telefonica Tech
+- Telefonica Tech News (llega por mail cada dos semanas). Hay un apartado de vacantes
+- Workplace: https://telefonica.workplace.com/groups/716097322399406
+- Pagina de Telefonica Tech Tribe
+-Mails desde People Comms peopleiotbd.comms@telefonica.com
+
+<Q>¿Movilidad horizontal?
+<R>
+- SuccessFactors: Apartado “carrera profesional”. Si buscan por palabras clave, usar TECH y salen las que hay abiertas en todo TECH
+- https://www.linkedin.com/feed/update/urn:li:activity:7018899454074269696/ Linkedin Telefonica Tech
+- Telefonica Tech News (llega por mail cada dos semanas). Hay un apartado de vacantes
+- Workplace: https://telefonica.workplace.com/groups/716097322399406
+- Pagina de Telefonica Tech Tribe
+-Mails desde People Comms peopleiotbd.comms@telefonica.com
+
+<Q>¿Donde está la Web de Recursos Humanos?
+<R> https://telefonicacorp.sharepoint.com/sites/AIofThingsCampus.TMHSG/SitePages/Inicio.aspx
+<Q>¿Hay una web de Recursos Humanos?
+<R> Sí. Está en https://telefonicacorp.sharepoint.com/sites/AIofThingsCampus.TMHSG/SitePages/Inicio.aspx
+<Q>¿Donde está la Normativa del grupo Telefónica?
+<R> https://intranet.telefonica.com/normativa-grupo-telefonica/es/
+<Q>¿Donde está la Normativa de Telefónica?
+<R> https://intranet.telefonica.com/normativa-grupo-telefonica/es/
+<Q>¿Cuales son las normas de seguridad?
+<R>
+- No dejar dispositivos con batería cargando por las noches.
+- Mantener el orden. Mesas despejadas
+- Regletas y enchufes separados de otros objetos
+- Ni cables ni otros objetos en los pasillos.
+- Líquidos: no entrar con líquidos en recipientes abiertos (vasos, tazas) en el laboratorio.
+
+<Q>¿Donde puedo ver mi compensación?
+<R>Compensación flexible. https://www.micompensacion.com/
+<Q>¿Como se pide una baja de paternidad?
+<R>Procedimiento para bajas de paternidad/maternidad (bueno, no todo, la parte del embarazo se la curra cada uno) https://telefonicacorp.sharepoint.com/sites/AIofThingsCampus.TMHSG/Shared%20Documents/Forms/AllItems.aspx?id3D%2Fsites%2FAIofThingsCampus%2ETMHSG%2FShared%20Documents%2FConvenio%20Colectivo%2FMaternidad%20Paternidad%20y%20Lactancia%2Epdf&parent3D%2Fsites%2FAIofThingsCampus%2ETMHSG%2FShared%20Documents%2FConvenio%20Colectivo&p3Dtrue&ga3D1
+<Q>¿Como se pide taquilla?
+<R>ssgg.iotbd@telefonica.com
+<Q>¿Como se pide plaza de aparcamiento?
+<R>
+Parking: ssgg.iotbd@telefonica.com
+https://telefonicacorp.sharepoint.com/:b:/s/TechTechTech.TMHSG/EbRTP6qe-etJsFzFN3JD-z0BlzmDh2rQ8jpWv-T3rDBV-g?e3DqtoTsY Normas de uso
+
+<Q>¿Como se pide el uso de la Zona de café?
+<R>Uso zona de café: ssgg.iotbd@telefonica.com
+<Q>¿Reserva de salas?
+<R>Información general Distrito: https://2.intranet.telefonica/
+<Q>¿Como se reservan salas?
+<R>Información general Distrito: https://2.intranet.telefonica/
+
+<Q>¿Cual es la WiFi?
+<R>SSID: Movistar_697F Movistar_Plus_697F
+<Q>Recepción de albaranes
+<R>
+Se hace una foto al Albarán
+Carpeta para guardar la foto: 2 - Albarán
+Esta carpeta se divide por meses
+Estructura nombre del archivo: AñoMesDía_Empresa_nºAlbarán
+Se guarda la hoja en una funda de plástico en el cajón M2-C7. 
+En este caso también se divide por meses. Se puede utilizar la misma funda de plástico siempre y cuando se indique los meses que corresponde.
+Si alguno no sabe cual es el cajon correspondiente, podeis mirar el mapa del laboratorio esquema_lab 1.png
+<Q>¿Cual es el procedimiento de Recepción de albaranes?
+<R>
+Se hace una foto al Albarán
+Carpeta para guardar la foto: 2 - Albarán
+Esta carpeta se divide por meses
+Estructura nombre del archivo: AñoMesDía_Empresa_nºAlbarán
+Se guarda la hoja en una funda de plástico en el cajón M2-C7. 
+En este caso también se divide por meses. Se puede utilizar la misma funda de plástico siempre y cuando se indique los meses que corresponde.
+Si alguno no sabe cual es el cajon correspondiente, podeis mirar el mapa del laboratorio esquema_lab 1.png
+<Q>¿Como se recibe un albaran?
+<R>
+Se hace una foto al Albarán
+Carpeta para guardar la foto: 2 - Albarán
+Esta carpeta se divide por meses
+Estructura nombre del archivo: AñoMesDía_Empresa_nºAlbarán
+Se guarda la hoja en una funda de plástico en el cajón M2-C7. 
+En este caso también se divide por meses. Se puede utilizar la misma funda de plástico siempre y cuando se indique los meses que corresponde.
+Si alguno no sabe cual es el cajon correspondiente, podeis mirar el mapa del laboratorio esquema_lab 1.png
+<Q>¿Como se pide acceso fuera de horario laboral?
+<R>
+Solicitud de entrada fuera del horario laboral: Debe tramitar la petición a través del buzón de mantenimiento obrasymantenimiento.distritotelefonica@telefonica.com con CC a mailto:seguridaddistritotelefonica@telefonica.com
+Complementar y adjuntar plantilla Excel: https://telefonicacorp.sharepoint.com/:x:/r/sites/TechTechTech.TMHSG/Shared%20Documents/General/01_WikiDocs/Solicitud%20De%20Acceso%20Fuera%20De%20Horario%20Laboral%20Distrito%20Telefonica.xls?d3Dwfc4740311a46460292ab0a4a6432f3cb&csf3D1&web3D1&e3DUw0G3U
+Debe ir autorizado por un Gerente o Superior en copia.
+Los externos deben ir acompañados de personas de Telefonica.
+Teléfono 24h: 630 392 916
+<Q>¿Como obtengo una nueva Tarjeta Cheque Gourmet?
+<R>En caso de pérdida de Tarjeta Cheque Gourmet, llamar al teléfono de la aplicación de Cheque Gourmet (913 81 43 32) para que den de baja la tarjeta.
+Escribir a preguntanos_peopleiotbd@telefonica.com para pedir una tarjeta nueva.
+<Q>¿Como se pasan notas de gastos de taxi?
+<R>Se hace igual que los demás gastos. Seguir
+los pasos de este word: https://telefonicacorp.sharepoint.com/:w:/r/sites/TechTechTech.TMHSG/Shared%20Documents/General/01_WikiDocs/LIQUIDACIONES%20GASTOS%20DE%20VIAJE.docx
+<Q>¿Como se pasa un taxi?
+<R>Se hace igual que los demás gastos. Seguir
+los pasos de este word: https://telefonicacorp.sharepoint.com/:w:/r/sites/TechTechTech.TMHSG/Shared%20Documents/General/01_WikiDocs/LIQUIDACIONES%20GASTOS%20DE%20VIAJE.docx
+<Q>¿Como se compran SIMs de Kite?
+<R>
+En esta web se puede registrar en Kite ycomprar SIMs: https://conectividadiot.telefonicatech.com/
+<Q>SIMs de Kite
+<R>
+En esta web se puede registrar en Kite ycomprar SIMs: https://conectividadiot.telefonicatech.com/
+
+<Q>¿Que hago en caso de problemas médicos?
+<R>En caso de problemas médicos o de salud, dirigios al personas de seguridad de abajo (pendiente de una confirmación de RRHH)
+
+
+
+<Q> ¿Que hace Quectel?
+<R> Módulos
+<Q> ¿Que empresas hacen dispositivos de tracking?
+<R> 7p, Accent, Acetels, Ako, Askey, Ativa, Queclink, Benish, CalAmp, Cellocator/Pointer, Cloudcycle,Colombiatech,Jimi IoT (Concox),Conexiona,Crambo,Digimeciacom,Digital Matter,,DwiseTech,Ericsson,Everis,Ffly4you,Fibocom,Franklin,GCT,Gosuncn,Harman,Hongdian,Humanox,Inseego,Invoxia,Komobi,Lite On,Liteon,Livelink,Lytx,LX-Group,Maestro,Maestro/Lantronics,Meig,Micron,Microtronics,Mictrack,Mobiletek,Mobilogix,Mportal,Nabitrack,Neoway,Nimbelink,Odins,Oliver,OnAsset,OnSemi,Orbc,mm,Oviphone,Owasys,Paymarkfast,PCI,Positioning Universal,PSSystec,Queclink,Quuppa,,Rhomb.ioRinho,Ruptela,SAYME,Sercomm,Skypatrol,Sodaq,Sony,StalkIT,Suntech,Tatwah,TCL,Technoton,Teltonika,Tesacom,ThingsMatrix,,TrackimoTraksens,Ub,sense,WeWins,Williot,Witrac,Yepzon,Zebra,ZTE,Geotab,Meitrack,Orbcomm,Zebra,N4T
+<Q>¿Que contacto tiene Telefonica en Airdroid?
+<R>Bernardo Campillo
+<Q>¿Que hace Advantech?
+<R>Routers industriales
+<Q>¿De que pais es Brainalyzed?
+<R>UK
+<Q>¿Quien hace el dispositivo UC3552?
+<R>Monolitic
+<Q>¿que hace Telpo?
+<R>Cámaras
+<Q>¿Que contactos tiene Telefónica en Teldat?
+<R>jvidegain@teldat.com; jperez@teldat.com; flozano@teldat.com
+<Q>¿Que empresas hacen modems?
+<R>Compal,Four-Faith,Gemalto,Maestro,Maestro/Lantronics,Multitech,Robustel,Sierra Wireless,Siretta,Versasense,WNC
+<Q>¿Que hace Compal?
+<R>Compal hace routers, dongles RedCap y ofrece servicios de fabricación.
+<Q>¿De que pais es CEGASA?
+<R>España
+<Q>¿Que contacto tiene Telefónica en CEGASA?
+<R> Oscar Louro
+<Q>¿Que empresas ofrecen servicios de diseño UX?
+<R>Acid Tango,Capte,Cap Gemini,Comarch,Comarch,GFI,Idneo,Inspiralia,IoTSphere,LX-Group,PickData,Techsociety,Zyter
+<Q>¿En que empresa trabaja Mariana Vasconcelos?
+<R>En Agrosmart
+<Q>¿Que empresas tienen contacto con Kallitsa GEORGIOU SAVVIDOU?
+<R>En Dexory y Alisys Robotics
+<Q>¿Que hace Arrow?
+<R>Arrow ofrece servicios de diseño de electrónica, desarrollo de firmware, diseño industrial, fabricación, desarrollo de software en Azure y distribución de componentes.
+<Q>¿En que empresa trabaja Noemi Vargas?
+<R>En Anda.
+<Q>¿Que sabes de Antenova?
+<R>Es una empresa británica. Fabrica antenas. 
+<Q>¿Que hace Altair?
+<R>Chipsets de comunicaciones.
+<Q>¿De que pais es Altair?
+<R>De Israel
+<Q>¿Hace Amper dispositivos para control de tanques?
+<R>Sí
+<Q>¿Quien es el contacto de Telefónica en Avigilon?
+<R>Marco Alcoba
+<Q>¿Donde trabaja Richard Terrill?
+<R>En Blaize
+<Q>¿Cual es la direccion de correo electrónico de Richard Terrill?
+<R>richard.terrill@blaize.com
+<Q>¿Que hace BGHTechPartners?
+<R>Ofrece servicios de prototipado, diseño de electrónica, desarrollo de firmware y desarrollo de software.
+<Q>¿Que sabemos de Ruptela?
+<R>Ruptela es una empresa Lituana que fabrica trackers de vehículos, trackers de assets, OBDs para seguimiento de vehículos, dispositivos con entrada y salida digital y controladores de nivel de fuel de vehículos. El contacto en ella es Gabija Aladavičiūtė <gabija.aladaviciute@ruptela.lt>. En Telefónica el contacto es Alvaro Scandella Casado (alvaro.scandellacasado@telefonica.com).
+<Q>¿Que empresas conocemos que hacen módulos?
+<R>Cavli,Compal,Digi,Eseye,Fibocom,Geeksme,Gosuncn,Lantronix,Meig,Micron,Murata,Neoway,Nordic,Notion,Quectel,Rhomb.io,Seowon,Sierra Wireless,Simcom,Systech Corp,TD Tech,Telit,U-blox,Versasense,WNC,Sequans
+<Q>¿Que es el TRK-230?
+<R>Es un tracker de vehiculos fabricado por Accent.
+<Q>¿Que empresas conocemos de Canada?
+<R>Sierra Wireless y Geotab
+<Q>¿Que empresas conocemos de Murcia?
+<R>Odins
+<Q>¿Geotab ofrece servicios de desarrollo de software?
+<R>No
+<Q>¿Cuantas empresas conocemos que hagan productos para agricultura?
+<R>15
+<Q>¿Que empresas conocemos que hagan productos para agricultura?
+<R>Agrosmart,Ativa,Divirod,EIC Group,Everis,Four-Faith,IoTSens,IoTSphere,Kunak,LX-Group,mIoT/Captis,Odins,Tesacom,Vertical Green,CleverFarm
+<Q>¿Que persona de Telefonica conoce a Agrosmart?
+<R>J.Zorzano
+<Q>¿Que empresas conocemos que hagan relojes conectados?
+<R>GCT,Gomtel,Oviphone,Sony
+<Q>¿Que empresas conocemos que hagan detectores de goteo?
+<R>Heiman y Sercomm
+<Q>¿Heiman hace sensores PIR?
+<R>Sí
+<Q>¿Que tipos de wearables conocemos?
+<R>Watch, Kids watch, Kid tracker, Panic, Senior, Baby mon., Work clothes, Glasses,	Other
+<Q>¿Que es TVU?
+<R>Es una empresa china que hace cámaras.
+<Q>¿Sony es proveedor del servicio de Agro?
+<R>No
+<Q>¿Conocemos alguna empresa que haga ascensores?
+<R>Schindler/Tiesser
+<Q>¿Que versión del SARA R412 conocemos?
+<R>El módulo SARA R412M-02B
+<Q>¿Que dispositivos de Urbiotica conocemos?
+<R>SPM.1.1.1.0
+<Q>¿Que ofrece Macco Robotics?
+<R>Dispositivos de limpieza y robots
+<Q>¿Que empresas conocemos que hagan dongles?
+<R>Notion,TCL,Tosibox,WeWins
+<Q>¿Que contacto tiene Tosibox?
+<R>Gerald GRANGIS <gerald.grangis@tosibox.com>
+<Q>¿En que empresa trabaja Andres Navarro Vizcaino?
+<R>En Odins
+<Q>¿Que empresas conocemos que hagan dispositivos de Salud?
+<R>Inl4life, Tedcas,Wardoo
+<Q>¿Que empresas conocemos que hagan dispositivos de Health?
+<R>Inl4life, Tedcas,Wardoo
+<Q>¿Conocemos alguna compañía que se llame Sateliun?
+<R>No.
+
+
+
+
+
+
+
+
+

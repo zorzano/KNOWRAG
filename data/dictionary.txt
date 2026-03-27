@@ -1,0 +1,53 @@
+anoutput
+	aninput
+DigitalIO
+	Dig IO
+	Dig IO
+Social_distance
+	Social distance
+Work_clothes
+	Work clothes
+Med_energia
+	Med energia
+White_goods
+	White goods
+Control rem.
+	Control_rem.
+Air_quality
+	Air quality
+Tree_mgt
+	Tree mgt
+Asset_Mgt
+	Asset Mgt
+People_track
+	People track
+Indoor_pos
+	Indoor pos
+Image_recognition
+	Image recognition
+Hygiene_device
+	Hygiene device
+Power_lines
+	Power lines
+Mining_mach.
+	Mining mach.
+Pumps,_wells
+	Pumps, wells
+Indoor_Location
+	Indoor Location
+Rugg_phone
+	Rugg phone
+Network_analyzer
+	Network analyzer
+Arduino
+	"Arduino"
+Other_components
+	Other components
+IoT_Platf
+	IoT Platf
+Rapid_Prot
+	Rapid Prot
+Remote_management_platf
+	Remote management platf
+kkkkk
+	cierredefichero
