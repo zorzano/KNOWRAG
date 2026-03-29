@@ -198,18 +198,19 @@ Configurations specify:
 ---
 
 ## Data Availability
-
-### KITI dataset
-
-Due to privacy constraints, the KITI dataset included in this repository contains only a minimal subset of the original data.
-
-To reproduce the full experiments, please contact the repository owner.
-
----
+The file "Knowledge Graphs employed in the experiments.pdf" contains a description of the Knowledge Graphs structures.
 
 ### IRN dataset
 
-The IRN benchmark is publicly available and included (or reproducible from its original source).
+The corrected IRN benchmark is publicly available and included (or reproducible from its original source).
+
+---
+
+### KITI dataset
+
+Due to privacy constraints, the KITI dataset included in this repository contains only a subset of the original data.
+
+To reproduce the full experiments, please contact the repository owner.
 
 ---
 
