@@ -22,8 +22,7 @@ Experiments are conducted over:
 
 ```
 rag/
- ├── executeExperimentKITI.sh
- ├── executeExperimentIRN.sh
+ ├── run_experiments.sh
  ├── C0xx/                  # KITI experiments
  │    └── config.txt
  ├── C3xx/                  # IRN experiments
@@ -45,6 +44,7 @@ Each experiment is defined by a configuration file (`config.txt`) that specifies
 - Python 3.10
 - Neo4j (5.x recommended)
 - OpenAI API access
+- OpenRouter API access for LLama experiments
 
 ---
 
@@ -133,38 +133,44 @@ export OPENAI_API_KEY=your_api_key
 ### Grant execution permissions
 
 ```bash
-chmod +x rag/executeExperimentKITI.sh
-chmod +x rag/executeExperimentIRN.sh
+chmod +x data/loadbaseKITI.sh
+chmod +x data/loadbaseIRN.sh
+chmod +x rag/run_experiments.sh
 ```
 
 ---
 
-### Run KITI experiments
+### Run experiments. Pass experiments or range of experiments as parameters to script
 
 ```bash
-cd rag
-./executeExperimentKITI.sh
+cd data
+./loadbaseKITI.sh
+cd ../rag
+./run_experiments.sh C001-C017
+cd ../data
+./loadbaseIRN.sh
+cd ../rag
+./run_experiments.sh C301-C317
 ```
-
 ---
 
-### Run IRN experiments
+## Experiment configurations
 
-```bash
-cd rag
-./executeExperimentIRN.sh
-```
+C0xx - KITI experiments
+C3xx - IRN experiments
+
+C05x - KITI experiments adjusting the maximum number of iterations in C module loop
+C35x - IRN experiments adjusting the maximum number of iterations in C module loop
+
+C4xx - KITI experiments with Llama models, through Openrouter service
+C5xx - KITI experiments with Llama models, through Openrouter service
 
 ---
 
 ## What the scripts do
 
-Both scripts:
-
-1. Reset and reload the Neo4j database
-2. Execute all experiment configurations sequentially
-3. Collect results from each experiment
-4. Generate a final summary file:
+loadbasexxx.sh scripts reset and reload the Neo4j database.
+run_experiments.sh execute individual experiments or ranges of experiments
 
 ```
 out.txt
@@ -175,6 +181,20 @@ This file contains aggregated metrics such as:
 - Token usage
 - Execution time
 - Evaluation scores (1–5 scale)
+
+---
+
+## What the Python tools do
+```
+RAGCompileResults.py generates a general review of experiments results, that can be imported in a spreadsheet
+RAGComparePoll.py compares poll results (CSV file) with LLM-as-a-judge
+RAGAnova.py. Anova analysis of results
+RAGFriedmann.py. Friedmann analysis
+RAGJudgeFormGeneration.py generates a large list of question/answer pairs for human review
+RAGWilconxon. Wilcox analysis
+```
+
+Statistical analysis is executed on files C001017.results.txt and C301317.results.txt, compiled with the getThirdLine script from the output results.
 
 ---
 
@@ -197,8 +217,6 @@ Configurations specify:
 
 ---
 
-## Data Availability
-The file "Knowledge Graphs employed in the experiments.pdf" contains a description of the Knowledge Graphs structures.
 
 ### IRN dataset
 
@@ -243,12 +261,6 @@ python3 TestGordopiloDialog.py TestGordopiloDialog.test_02
   - API behavior
   - Dataset completeness (KITI full vs partial)
 - Token usage and execution time may vary
-
----
-
-## License
-
-(To be defined)
 
 ---
 
