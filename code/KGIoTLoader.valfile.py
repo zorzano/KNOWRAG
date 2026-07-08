@@ -1,28 +1,24 @@
 import sys
-from KGIoTDriverNeo4j import KGIoTDriverNeo4j
-from KGIoTSynonims import KGIoTSynonims
 import os
 import csv
 import time
 import argparse
-from KGIoTOpenAI import KGIoTOpenAI
-
-clientOpenAI = KGIoTOpenAI()
+from KGIoTSynonims import KGIoTSynonims
 
 fileFineTune = open("finetune.txt", 'a', encoding='utf-8')
-# Original templates for fine tuning
-templateOrganization = '{{"messages": [{{"role": "system", "content": "normal"}}, {{"role": "user", "content": "¿Que es {organization}?"}}, {{"role": "assistant", "content": "{organization} es una Organización"}}]}}\n' 
-templateProduct = '{{"messages": [{{"role": "system", "content": "normal"}}, {{"role": "user", "content": "¿Que es {product}?"}}, {{"role": "assistant", "content": "{product} es un Producto"}}]}}\n' 
-templateProductOrganization = '{{"messages": [{{"role": "system", "content": "normal"}}, {{"role": "user", "content": "¿Quien hace el {product}?"}}, {{"role": "assistant", "content": "{organization} fabrica el producto{product}"}}]}}\n'
-templateCountry = '{{"messages": [{{"role": "system", "content": "normal"}}, {{"role": "user", "content": "¿De que pais es {organization}?"}}, {{"role": "assistant", "content": "{organization} es de {country}"}}]}}\n'
-templateContact = '{{"messages": [{{"role": "system", "content": "normal"}}, {{"role": "user", "content": "¿Quien trabaja en {organization}?"}}, {{"role": "assistant", "content": "{contact} trabaja en {organization}"}}]}}\n'
-templateKnows = '{{"messages": [{{"role": "system", "content": "normal"}}, {{"role": "user", "content": "¿Quien conoce {organization}?"}}, {{"role": "assistant", "content": "{contact} tiene contacto con {organization}"}}]}}\n'
-templateProvidesService = '{{"messages": [{{"role": "system", "content": "normal"}}, {{"role": "user", "content": "¿Para que sirve {product}?"}}, {{"role": "assistant", "content": "{product} sirve para ofrecer el servicio de {service}"}}]}}\n'
-templateServiceFather = '{{"messages": [{{"role": "system", "content": "normal"}}, {{"role": "user", "content": "¿A que familia pertenece el servicio {service}?"}}, {{"role": "assistant", "content": "El servicio {service} está dentro de {father}"}}]}}\n'
-templateService = '{{"messages": [{{"role": "system", "content": "normal"}}, {{"role": "user", "content": "¿Que es {service}?"}}, {{"role": "assistant", "content": "{service} es un servicio o funcionalidad empleado al construir servicios IoT."}}]}}\n'
-templateWorksFor = '{{"messages": [{{"role": "system", "content": "normal"}}, {{"role": "user", "content": "¿Para quien trabaja {provider}?"}}, {{"role": "assistant", "content": "{provider} trabaja para {provided}."}}]}}\n'
-templateIsPartOf = '{{"messages": [{{"role": "system", "content": "normal"}}, {{"role": "user", "content": "¿Que es {son}?"}}, {{"role": "assistant", "content": "{son} es parte de {father}."}}]}}\n'
 
+# Templates for validation file
+templateOrganization = '{{"messages": [{{"role": "system", "content": "normal"}}, {{"role": "user", "content": "¿En una palabra, que es {organization}?"}}, {{"role": "assistant", "content": "Organización"}}]}}\n' 
+templateProduct = '{{"messages": [{{"role": "system", "content": "normal"}}, {{"role": "user", "content": "¿En una palabra, que es {product}?"}}, {{"role": "assistant", "content": "Producto"}}]}}\n' 
+templateProductOrganization = '{{"messages": [{{"role": "system", "content": "normal"}}, {{"role": "user", "content": "¿Quien hace el {product}? Di solo su nombre"}}, {{"role": "assistant", "content": "{organization}"}}]}}\n'
+templateCountry = '{{"messages": [{{"role": "system", "content": "normal"}}, {{"role": "user", "content": "¿De que pais es {organization}? Di solo su nombre"}}, {{"role": "assistant", "content": "{country}"}}]}}\n'
+templateContact = ''
+templateKnows = ''
+templateProvidesService = '{{"messages": [{{"role": "system", "content": "normal"}}, {{"role": "user", "content": "¿Que servicio ofrece {product}? Di solo su nombre"}}, {{"role": "assistant", "content": "{service}"}}]}}\n'
+templateServiceFather = '{{"messages": [{{"role": "system", "content": "normal"}}, {{"role": "user", "content": "Di el nombre de la familia a la que pertenece el servicio {service}"}}, {{"role": "assistant", "content": "{father}"}}]}}\n'
+templateService = ''
+templateWorksFor = '{{"messages": [{{"role": "system", "content": "normal"}}, {{"role": "user", "content": "Di en una palabra para quien trabaja {provider}?"}}, {{"role": "assistant", "content": "{provided}"}}]}}\n'
+templateIsPartOf = '{{"messages": [{{"role": "system", "content": "normal"}}, {{"role": "user", "content": "¿De que es parte {son}? Dilo en una palabra"}}, {{"role": "assistant", "content": "{father}."}}]}}\n'
 
 def printToFileFineTune(line):
     fileFineTune.write(line)
@@ -45,20 +41,13 @@ def loadZorzoFormatFirstTwoLines(f1, f2, kgiotdriver):
             if firstService==0:
                 firstService=i
             print("Creando servicio de nivel superior "+father)
-            kgiotdriver.mergeNode("Service:Searchable", [("name", father)])
-            vector=clientOpenAI.get_embedding(father)
-            kgiotdriver.addEmbeddings("Searchable", "name", father, "embedding", vector)
             printToFileFineTune(templateService.format(service=cleanForFineTune(father)))
 
         if f2[i]=="Platform":
             return f2, firstService, i
         if f2[i] != "" and father!="":
             print(f2[i]+"->"+father)
-            kgiotdriver.mergeNode("Service:Searchable", [("name", f2[i])])
             printToFileFineTune(templateService.format(service=f2[i]))
-            kgiotdriver.mergeLink("serviceType",[], "Service", [("name", f2[i])],  "Service", [("name", father)])
-            vector=clientOpenAI.get_embedding(f2[i])
-            kgiotdriver.addEmbeddings("Searchable", "name", f2[i], "embedding", vector)
             printToFileFineTune(templateServiceFather.format(service=cleanForFineTune(f2[i]), father=cleanForFineTune(father)))
 
     return f2, firstService, i
@@ -84,39 +73,21 @@ def loadZorzoFormat(args, kgiotsynonims, kgiotdriver):
             referenceProject=fields[157] #Temporarily not used
             if(manufacturer==""):
                 continue
-            kgiotdriver.mergeNode("Organization:Searchable", [("name", manufacturer),("url", url)])
-            kgiotdriver.addEmbeddings("Searchable", "name", manufacturer, "embedding", clientOpenAI.get_embedding(manufacturer))
-            printToFileFineTune(templateOrganization.format(organization=cleanForFineTune(manufacturer)))
-            
-            kgiotdriver.mergeNode("Product:Searchable", [("name", model)])
-            kgiotdriver.addEmbeddings("Searchable", "name", model, "embedding", clientOpenAI.get_embedding(model))
+            printToFileFineTune(templateOrganization.format(organization=cleanForFineTune(manufacturer)))            
             printToFileFineTune(templateProduct.format(product=cleanForFineTune(model)))
-            
-            kgiotdriver.mergeLink("manufacturer",[], "Organization", [("name", manufacturer),("url", url)], "Product", [("name", model)])
             printToFileFineTune(templateProductOrganization.format(product=cleanForFineTune(model), organization=cleanForFineTune(manufacturer)))
             
             if(geo!=""):
-                kgiotdriver.mergeNode("Country:Searchable", [("name", geo)])
-                kgiotdriver.addEmbeddings("Searchable", "name", geo, "embedding", clientOpenAI.get_embedding(geo))
-                kgiotdriver.mergeLink("nationality",[], "Organization", [("name", manufacturer),("url", url)], "Country", [("name", geo)])
                 printToFileFineTune(templateCountry.format(country=cleanForFineTune(geo), organization=cleanForFineTune(manufacturer)))
             if(contactname!=""):
-                kgiotdriver.mergeNode("Person:Searchable", [("name", contactname)])
-                kgiotdriver.addEmbeddings("Searchable", "name", contactname, "embedding", clientOpenAI.get_embedding(contactname))
-                kgiotdriver.mergeLink("WorksFor",[], "Person", [("name", contactname)],"Organization", [("name", manufacturer),("url", url)])
                 printToFileFineTune(templateContact.format(contact=cleanForFineTune(contactname), organization=cleanForFineTune(manufacturer)))
                 
             if(tefcontactname!=""):
-                kgiotdriver.mergeNode("Person:Searchable", [("name", tefcontactname)])
-                kgiotdriver.addEmbeddings("Searchable", "name", tefcontactname, "embedding", clientOpenAI.get_embedding(tefcontactname))
-                kgiotdriver.mergeLink("knowsAbout",[], "Person", [("name", tefcontactname)],"Organization", [("name", manufacturer),("url", url)])
-                kgiotdriver.mergeLink("WorksFor",[], "Person", [("name", tefcontactname)],"Organization", [("name", "Telefonica"),("url", "http://www.telefonica.com")])
                 printToFileFineTune(templateContact.format(contact=cleanForFineTune(tefcontactname), organization=cleanForFineTune("Telefonica")))
                 printToFileFineTune(templateKnows.format(contact=cleanForFineTune(tefcontactname), organization=cleanForFineTune(manufacturer)))
             print("Inserted manufacturer:"+manufacturer+", url:"+url+", model:"+model+","+geo+", contactname:"+contactname+", tefcontactname:"+tefcontactname)
             for i in range (firstService,maxServices):
                 if fields[i] != "" and headers[i] != "" :
-                    kgiotdriver.mergeLink("providesService",[], "Product", [("name", model)],  "Service", [("name", headers[i])])
                     printToFileFineTune(templateProvidesService.format(service=cleanForFineTune(headers[i]), product=cleanForFineTune(model)))
                     print(manufacturer+" provides "+headers[i]+" service")
 
@@ -133,10 +104,6 @@ def loadCSVTabFormat(args, kgiotsynonims, kgiotdriver):
             fields[0]=fields[0].replace("'","")
             fields[1]=fields[1].replace("'","").replace(" ","_").replace("(", "").replace(")", "").replace(",", "_").replace("/", "_").replace("-", "_")
             fields[2]=fields[2].replace("'","")
-            try:
-                kgiotdriver.mergeLink(fields[1],[], "Concept", [("name", fields[0])],  "Concept", [("name", fields[2])])
-            except Exception as e:
-                print("Error:", e)
             
             
 def loadSalvaFormat(args, kgiotsynonims, kgiotdriver):
@@ -173,74 +140,46 @@ def loadSalvaFormat(args, kgiotsynonims, kgiotdriver):
 
             if(manufacturer==""):
                 continue
-            kgiotdriver.mergeNode("Organization:Searchable", [("name", manufacturer),("url", url)])
-            kgiotdriver.addEmbeddings("Searchable", "name", manufacturer, "embedding", clientOpenAI.get_embedding(manufacturer))
             printToFileFineTune(templateOrganization.format(organization=cleanForFineTune(manufacturer)))
 
             if(geo!=""):
-                kgiotdriver.mergeNode("Country:Searchable", [("name", geo)])
-                kgiotdriver.addEmbeddings("Searchable", "name", geo, "embedding", clientOpenAI.get_embedding(geo))
-                kgiotdriver.mergeLink("nationality",[], "Organization", [("name", manufacturer),("url", url)], "Country", [("name", geo)])
                 print("Inserting "+manufacturer+"-nationality-"+geo)
                 printToFileFineTune(templateCountry.format(country=cleanForFineTune(geo), organization=cleanForFineTune(manufacturer)))
                 
             if(model!=""):
-                kgiotdriver.mergeNode("Product:Searchable", [("name", model)])
-                kgiotdriver.addEmbeddings("Searchable", "name", model, "embedding", clientOpenAI.get_embedding(model))
-                kgiotdriver.mergeLink("manufacturer",[], "Organization", [("name", manufacturer),("url", url)], "Product", [("name", model)])
                 print("Inserting "+manufacturer+"-manufacturer-"+model)
                 printToFileFineTune(templateProductOrganization.format(product=cleanForFineTune(model), organization=cleanForFineTune(manufacturer)))
                 
             if(devicemode!=""):
-                kgiotdriver.mergeNode("Service:Searchable", [("name", devicemode)])
-                kgiotdriver.addEmbeddings("Searchable", "name", devicemode, "embedding", clientOpenAI.get_embedding(devicemode))
-                kgiotdriver.mergeLink("providesService",[], "Product", [("name", model)],  "Service", [("name", devicemode)])
                 print("Inserting "+model+"-providesService-"+devicemode)
                 printToFileFineTune(templateProvidesService.format(service=cleanForFineTune(devicemode), product=cleanForFineTune(model)))
                 
             if(devicetype!=""):
-                kgiotdriver.mergeNode("Service:Searchable", [("name", devicetype)])
-                kgiotdriver.addEmbeddings("Searchable", "name", devicetype, "embedding", clientOpenAI.get_embedding(devicetype))
                 print("Creating devicetype "+devicetype)
             if(deviceusecase!=""):
                 for x in deviceusecase.split(" "):
                     if any(char.isalnum() for char in x):
                         print("Inserting "+model+"-providesService-"+x)
-                        kgiotdriver.mergeNode("Service:Searchable", [("name", x)])
                         printToFileFineTune(templateService.format(service=x))
-                        kgiotdriver.addEmbeddings("Searchable", "name", x, "embedding", clientOpenAI.get_embedding(x))
-                        kgiotdriver.mergeLink("providesService",[], "Product", [("name", model)],  "Service", [("name", x)]) 
                         printToFileFineTune(templateProvidesService.format(service=cleanForFineTune(x), product=cleanForFineTune(model))) 
                         
                         if(devicetype!=""):
-                            kgiotdriver.mergeLink("serviceType",[], "Service", [("name", x)],  "Service", [("name", devicetype)])
                             print("Inserting "+x+"-serviceType-"+devicetype)
                             printToFileFineTune(templateServiceFather.format(service=cleanForFineTune(x), father=cleanForFineTune(devicetype)))
                             
             if(contactname!="" or contactmail!=""):
-                kgiotdriver.mergeNode("Person:Searchable", [("name", contactname),("email", contactmail)])
-                kgiotdriver.addEmbeddings("Searchable", "name", contactname, "embedding", clientOpenAI.get_embedding(contactname))
-                kgiotdriver.mergeLink("WorksFor",[], "Person", [("name", contactname),("email", contactmail)],"Organization", [("name", manufacturer),("url", url)])
                 print("Inserting "+contactname+"-WorksFor-"+manufacturer)
                 printToFileFineTune(templateContact.format(contact=cleanForFineTune(contactname), organization=cleanForFineTune(manufacturer)))
                 
             if(tefcontactname!="" or tefcontactmail!=""):
-                kgiotdriver.mergeNode("Person:Searchable", [("name", tefcontactname),("email", tefcontactmail)])
-                kgiotdriver.addEmbeddings("Searchable", "name", tefcontactname, "embedding", clientOpenAI.get_embedding(tefcontactname))
-                kgiotdriver.mergeLink("knowsAbout",[], "Person", [("name", tefcontactname),("email", tefcontactmail)],"Organization", [("name", manufacturer),("url", url)])
                 print("Inserting "+tefcontactname+"-knowsAbout-"+manufacturer)
-                kgiotdriver.mergeLink("WorksFor",[], "Person", [("name", tefcontactname),("email", tefcontactmail)],"Organization", [("name", "Telefonica"),("url", "http://www.telefonica.com")])
                 print("Inserting "+tefcontactname+"-WorksFor-"+"Telefonica")
                 printToFileFineTune(templateContact.format(contact=cleanForFineTune(tefcontactname), organization="Telefonica"))
                 printToFileFineTune(templateKnows.format(contact=cleanForFineTune(tefcontactname), organization=cleanForFineTune(manufacturer)))
                 
             if(ob!=""):
-                kgiotdriver.mergeNode("Organization:Searchable", [("name", ob),("url", "http://www.telefonica.com")])
-                kgiotdriver.addEmbeddings("Searchable", "name", ob, "embedding", clientOpenAI.get_embedding(ob))
-                kgiotdriver.mergeLink("WorksFor",[], "Organization", [("name", manufacturer),("url", url)],"Organization", [("name", ob),("url", "http://www.telefonica.com")])
                 print("Inserting "+manufacturer+"-WorksFor-"+ob)
                 printToFileFineTune(templateWorksFor.format(provider=cleanForFineTune(manufacturer), provided=cleanForFineTune(ob)))
-                kgiotdriver.mergeLink("ISPARTOF",[], "Organization", [("name", ob),("url", "http://www.telefonica.com")],"Organization", [("name", "Telefonica"),("url", "http://www.telefonica.com")])
                 print("Inserting "+ob+"-ISPARTOF-Telefonica")
                 printToFileFineTune(templateIsPartOf.format(son=cleanForFineTune(ob), father="Telefonica"))
 
@@ -256,20 +195,14 @@ parser.add_argument('-f', dest="format", help="File format. s for Salva, z for Z
 
 args = parser.parse_args()
 
-kgiotdriver = KGIoTDriverNeo4j("bolt://localhost:7687", "neo4j", os.getenv('PWDNEO4J'))
-kgiotdriver.mergeNode("Organization", [("name", "Telefonica"),("url", "http://www.telefonica.com")])
-
-if args.kill :
-    kgiotdriver.nukeBase()
-
 if(args.dictionary != None):
     kgiotsynonims=KGIoTSynonims(args.dictionary)
 else:
     kgiotsynonims=KGIoTSynonims("")
 
 if args.format=="s" :
-    loadSalvaFormat(args, kgiotsynonims, kgiotdriver)
+    loadSalvaFormat(args, kgiotsynonims, None)
 elif args.format=="z" :
-    loadZorzoFormat(args, kgiotsynonims, kgiotdriver)
+    loadZorzoFormat(args, kgiotsynonims, None)
 elif args.format=="m" :
-    loadCSVTabFormat(args, kgiotsynonims, kgiotdriver)
+    loadCSVTabFormat(args, kgiotsynonims, None)

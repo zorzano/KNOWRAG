@@ -10,13 +10,6 @@ clientOpenAI = KGIoTOpenAI()
 
 kgiotdriver = KGIoTDriverNeo4j("bolt://localhost:7687", "neo4j", os.getenv('PWDNEO4J'))
 
-def cleanForFineTune(line):
-    line=line.replace("\\", "/")
-    line=line.replace("\r\n", "\\n").replace("\r", "\\n").replace("\n", "\\n")
-    line=line.replace('"', '\\"').replace("'", "")
-    line=line.replace("\t", "\\t")
-    return line
- 
 
 if(len(sys.argv)>2):
     kgiotsynonims=KGIoTSynonims(sys.argv[2])

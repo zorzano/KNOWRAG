@@ -15,6 +15,7 @@ file1 = open(sys.argv[1], 'r', encoding='cp1252')
 fileFineTune = open("finetune.txt", 'a', encoding='utf-8')
 template = '{{"messages": [{{"role": "system", "content": "normal"}}, {{"role": "user", "content": "{chapterTitle}"}}, {{"role": "assistant", "content": "{chapterText}"}}]}}\n' 
 
+
 def printToFileFineTune(line):
     fileFineTune.write(line)
 

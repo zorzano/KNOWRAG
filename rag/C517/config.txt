@@ -1,0 +1,11 @@
+[CONFIG]
+QuestionsFile = /home/ubuntu/repo/rag/common/questionsIRN.txt
+OutputFile = /home/ubuntu/repo/rag/C517/output.txt
+ResultFile = /home/ubuntu/repo/rag/C517/result.txt
+LLMModel = meta-llama/llama-3.1-8b-instruct
+KG = Yes
+nHitsKG=5
+extractTerms=5
+nLoopsExtra=3
+extractLoopTerms=5
+askIsQuestion=False

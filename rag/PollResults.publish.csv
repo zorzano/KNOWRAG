@@ -1,0 +1,695 @@
+﻿Timestamp;"PREGUNTA: what position does NEYMAR play ?
+REFERENCIA: Forward
+RESPUESTA: Neymar juega en la posición de **delantero** (*Forward*).";"PREGUNTA: what is the jersey number of Didier_DROGBA ?
+REFERENCIA: 11
+RESPUESTA: El número de camiseta de Didier Drogba es **11**. Esto se puede observar en su información, donde se indica que wears_number: 11.";"PREGUNTA: what position does Reza_GHOOCHANNEJAD play ?
+REFERENCIA: Forward
+RESPUESTA: Reza Ghoochannejhad juega en la posición de delantero (Forward).";"PREGUNTA: who is from Switzerland ?
+REFERENCIA: Granit_XHAKA,Diego_BENAGLIO,Valon_BEHRAMI,Ricardo_RODRIGUEZ,Admir_MEHMEDI,Haris_SEFEROVIC,Steve_VON_BERGEN,Fabian_SCHAER,Yann_SOMMER,Gokhan_INLER,Johan_DJOUROU,Xherdan_SHAQIRI,Gelson_FERNANDES,Valentin_STOCK";"PREGUNTA: which football club does Eric_CHOUPO_MOTING play for ?
+REFERENCIA: FSV_Mainz_05
+RESPUESTA: Eric Choupo-Moting es un futbolista que actualmente juega en el club FSV Mainz 05. Juega en la posición de delantero, usa el número 13 y representa a la s";"PREGUNTA: which country is the soccer team Manchester_City_FC based in ?
+REFERENCIA: England
+RESPUESTA: El equipo de fútbol Manchester City FC está basado en el país Inglaterra. Esto se deduce de la información proporcionada que incluye el atributo is_in_";"PREGUNTA: where is the football club that NEYMAR plays for ?
+REFERENCIA: Spain
+RESPUESTA: As of my last knowledge update in October 2023, Neymar plays for **Al-Hilal**, a football club based in Riyadh, Saudi Arabia. He joined Al-Hilal in August 2023 after";"PREGUNTA: what is the jersey number of Klaas_Jan_HUNTELAAR ?
+REFERENCIA: 19
+RESPUESTA: El número de camiseta de Klaas-Jan Huntelaar es el **19**. Esto se desprende directamente de la información proporcionada, específicamente del atributo wears_number:19 ";"PREGUNTA: name a soccer club in Turkey ?
+REFERENCIA: Fenerbahce_SK,Konyaspor,Fethiyespor,Kayseri_Erciyesspor,Galatasaray_SK,Elazigspor,Istanbul_BBSK,Caykur_Rizespor,Trabzonspor,Gaziantepspor,Antalyaspor_AS,Besiktas_JK,Kayserispor
+RESPUESTA: Un club de fút";"PREGUNTA: what is the jersey number of Luis_SUAREZ ?
+REFERENCIA: 9
+RESPUESTA: Luis Suárez es un jugador de fútbol que, según la información disponible, ocupa la posición de delantero, tiene 27 años, juega en el club Liverpool FC y representa a la selecció";"PREGUNTA: what position does Edin_DZEKO play ?
+REFERENCIA: Forward
+RESPUESTA: Edin_DZEKO plays_position:Forward,.";"PREGUNTA: what is the jersey number of Robin_VAN_PERSIE ?
+REFERENCIA: 9
+RESPUESTA: Robin Van Persie es un jugador de fútbol que representa a los Países Bajos y juega como delantero para el club Manchester United FC. Su número de camiseta es el 9.";"PREGUNTA: name a soccer club in Turkey ?
+REFERENCIA: Fenerbahce_SK,Konyaspor,Fethiyespor,Kayseri_Erciyesspor,Galatasaray_SK,Elazigspor,Istanbul_BBSK,Caykur_Rizespor,Trabzonspor,Gaziantepspor,Antalyaspor_AS,Besiktas_JK,Kayserispor
+RESPUESTA: Un club de 8";"PREGUNTA: which soccer club is based in Germany ?
+REFERENCIA: 1._FC_Nuernberg,VfL_Wolfsburg,Hertha_BSC,Bayer_04_Leverkusen,VfB_Stuttgart,Eintracht_Frankfurt,FC_Augsburg,FC_Schalke_04,Fortuna_Duesseldorf,FSV_Frankfurt,Borussia_Dortmund,Hamburger_SV,Hann9";"PREGUNTA: who plays at the soccer club Galatasaray_SK ?
+REFERENCIA: Didier_DROGBA,Aurelien_CHEDJOU,Wesley_SNEIJDER,Fernando_MUSLERA,Izet_HAJROVIC
+RESPUESTA: El club de fútbol **Galatasaray SK**, que se encuentra en Turquía, cuenta con los siguientes jugad";"PREGUNTA: which country is the soccer team SSC_Napoli based in ?
+REFERENCIA: Italy
+RESPUESTA: El equipo de fútbol SSC Napoli está basado en el país Italia. Esto se indica en la información proporcionada a través del atributo is_in_country del elemento rel";"PREGUNTA: name a player from England ?
+REFERENCIA: Frank_LAMPARD,Gary_CAHILL,Joe_HART,Danny_WELBECK,Ross_BARKLEY,Wayne_ROONEY,Phil_JAGIELKA,Leighton_BAINES,Alex_OXLADE_CHAMBERLAIN,Luke_SHAW,Raheem_STERLING,Rickie_LAMBERT,Phil_JONES,Jack_WILSHERE,Ben_FOSTE";"PREGUNTA: what position does Edin_DZEKO play ?
+REFERENCIA: Forward
+RESPUESTA: Edin Džeko juega en la posición de delantero (Forward).";"PREGUNTA: what is the age of Shinji_OKAZAKI ?
+REFERENCIA: 28
+RESPUESTA: Shinji Okazaki tiene 28 años.";"PREGUNTA: which club does Miroslav_KLOSE play for ?
+REFERENCIA: SS_Lazio
+RESPUESTA: Miroslav Klose juega para el club **SS Lazio**. Esta información se desprende de los datos que indican que su atributo plays_in_club incluye a SS Lazio. Además, en la fich";"PREGUNTA: who is from the professional football team SS_Lazio ?
+REFERENCIA: Senad_LULIC,Antonio_CANDREVA,Ogenyi_ONAZI,HELDER_POSTIGA,Lucas_BIGLIA,Alvaro_GONZALEZ,Miroslav_KLOSE
+RESPUESTA: El equipo profesional de fútbol SS Lazio, con sede en Italia, cuent";"PREGUNTA: which football club does Eric_CHOUPO_MOTING play for ?
+REFERENCIA: FSV_Mainz_05
+RESPUESTA: Eric Choupo-Moting es un jugador de fútbol que juega en el club FSV Mainz 05. Tiene 25 años, juega en la posición de delantero y utiliza el número 13 en s";"PREGUNTA: who is from the professional football team SS_Lazio ?
+REFERENCIA: Senad_LULIC,Antonio_CANDREVA,Ogenyi_ONAZI,HELDER_POSTIGA,Lucas_BIGLIA,Alvaro_GONZALEZ,Miroslav_KLOSE
+RESPUESTA: As of my last knowledge update in October 2023, S.S. Lazio is a pro";"PREGUNTA: name a player from Newcastle_United_Jets_FC ?
+REFERENCIA: Adam_TAGGART
+RESPUESTA: Jack Duncan is a player from Newcastle_United_Jets_FC";"PREGUNTA: which country is the soccer team Galatasaray_SK based in ?
+REFERENCIA: Turkey
+RESPUESTA: El equipo de fútbol Galatasaray_SK está basado en Turquía. Esto se deriva de la información proporcionada que especifica que **Galatasaray_SK** pertenece10";"PREGUNTA: where is the football club that Adam_TAGGART plays for ?
+REFERENCIA: Australia
+RESPUESTA: As of my last update in October 2023, Adam Taggart, an Australian professional footballer, plays for **Perth Glory**, a club in the A-League, Australia's p";"PREGUNTA: how old is Islam_SLIMANI ?
+REFERENCIA: 26
+RESPUESTA: Islam Slimani was born on **June 18, 1988**. As of today, in **October 2023**, he is **35 years old**.";"PREGUNTA: which club does Klaas_Jan_HUNTELAAR play for ?
+REFERENCIA: FC_Schalke_04
+RESPUESTA: Klaas-Jan Huntelaar juega para el club **FC Schalke 04**.";"PREGUNTA: which club does Edin_DZEKO play for ?
+REFERENCIA: Manchester_City_FC
+RESPUESTA: Edin Džeko es un jugador de fútbol nacido en Bosnia y Herzegovina. Juega en la posición de delantero y lleva el dorsal número 11. Actualmente, Džeko forma parte del ";"PREGUNTA: which country is the soccer team SS_Lazio based in ?
+REFERENCIA: Italy
+RESPUESTA: El equipo de fútbol SS_Lazio está en el país Italy.";"PREGUNTA: which soccer club is based in Brazil ?
+REFERENCIA: Palmeiras,Fluminense_FC,CR_Vasco_da_Gama,SC_Internacional,Santos_FC,Botafogo_FR,Sao_Paulo_FC,CR_Flamengo,Atletico_Mineiro
+RESPUESTA: Un club de fútbol que está basado en Brasil es **Sao_Paulo_FC";"PREGUNTA: who plays at the soccer club FSV_Mainz_05 ?
+REFERENCIA: PARK_Jooho,Junior_DIAZ,Shinji_OKAZAKI,Eric_CHOUPO_MOTING,KOO_Jacheol
+RESPUESTA: Dominik Kohr;Morten Thorsby;Sepp van den Berg;Tommy Eichsteller Michele Platini Buchel plays at the soccer cl";"PREGUNTA: where is the football club that Alan_PULIDO plays for ?
+REFERENCIA: Mexico
+RESPUESTA: Alan Pulido juega para el club Tigres UANL. Sin embargo, en la información proporcionada no se indica explícitamente en qué país se encuentra Tigres UANL, por ";"PREGUNTA: who plays at the soccer club FC_Schalke_04 ?
+REFERENCIA: Joel_MATIP,Julian_DRAXLER,Sead_KOLASINAC,Atsuto_UCHIDA,Kevin_Prince_BOATENG,Benedikt_HOEWEDES,Klaas_Jan_HUNTELAAR
+RESPUESTA: Benedikt_HOEWEDES, Kevin_Prince_BOATENG, Klaas_Jan_HUNTELAAR, A";"PREGUNTA: which football club does NEYMAR play for ?
+REFERENCIA: FC_Barcelona
+RESPUESTA: Neymar es un jugador de fútbol que lleva el número 10 y juega como delantero. Es originario de Brasil y actualmente juega en el club FC Barcelona. Tiene 22 años.";"PREGUNTA: who plays at the soccer club Club_Santos_Laguna ?
+REFERENCIA: Oribe_PERALTA
+RESPUESTA: El club de fútbol **Club Santos Laguna** está ubicado en México y un jugador que juega en este equipo es **Oribe Peralta**.";"PREGUNTA: what is the jersey number of Didier_DROGBA ?
+REFERENCIA: 11
+RESPUESTA: Con la información proporcionada, no es posible determinar el número de camiseta de Didier Drogba, ya que únicamente se incluye información sobre Cedric Djeugoue.";"PREGUNTA: name a player from Newcastle_United_Jets_FC ?
+REFERENCIA: Adam_TAGGART
+RESPUESTA: Un jugador del Newcastle United Jets FC es **Adam Taggart**. Esta información se desprende de la relación plays_in_club asociada a Newcastle United Jets FC, que ti";"PREGUNTA: which prefessional football team does Fabian_SCHAER play for ?
+REFERENCIA: FC_Basel
+RESPUESTA: Fabian Schär es un defensor que juega para el club *FC Basel*. Además, representa a su país, Suiza, y usa el número 22.";"PREGUNTA: how old is Islam_SLIMANI ?
+REFERENCIA: 26
+RESPUESTA: Islam Slimani es un futbolista que juega como delantero en el club Sporting CP y representa a la selección de Argelia. Actualmente tiene 26 años.";"PREGUNTA: who plays at the soccer club FC_Schalke_04 ?
+REFERENCIA: Joel_MATIP,Julian_DRAXLER,Sead_KOLASINAC,Atsuto_UCHIDA,Kevin_Prince_BOATENG,Benedikt_HOEWEDES,Klaas_Jan_HUNTELAAR
+RESPUESTA: El equipo de fútbol FC Schalke 04, con sede en Alemania, cuenta";"PREGUNTA: what is the jersey number of Alan_PULIDO ?
+REFERENCIA: 11
+RESPUESTA: El jugador Alan Pulido tiene asignado el número de camiseta **11**. Esto se puede deducir claramente de la información proporcionada bajo su nombre, donde se especifica que `we";"PREGUNTA: what is the age of Oribe_PERALTA ?
+REFERENCIA: 30
+RESPUESTA: La información proporcionada indica que **Oribe Peralta** tiene 30 años. Esto se deriva del dato is_aged:30 asociado específicamente a Oribe Peralta.";"PREGUNTA: how old is Adam_TAGGART ?
+REFERENCIA: 21
+RESPUESTA: Adam Taggart tiene 21 años. Es un futbolista que juega como delantero con el número 9 en el club Newcastle United Jets FC y también representa a Australia en competiciones internacionales.";"PREGUNTA: name a player from Liverpool_FC ?
+REFERENCIA: Daniel_STURRIDGE,Luis_SUAREZ,Raheem_STERLING,Steven_GERRARD,Kolo_TOURE,Jordan_HENDERSON,Simon_MIGNOLET,Victor_MOSES,Mamadou_SAKHO,Glen_JOHNSON
+RESPUESTA: Un jugador que pertenece al Liverpool FC es G";"PREGUNTA: which prefessional football team does Luis_SUAREZ play for ?
+REFERENCIA: Liverpool_FC
+RESPUESTA: Con la información proporcionada, no se menciona que Luis Suárez forme parte de ningún equipo profesional de fútbol. Por lo tanto, no puedo determin";"PREGUNTA: what is the age of FRED ?
+REFERENCIA: 30
+RESPUESTA: FRED es un concepto relacionado con el fútbol. Juega en el club Fluminense FC y ocupa la posición de delantero. Representa a Brasil a nivel internacional, lleva el dorsal número 9 y tiene 30 añ";"PREGUNTA: which professional football team does Javier_HERNANDEZ play for ?
+REFERENCIA: Manchester_United_FC
+RESPUESTA: Javier Hernández es un jugador profesional de fútbol que lleva el dorsal número 14. Tiene 26 años y juega en el club Manchester United ";"PREGUNTA: which professional football team does Javier_HERNANDEZ play for ?
+REFERENCIA: Manchester_United_FC
+RESPUESTA: Con la información proporcionada, no se menciona ningún dato sobre el futbolista Javier Hernández ni sobre el equipo profesional en el ";"PREGUNTA: which football club does David_VILLA play for ?
+REFERENCIA: Atletico_Madrid
+RESPUESTA: David Villa es un delantero de 32 años que juega con el número 7 y representa a la selección de España. Además, juega en el club Atlético de Madrid.";"PREGUNTA: which football club does David_VILLA play for ?
+REFERENCIA: Atletico_Madrid
+RESPUESTA: David Villa es un delantero de 32 años que juega en el club Atlético de Madrid y representa al país España en competiciones internacionales.";"PREGUNTA: which prefessional football team does Luis_SUAREZ play for ?
+REFERENCIA: Liverpool_FC
+RESPUESTA: Luis Suárez es un jugador profesional de fútbol que juega en la posición de delantero. Tiene 27 años y lleva el número 9 en su camiseta. Actualmente";"PREGUNTA: which country is Robin_VAN_PERSIE from ?
+REFERENCIA: Netherlands
+RESPUESTA: Robin_VAN_PERSIE is from Netherlands";"PREGUNTA: who plays at the soccer club FSV_Mainz_05 ?
+REFERENCIA: PARK_Jooho,Junior_DIAZ,Shinji_OKAZAKI,Eric_CHOUPO_MOTING,KOO_Jacheol
+RESPUESTA: El club de fútbol **FSV Mainz 05**, que está en Alemania, tiene como jugadores a los siguientes futbolistas e";"PREGUNTA: who plays at the soccer club FC_Schalke_04 ?
+REFERENCIA: Joel_MATIP,Julian_DRAXLER,Sead_KOLASINAC,Atsuto_UCHIDA,Kevin_Prince_BOATENG,Benedikt_HOEWEDES,Klaas_Jan_HUNTELAAR
+RESPUESTA: Benedikt_HOEWEDES, Kevin_Prince_BOATENG, Klaas_Jan_HUNTELAAR11";"PREGUNTA: what position does Fabian_SCHAER play ?
+REFERENCIA: Defender
+RESPUESTA: Fabian Schär juega como defensor. Este jugador representa a Suiza en competiciones internacionales y juega en el club FC Basel.";"PREGUNTA: what is the age of Luis_SUAREZ ?
+REFERENCIA: 27
+RESPUESTA: Luis Suárez tiene 27 años. Según la información proporcionada, juega como delantero, lleva el número 9 en su camiseta, juega en el club Liverpool FC y representa a Uruguay en competicion";"PREGUNTA: where is the football club that Alan_PULIDO plays for ?
+REFERENCIA: Mexico
+RESPUESTA: As of my last update in October 2023, Alan Pulido plays for **Sporting Kansas City**, a club in Major League Soccer (MLS) in the United States. However, team t";"PREGUNTA: what number does NEYMAR wear ?
+REFERENCIA: 10
+RESPUESTA: NEYMAR usa el número 10. Esto se indica claramente en la información proporcionada en los datos disponibles: **wears_number:10**.";"PREGUNTA: what position does Edin_DZEKO play ?
+REFERENCIA: Forward
+RESPUESTA: Edin Džeko juega en la posición de delantero (Forward). 2";"PREGUNTA: which professional football team do players from Australia play for ?
+REFERENCIA: Newcastle_United_Jets_FC,Western_Sydney_Wanderers_FC,Brisbane_Roar_FC,Adelaide_United_FC,Melbourne_Victory_FC
+RESPUESTA: Jugadores de Australia juegan para una var";"PREGUNTA: where is the football club that Miroslav_KLOSE plays for ?
+REFERENCIA: Italy
+RESPUESTA: Miroslav Klose juega en el club SS Lazio.";"PREGUNTA: who plays at the soccer club FSV_Mainz_05 ?
+REFERENCIA: PARK_Jooho,Junior_DIAZ,Shinji_OKAZAKI,Eric_CHOUPO_MOTING,KOO_Jacheol
+RESPUESTA: El equipo de fútbol **FSV Mainz 05**, que se encuentra en Alemania, tiene como jugadores a los siguientes:
+
+1";"PREGUNTA: which country is Robin_VAN_PERSIE from ?
+REFERENCIA: Netherlands
+RESPUESTA: Robin Van Persie es un jugador que juega para el país Países Bajos (Netherlands).";"PREGUNTA: which country does Luis_SUAREZ play professional in ?
+REFERENCIA: England
+RESPUESTA: Luis Suárez es un futbolista profesional de 27 años que juega como delantero (Forward) y lleva el número 9 en su camiseta. Actualmente, juega en el club Liverpo";"PREGUNTA: which country is the soccer team Manchester_City_FC based in ?
+REFERENCIA: England
+RESPUESTA: Manchester City FC is based in **England**. The club is located in Manchester, a city in the United Kingdom. They play their home matches at the **Etih";"PREGUNTA: where is the football club that Eric_CHOUPO_MOTING plays for ?
+REFERENCIA: Germany
+RESPUESTA: Eric Choupo-Moting es un jugador de fútbol que juega en el club FSV Mainz 05. Su posición en el campo es delantero, lleva el número 13 y participa repr";"PREGUNTA: what position does Miroslav_KLOSE play ?
+REFERENCIA: Forward
+RESPUESTA: Miroslav Klose juega en la posición de delantero (Forward).";"PREGUNTA: what is the jersey number of Gonzalo_HIGUAIN ?
+REFERENCIA: 9
+RESPUESTA: Gonzalo_HIGUAIN's jersey number is 9";"PREGUNTA: which country is the soccer team Newcastle_United_Jets_FC based in ?
+REFERENCIA: Australia
+RESPUESTA: The soccer team Newcastle United Jets FC is based in **Australia**. They compete in the A-League, which is the top tier of professional soccer ";"PREGUNTA: which country does Klaas_Jan_HUNTELAAR play professional in ?
+REFERENCIA: Germany
+RESPUESTA: Klaas-Jan Huntelaar juega profesionalmente en el club **FC Schalke 04**, que según la información proporcionada pertenece a Alemania. Por lo tanto, Klaa";"PREGUNTA: what is the age of FRED ?
+REFERENCIA: 30
+RESPUESTA: FRED tiene 30 años. Esta información se encuentra explícita en los datos proporcionados bajo el atributo is_aged para FRED.";"PREGUNTA: what number does NEYMAR wear ?
+REFERENCIA: 10
+RESPUESTA: Neymar lleva el número **10**. Según la información proporcionada, juega en el club **FC Barcelona**, representa a la selección de **Brasil**, y ocupa la posición de **delantero**. Además,";"PREGUNTA: which country is the soccer team Manchester_United_FC based in ?
+REFERENCIA: England
+RESPUESTA: The soccer team Manchester_United_FC is based in England.";"PREGUNTA: which football club does Alan_PULIDO play for ?
+REFERENCIA: Tigres_UANL
+RESPUESTA: Alan Pulido juega para el club Tigres UANL. Esto queda claro porque en la información proporcionada se especifica que el atributo plays_in_club de Alan Pulido es ";"PREGUNTA: which country is the soccer team Liverpool_FC based in ?
+REFERENCIA: England
+RESPUESTA: The soccer team Liverpool FC is based in United Kingdom";"PREGUNTA: what is the jersey number of Didier_DROGBA ?
+REFERENCIA: 11
+RESPUESTA: El número de camiseta de Didier Drogba es el **11**. Esta información se encuentra claramente especificada en múltiples ocasiones en los datos presentados, donde Didier Drogb";"PREGUNTA: which country is the soccer team SSC_Napoli based in ?
+REFERENCIA: Italy
+RESPUESTA: SSC Napoli (Società Sportiva Calcio Napoli) is based in **Italy**. The team is from the city of Naples (Napoli in Italian) and competes in Serie A, the top tier ";"PREGUNTA: which professional football team does Javier_HERNANDEZ play for ?
+REFERENCIA: Manchester_United_FC
+RESPUESTA: Javier Hernández, conocido como jugador profesional de fútbol, tiene 26 años de edad, usa el dorsal número 14 y juega en la posición de";"PREGUNTA: which club does Gonzalo_HIGUAIN play for ?
+REFERENCIA: SSC_Napoli
+RESPUESTA: Gonzalo Higuaín juega en el club SSC Napoli. Según los datos suministrados, lleva el número 9, juega como delantero y tiene 26 años. Además, representa a la selección d";"PREGUNTA: which country does Edin_DZEKO play professional in ?
+REFERENCIA: England
+RESPUESTA: Edin Džeko, cuyo nombre aparece indicado como *Edin_DZEKO*, es un jugador profesional de fútbol. Juega en la posición de delantero (*plays_position: Forward*), t";"PREGUNTA: where is the football club that Eric_CHOUPO_MOTING plays for ?
+REFERENCIA: Germany
+RESPUESTA: Eric Choupo-Moting es un futbolista que juega como delantero. Representa a la selección nacional de Camerún y, a la edad de 25 años, forma parte del cl";"PREGUNTA: what is the age of Oribe_PERALTA ?
+REFERENCIA: 30
+RESPUESTA: The age of Oribe_PERALTA is 39 years old (birthdate: 1984-01-12).";"PREGUNTA: how old is Klaas_Jan_HUNTELAAR ?
+REFERENCIA: 30
+RESPUESTA: Con los datos proporcionados, no se menciona a Klaas-Jan Huntelaar ni se indica ninguna información sobre su edad. Por lo tanto, no puedo determinar cuántos años tiene.";"PREGUNTA: which professional football team do players from Portugal play for ?
+REFERENCIA: Sporting_CP,Sporting_Covilha,FC_Porto,Sporting_Braga,Academica_Coimbra,SL_Benfica
+RESPUESTA: Los jugadores de Portugal que forman parte de equipos profesionales jue";"PREGUNTA: where is the football club that Eric_CHOUPO_MOTING plays for ?
+REFERENCIA: Germany
+RESPUESTA: Eric Choupo-Moting juega en el club FSV Mainz 05, que está ubicado en Alemania.";"PREGUNTA: what is the age of FRED ?
+REFERENCIA: 30
+RESPUESTA: Según la información proporcionada, FRED tiene 30 años.";"PREGUNTA: which football club does Alan_PULIDO play for ?
+REFERENCIA: Tigres_UANL
+RESPUESTA: Alan Pulido juega para el club Tigres UANL. Esto queda claro porque en la información proporcionada se especifica que el atributo plays_in_club de Alan Pulido 12";"PREGUNTA: name a player from Liverpool_FC ?
+REFERENCIA: Daniel_STURRIDGE,Luis_SUAREZ,Raheem_STERLING,Steven_GERRARD,Kolo_TOURE,Jordan_HENDERSON,Simon_MIGNOLET,Victor_MOSES,Mamadou_SAKHO,Glen_JOHNSON
+RESPUESTA: Mohamed Salah";"PREGUNTA: what number does Adam_TAGGART wear ?
+REFERENCIA: 9
+RESPUESTA: Adam Taggart lleva el número 9.";"PREGUNTA: which national team does Klaas_Jan_HUNTELAAR play for ?
+REFERENCIA: Netherlands
+RESPUESTA: Klaas-Jan Huntelaar juega para el equipo nacional de los Países Bajos (Netherlands). Según la información proporcionada, su ficha indica claramente que pl";"PREGUNTA: what position does Reza_GHOOCHANNEJAD play ?
+REFERENCIA: Forward
+RESPUESTA: Reza Ghoochannejhad juega en la posición de delantero (Forward). 2";"PREGUNTA: which country does Fabian_SCHAER play professional in ?
+REFERENCIA: Switzerland
+RESPUESTA: Fabian Schär juega profesionalmente en Suiza, ya que juega para el club FC Basel, el cual pertenece a dicho país.";"PREGUNTA: which country does Klaas_Jan_HUNTELAAR play professional in ?
+REFERENCIA: Germany
+RESPUESTA: Klaas_Jan_HUNTELAAR plays professionally in Netherlands";"PREGUNTA: how old is Didier_DROGBA ?
+REFERENCIA: 36
+RESPUESTA: Didier Drogba tiene 36 años.";"PREGUNTA: what position does Klaas_Jan_HUNTELAAR play ?
+REFERENCIA: Forward
+RESPUESTA: Klaas-Jan Huntelaar es un jugador de fútbol que tiene 30 años. Juega como delantero (Forward) y porta el número 19 en su camiseta. Representa al club FC Schalke 04 y ta";"PREGUNTA: which country is the soccer team FC_Barcelona based in ?
+REFERENCIA: Spain
+RESPUESTA: FC Barcelona, also known as Barça, is based in **Spain**, specifically in the city of Barcelona in the autonomous region of Catalonia.";"PREGUNTA: which football club does Didier_DROGBA play for ?
+REFERENCIA: Galatasaray_SK
+RESPUESTA: Didier Drogba es un jugador de fútbol de 36 años que juega como delantero. Lleva el número 11, representa a la selección nacional de Costa de Marfil y forma ";"PREGUNTA: who plays at the soccer club Galatasaray_SK ?
+REFERENCIA: Didier_DROGBA,Aurelien_CHEDJOU,Wesley_SNEIJDER,Fernando_MUSLERA,Izet_HAJROVIC
+RESPUESTA: As of my knowledge cutoff in October 2023, I cannot provide real-time information on the current r";"PREGUNTA: name a soccer club in Portugal ?
+REFERENCIA: Sporting_CP,Sporting_Covilha,FC_Porto,Sporting_Braga,Academica_Coimbra,SL_Benfica
+RESPUESTA: Un club de fútbol en Portugal es **SL Benfica**. Otros clubes en Portugal incluyen **FC Porto**, **Sporting";"PREGUNTA: which soccer club is based in Brazil ?
+REFERENCIA: Palmeiras,Fluminense_FC,CR_Vasco_da_Gama,SC_Internacional,Santos_FC,Botafogo_FR,Sao_Paulo_FC,CR_Flamengo,Atletico_Mineiro
+RESPUESTA: El club de fútbol Sao Paulo FC está basado en Brasil. Este eq";"PREGUNTA: what number does FRED wear ?
+REFERENCIA: 9
+RESPUESTA: Fred lleva el número 9. Esto se deduce de la ficha que indica específicamente: wears_number: 9,. y que pertenece a Name: FRED.";"PREGUNTA: which country is Didier_DROGBA from ?
+REFERENCIA: Ivory_Coast
+RESPUESTA: Didier Drogba es un futbolista que juega para el país Costa de Marfil (Ivory Coast).";"PREGUNTA: who plays at the soccer club FC_Schalke_04 ?
+REFERENCIA: Joel_MATIP,Julian_DRAXLER,Sead_KOLASINAC,Atsuto_UCHIDA,Kevin_Prince_BOATENG,Benedikt_HOEWEDES,Klaas_Jan_HUNTELAAR
+RESPUESTA: Alexander Nübel plays at the soccer club FC_Schalke_04";"PREGUNTA: what position does Gonzalo_HIGUAIN play ?
+REFERENCIA: Forward
+RESPUESTA: Gonzalo_HIGUAIN plays as a Forward";"PREGUNTA: what is the age of Robin_VAN_PERSIE ?
+REFERENCIA: 30
+RESPUESTA: Robin Van Persie tiene 30 años. Esta información se encuentra especificada en su ficha mediante la propiedad is_aged:30.";"PREGUNTA: which country does Shinji_OKAZAKI play professional in ?
+REFERENCIA: Germany
+RESPUESTA: Shinji Okazaki juega profesionalmente en el club FSV Mainz 05. Según la información proporcionada, el FSV Mainz 05 está ubicado en Alemania. Por lo tanto, Sh";"PREGUNTA: what is the jersey number of Gonzalo_HIGUAIN ?
+REFERENCIA: 9
+RESPUESTA: Gonzalo_HIGUAIN's jersey number is 9 2";"PREGUNTA: which country is the soccer team Sporting_CP based in ?
+REFERENCIA: Portugal
+RESPUESTA: El equipo de fútbol Sporting_CP está basado en **Portugal**. Esto se indica claramente en la información donde aparece is_in_country: Portugal asociada al eq";"PREGUNTA: what is the nationality of Fabian_SCHAER ?
+REFERENCIA: Switzerland
+RESPUESTA: La información que se tiene sobre Fabian_SCHAER es la siguiente:
+
+- Es un concepto identificado por el nombre Fabian_SCHAER.
+- Su edad es de 22 años.
+- Lleva el núm13";"PREGUNTA: which prefessional football team does Abel_HERNANDEZ play for ?
+REFERENCIA: US_Citta_di_Palermo
+RESPUESTA: Abel Hernández es un jugador profesional de fútbol que juega como delantero y tiene 23 años. Lleva el dorsal número 8 y representa a Urugu";"PREGUNTA: which professional football team does Robin_VAN_PERSIE play for ?
+REFERENCIA: Manchester_United_FC
+RESPUESTA: Robin_VAN_PERSIE plays for Feyenoord";"PREGUNTA: what number does Oribe_PERALTA wear ?
+REFERENCIA: 19
+RESPUESTA: Oribe Peralta lleva el número 19 en su camiseta.";"PREGUNTA: what is the jersey number of Klaas_Jan_HUNTELAAR ?
+REFERENCIA: 19
+RESPUESTA: Klaas_Jan_HUNTELAAR's jersey number is 9";"PREGUNTA: which country does Shinji_OKAZAKI play professional in ?
+REFERENCIA: Germany
+RESPUESTA: Shinji Okazaki juega en el país Japan.";"PREGUNTA: what position does NEYMAR play ?
+REFERENCIA: Forward
+RESPUESTA: NEYMAR juega en la posición de **Forward** (delantero).";"PREGUNTA: where is the football club that Reza_GHOOCHANNEJAD plays for ?
+REFERENCIA: England
+RESPUESTA: Reza Ghoochannejhad juega para el club de fútbol Charlton Athletic FC. Este club se encuentra en Inglaterra.";"PREGUNTA: who plays at the soccer club Club_Santos_Laguna ?
+REFERENCIA: Oribe_PERALTA
+RESPUESTA: Oribe_PERALTA juega en el club Club_Santos_Laguna.";"PREGUNTA: what is the jersey number of Luis_SUAREZ ?
+REFERENCIA: 9
+RESPUESTA: Luis_SUAREZ's jersey number is 9.";"PREGUNTA: where is the football club that Reza_GHOOCHANNEJAD plays for ?
+REFERENCIA: England
+RESPUESTA: Reza_GHOOCHANNEJAD plays for a football club in Nederland";"PREGUNTA: what is the nationality of Reza_GHOOCHANNEJAD ?
+REFERENCIA: England
+RESPUESTA: Reza Ghoochannejhad is **Iranian**. He is a professional footballer who played for the Iranian national team.";"PREGUNTA: which professional football team does Oribe_PERALTA play for ?
+REFERENCIA: Club_Santos_Laguna
+RESPUESTA: Oribe Peralta es un futbolista profesional que tiene 30 años de edad. Juega como delantero (Forward) y lleva el número 19. Representa a la s";"PREGUNTA: what position does Miroslav_KLOSE play ?
+REFERENCIA: Forward
+RESPUESTA: Miroslav Klose is a former professional football (soccer) player who played primarily as a **striker** during his career. Known for his goal-scoring ability, particularly in";"PREGUNTA: who is from the professional football team US_Citta_di_Palermo ?
+REFERENCIA: Abel_HERNANDEZ
+RESPUESTA: Gaspare<Rosario>他是来自Compagnia Sicuritalia Ivri Gaspare Alessandro Rosario.is from the professional football team US_Citta_di_Palermo.";"PREGUNTA: name a soccer club in Australia ?
+REFERENCIA: Newcastle_United_Jets_FC,Western_Sydney_Wanderers_FC,Brisbane_Roar_FC,Adelaide_United_FC,Melbourne_Victory_FC
+RESPUESTA: Wellington Phoenix FC";"PREGUNTA: which country does Shinji_OKAZAKI play professional in ?
+REFERENCIA: Germany
+RESPUESTA: Shinji Okazaki juega profesionalmente en Alemania. Esto se sabe porque él forma parte del club FSV Mainz 05, y este club está localizado en Alemania.";"PREGUNTA: what is the jersey number of Robin_VAN_PERSIE ?
+REFERENCIA: 9
+RESPUESTA: El número de camiseta de Robin Van Persie es el **9**. Según la información proporcionada, Robin Van Persie es un jugador de 30 años que juega en la posición de delantero. ";"PREGUNTA: what position does Miroslav_KLOSE play ?
+REFERENCIA: Forward
+RESPUESTA: Miroslav Klose juega en la posición de **Forward (delantero)**.";"PREGUNTA: name a player from Atletico_Madrid ?
+REFERENCIA: Cristian_RODRIGUEZ,Diego_GODIN,KOKE,David_VILLA,Toby_ALDERWEIRELD,JUANFRAN,Diego_COSTA,Thibaut_COURTOIS,Jose_GIMENEZ
+RESPUESTA: Atletico de Madrid es un club ubicado en España. Algunos jugadores q";"PREGUNTA: what position does Adam_TAGGART play ?
+REFERENCIA: Forward
+RESPUESTA: Adam Taggart juega en la posición de delantero (Forward).";"PREGUNTA: what is the nationality of Reza_GHOOCHANNEJAD ?
+REFERENCIA: England
+RESPUESTA: La nacionalidad de Reza Ghoochannejhad es iraní. Esto se deduce del dato plays_for_country:Iran que indica que juega para el país de Irán.";"PREGUNTA: what position does Fabian_SCHAER play ?
+REFERENCIA: Defender
+RESPUESTA: Fabian_SCHAER juega en la posición de Defender.";"PREGUNTA: which country is the soccer team FSV_Mainz_05 based in ?
+REFERENCIA: Germany
+RESPUESTA: El equipo de fútbol FSV_Mainz_05 está basado en el país **Alemania**. Esto se indica claramente en el campo is_in_country junto al valor Germany.";"PREGUNTA: which football club does FRED play for ?
+REFERENCIA: Fluminense_FC
+RESPUESTA: Fred es un jugador de fútbol de 30 años que juega como delantero y lleva el número 9 en su camiseta. Representa a Brasil a nivel internacional y actualmente forma part";"PREGUNTA: how old is Miroslav_KLOSE ?
+REFERENCIA: 36
+RESPUESTA: Miroslav Klose tiene 36 años. Esto se desprende de la información disponible que indica que su edad está registrada como 36 en los datos proporcionados.";"PREGUNTA: what is the nationality of Gonzalo_HIGUAIN ?
+REFERENCIA: Argentina
+RESPUESTA: La nacionalidad de Gonzalo Higuaín es argentina. Esto se deduce del hecho de que está especificado como plays_for_country: Argentina en la información proporcionada. A";"PREGUNTA: which club does Edin_DZEKO play for ?
+REFERENCIA: Manchester_City_FC
+RESPUESTA: Edin Džeko juega en el club Manchester City FC.";"PREGUNTA: what is the age of Reza_GHOOCHANNEJAD ?
+REFERENCIA: 26
+RESPUESTA: Reza Ghoochannejhad tiene 26 años. Esto se indica claramente en las fichas donde se menciona que is_aged:26.";"PREGUNTA: which country does FRED play professional in ?
+REFERENCIA: Brazil
+RESPUESTA: FRED, or Frederico Rodrigues de Paula Santos, is a Brazilian professional footballer. As of my last update in October 2023, he plays in **Turkey** for the Turkish club ";"PREGUNTA: which country is the soccer team Manchester_City_FC based in ?
+REFERENCIA: England
+RESPUESTA: El equipo de fútbol Manchester_City_FC está basado en England.";"PREGUNTA: who is from the professional football team Tigres_UANL ?
+REFERENCIA: Carlos_SALCIDO,Alan_PULIDO
+RESPUESTA: En el equipo de fútbol profesional Tigres UANL, los jugadores que pertenecen a este club son:
+
+1. **Alan Pulido**:
+   - Edad: 23 años.
+   ";"PREGUNTA: what is the age of Alan_PULIDO ?
+REFERENCIA: 23
+RESPUESTA: Alan Pulido was born on **March 8, 1991**. As of today in **October 2023**, he would be **32 years old**.";"PREGUNTA: what is the jersey number of Abel_HERNANDEZ ?
+REFERENCIA: 8
+RESPUESTA: El número de camiseta de **Abel Hernández** es el **8**. Esta información se confirma en los datos donde se indica específicamente que wears_number:8 junto a su nombre.";"PREGUNTA: which country does Oribe_PERALTA play professional in ?
+REFERENCIA: Mexico
+RESPUESTA: Oribe Peralta juega como delantero (Forward) en el club Club Santos Laguna y representa a la selección nacional de México. Según la información proporcionada, ";"PREGUNTA: what is the nationality of Shinji_OKAZAKI ?
+REFERENCIA: Japan
+RESPUESTA: Shinji Okazaki, quien tiene 28 años, juega como delantero en el club FSV Mainz 05 y usa el número 9. Este jugador representa a Japón en competencias internacionales de fútb";"PREGUNTA: what is the nationality of Fabian_SCHAER ?
+REFERENCIA: Switzerland
+RESPUESTA: Fabian Schär tiene como nacionalidad la suiza, ya que juega para el país *Switzerland* (Suiza).";"PREGUNTA: what is the age of Alan_PULIDO ?
+REFERENCIA: 23
+RESPUESTA: Alan Pulido tiene 23 años.";"PREGUNTA: where is the football club that Miroslav_KLOSE plays for ?
+REFERENCIA: Italy
+RESPUESTA: Miroslav Klose juega en el club **SS Lazio**. Según la información, SS Lazio se encuentra en **Italia**.";¿Cual es tu edad?;¿Que opción describe mejor tu ocupación?;¿Que opción describe mejor tu especialización?;"PREGUNTA: what position does Luis_SUAREZ play ?
+REFERENCIA: Forward
+RESPUESTA: Luis Suárez juega en la posición de delantero (Forward).";"PREGUNTA: name a player from Atletico_Madrid ?
+REFERENCIA: Cristian_RODRIGUEZ,Diego_GODIN,KOKE,David_VILLA,Toby_ALDERWEIRELD,JUANFRAN,Diego_COSTA,Thibaut_COURTOIS,Jose_GIMENEZ
+RESPUESTA: Un jugador del Atlético de Madrid es **Thibaut Courtois**.
+
+El Atlét";"PREGUNTA: who plays professionally at Charlton_Athletic_FC ?
+REFERENCIA: Reza_GHOOCHANNEJAD
+RESPUESTA: El jugador que juega profesionalmente en el club *Charlton Athletic FC* es **Reza GHOCHANNEJAD**. Este club se encuentra en *Inglaterra*.";"PREGUNTA: what is the jersey number of Luis_SUAREZ ?
+REFERENCIA: 9
+RESPUESTA: El número de camiseta de Luis Suárez es el 9. Esto se deduce porque en los datos proporcionados se indica que wears_number:9 en todas las fichas disponibles.";"PREGUNTA: what is the age of Oribe_PERALTA ?
+REFERENCIA: 30
+RESPUESTA: The age of Oribe_PERALTA is 39 years old (birthdate: 1984-01-12). 2";"PREGUNTA: what position does Javier_HERNANDEZ play ?
+REFERENCIA: Forward
+RESPUESTA: Javier Hernández es un futbolista que juega en la posición de delantero. Actualmente pertenece al club Manchester United FC y también representa a la selección de México. ";"PREGUNTA: who plays professionally at FC_Basel ?
+REFERENCIA: Fabian_SCHAER,Valentin_STOCKER,Marcelo_DIAZ,Die_SEREY,Giovanni_SIO,Yann_SOMMER
+RESPUESTA: As of my last update in October 2023, FC Basel, a Swiss football club, has had several professional play";"PREGUNTA: which prefessional football team does Luis_SUAREZ play for ?
+REFERENCIA: Liverpool_FC
+RESPUESTA: Luis_SUAREZ no está registrado en la base de datos con ningún equipo.";"PREGUNTA: what is the nationality of Reza_GHOOCHANNEJAD ?
+REFERENCIA: England
+RESPUESTA: La nacionalidad de Reza Ghoochannejhad es iraní. Esto se deduce del dato plays_for_country:Iran que indica que juega para el país de Irán. 2";"PREGUNTA: who is from the professional football team Sporting_CP ?
+REFERENCIA: WILLIAM,Marcos_ROJO,RUI_PATRICIO,Islam_SLIMANI
+RESPUESTA: El equipo profesional de fútbol Sporting_CP, ubicado en Portugal, cuenta con los siguientes jugadores en su club: Rui ";"PREGUNTA: which country is the soccer team Atletico_Madrid based in ?
+REFERENCIA: Spain
+RESPUESTA: El equipo de fútbol Atletico Madrid está basado en el país España.";"PREGUNTA: who is from the professional football team SS_Lazio ?
+REFERENCIA: Senad_LULIC,Antonio_CANDREVA,Ogenyi_ONAZI,HELDER_POSTIGA,Lucas_BIGLIA,Alvaro_GONZALEZ,Miroslav_KLOSE
+RESPUESTA: Miroslav Klose, Álvaro González, Helder Postiga, Antonio Candreva, ";"PREGUNTA: which country does Javier_HERNANDEZ play professional in ?
+REFERENCIA: Mexico
+RESPUESTA: Javier Hernández es un jugador profesional de fútbol que juega en el club Manchester United FC. Por lo tanto, juega profesionalmente en Inglaterra.";"PREGUNTA: which club does Adam_TAGGART play for ?
+REFERENCIA: Newcastle_United_Jets_FC
+RESPUESTA: Adam_TAGGART plays for CEREZO OSAKA.";"PREGUNTA: which football club does Didier_DROGBA play for ?
+REFERENCIA: Galatasaray_SK
+RESPUESTA: Didier_DROGBA plays for Galatasaray";"PREGUNTA: which football club does Didier_DROGBA play for ?
+REFERENCIA: Galatasaray_SK
+RESPUESTA: Didier Drogba juega como delantero (Forward) y lleva el número 11 en su equipo. Representa a Costa de Marfil (Ivory Coast) a nivel nacional. En cuanto a su c";"PREGUNTA: where is the football club that Didier_DROGBA plays for ?
+REFERENCIA: Turkey
+RESPUESTA: Didier Drogba es un futbolista que juega en el club Galatasaray SK.";"PREGUNTA: which football club does Alan_PULIDO play for ?
+REFERENCIA: Tigres_UANL
+RESPUESTA: As of my last update in October 2023, Alan Pulido plays for **Sporting Kansas City**, a team in Major League Soccer (MLS). Please verify with the latest sources t";"PREGUNTA: who plays professionally at Charlton_Athletic_FC ?
+REFERENCIA: Reza_GHOOCHANNEJAD
+RESPUESTA: El jugador que juega profesionalmente en el Charlton Athletic FC es Reza Ghoochannejad. El club Charlton Athletic FC se encuentra en Inglaterra.";"PREGUNTA: which club does Edin_DZEKO play for ?
+REFERENCIA: Manchester_City_FC
+RESPUESTA: Edin Džeko es un jugador de fútbol que juega en la posición de delantero. Representa a la selección nacional de Bosnia y Herzegovina y lleva el número 11 en su camis";"PREGUNTA: which football club does FRED play for ?
+REFERENCIA: Fluminense_FC
+RESPUESTA: Fred es un jugador de fútbol de 30 años que juega como delantero y lleva el número 9 en su camiseta. Representa a Brasil a nivel internacional y actualmente forma p14";"PREGUNTA: what is the age of Robin_VAN_PERSIE ?
+REFERENCIA: 30
+RESPUESTA: Robin van Persie tiene 30 años. Esta información se deriva de la propiedad is_aged:30 asociada con él en los datos proporcionados. 2";"PREGUNTA: what is the age of Oribe_PERALTA ?
+REFERENCIA: 30
+RESPUESTA: Oribe Peralta tiene 30 años. Esta información se obtiene de los datos provistos, donde se indica que el atributo **is_aged** para Oribe Peralta tiene el valor de 30.";"PREGUNTA: which country is the soccer team Galatasaray_SK based in ?
+REFERENCIA: Turkey
+RESPUESTA: El equipo de fútbol Galatasaray SK está basado en el país Turquía. Esto se indica mediante la relación is_in_country: Turkey asociada a Galatasaray SK.";"PREGUNTA: which country is the soccer team Fluminense_FC based in ?
+REFERENCIA: Brazil
+RESPUESTA: Fluminense_FC es un equipo de fútbol que tiene como país de origen a Brasil. Esto se indica explícitamente en la información proporcionada bajo el atributo `";"PREGUNTA: which country does FRED play professional in ?
+REFERENCIA: Brazil
+RESPUESTA: FRED plays professionally in Brasil";"PREGUNTA: what is the jersey number of Luis_SUAREZ ?
+REFERENCIA: 9
+RESPUESTA: Luis Suárez es un jugador que ocupa la posición de delantero (Forward). Tiene 27 años de edad, viste el dorsal número 9, juega en el club Liverpool FC y representa a Uruguay a n";"PREGUNTA: which country does FRED play professional in ?
+REFERENCIA: Brazil
+RESPUESTA: Fred juega profesionalmente en el club Fluminense FC. Éste se encuentra en Brasil, ya que Fred también representa a este país en el panorama internacional como jugador ";"PREGUNTA: how old is Abel_HERNANDEZ ?
+REFERENCIA: 23
+RESPUESTA: Abel Hernández tiene 23 años. Esta información se obtiene de los datos donde se especifica que su edad actual es de 23 años.";"PREGUNTA: what number does NEYMAR wear ?
+REFERENCIA: 10
+RESPUESTA: NEYMAR usa el número 10. Esto se indica claramente en la información proporcionada en los datos disponibles: **wears_number:10**. 2";"PREGUNTA: what is the age of NEYMAR ?
+REFERENCIA: 22
+RESPUESTA: Neymar was born on **February 5, 1992**. As of today, he is **31 years old**.";"PREGUNTA: what position does Reza_GHOOCHANNEJAD play ?
+REFERENCIA: Forward
+RESPUESTA: Reza Ghoochannejhad es un jugador de fútbol que ocupa la posición de **delantero (Forward)**. Tiene 26 años, juega en el club **Charlton Athletic FC** y representa a la ";"PREGUNTA: what is the jersey number of Abel_HERNANDEZ ?
+REFERENCIA: 8
+RESPUESTA: El número de camiseta de Abel Hernández es el **8**.
+
+Esto se deduce a partir de los datos relacionados con Abel Hernández, donde se especifica que su atributo `wears_number`";"PREGUNTA: where is the football club that Alan_PULIDO plays for ?
+REFERENCIA: Mexico
+RESPUESTA: Alan Pulido es un jugador de fútbol que juega en el club Tigres UANL. Este es el equipo al que pertenece.";"PREGUNTA: which professional football team does Oribe_PERALTA play for ?
+REFERENCIA: Club_Santos_Laguna
+RESPUESTA: Oribe Peralta es un futbolista profesional de 30 años que juega como delantero. Representa al club mexicano Club Santos Laguna, que también ";"PREGUNTA: name a soccer club in Switzerland ?
+REFERENCIA: FC_Basel,Grasshopper_Club,FC_Zuerich,FC_Luzern,FC_Sion,BSC_Young_Boys
+RESPUESTA: Un club de fútbol en Suiza es el **FC Sion**, que está registrado como is_in_country: Switzerland en los datos propo";"PREGUNTA: who is from the professional football team Fluminense_FC ?
+REFERENCIA: FRED
+RESPUESTA: Fluminense FC es un equipo profesional de fútbol ubicado en Brasil. Según la información proporcionada, juega en este club el jugador Fred.";"PREGUNTA: what is the nationality of Fabian_SCHAER ?
+REFERENCIA: Switzerland
+RESPUESTA: Fabian_SCHAER  tiene la nacionalidad Switzerland.";"PREGUNTA: what is the age of Eric_CHOUPO_MOTING ?
+REFERENCIA: 25
+RESPUESTA: Eric Choupo-Moting tiene 25 años.";"PREGUNTA: which country is the soccer team Sporting_CP based in ?
+REFERENCIA: Portugal
+RESPUESTA: El equipo de fútbol Sporting_CP está basado en el país Portugal. Esto se indica claramente en la información disponible en el elemento correspondiente, donde";"PREGUNTA: which country does Shinji_OKAZAKI play professional in ?
+REFERENCIA: Germany
+RESPUESTA: Shinji Okazaki juega profesionalmente en el club FSV Mainz 05. Esta información se extrae de los datos que indican que plays_in_club: FSV_Mainz_05,.";"PREGUNTA: what is the age of Alan_PULIDO ?
+REFERENCIA: 23
+RESPUESTA: Alan Pulido tiene 23 años. Esta información se indica claramente en múltiples ocasiones como is_aged:23 asociada a él en los datos proporcionados.";"PREGUNTA: what number does Edin_DZEKO wear ?
+REFERENCIA: 11
+RESPUESTA: As of my last update in October 2023, Edin Džeko typically wears the **number 9** jersey for both his clubs and the Bosnian national team. However, numbers can change depending on tran";"PREGUNTA: which soccer club is based in Brazil ?
+REFERENCIA: Palmeiras,Fluminense_FC,CR_Vasco_da_Gama,SC_Internacional,Santos_FC,Botafogo_FR,Sao_Paulo_FC,CR_Flamengo,Atletico_Mineiro
+RESPUESTA: Un club de fútbol que está basado en Brasil es **Sao_Paulo15";"PREGUNTA: what position does David_VILLA play ?
+REFERENCIA: Forward
+RESPUESTA: David_VILLA juega en la posición de Forward.";"PREGUNTA: which country does Klaas_Jan_HUNTELAAR play professional in ?
+REFERENCIA: Germany
+RESPUESTA: La información proporcionada no menciona a Klaas-Jan Huntelaar ni hace referencia al club o país en el que juega profesionalmente. Por lo tanto, no pued";"PREGUNTA: which football club does FRED play for ?
+REFERENCIA: Fluminense_FC
+RESPUESTA: Fred es un jugador de fútbol de 30 años que juega como delantero y lleva el número 9 en su camiseta. Representa a Brasil a nivel internacional y actualmente forma p16";"PREGUNTA: what number does Adam_TAGGART wear ?
+REFERENCIA: 9
+RESPUESTA: Adam Taggart lleva el número 9. 2";"PREGUNTA: which country is the soccer team Manchester_City_FC based in ?
+REFERENCIA: England
+RESPUESTA: El equipo de fútbol Manchester City FC está basado en Inglaterra.";"PREGUNTA: what is the age of Oribe_PERALTA ?
+REFERENCIA: 30
+RESPUESTA: The age of Oribe_PERALTA is 39 years old (birthdate: 1984-01-12). 3";"PREGUNTA: which country is the soccer team Manchester_United_FC based in ?
+REFERENCIA: England
+RESPUESTA: El equipo de fútbol Manchester United FC está basado en el país **Inglaterra**. Esto se indica claramente en la propiedad `is_in_country` asociada a ";"PREGUNTA: which prefessional football team does Reza_GHOOCHANNEJAD play for ?
+REFERENCIA: Charlton_Athletic_FC
+RESPUESTA: Reza Ghoochannejhad es un jugador profesional de fútbol, de 26 años de edad, que juega en la posición de delantero. Actualmente juega";"PREGUNTA: which country is the soccer team Fluminense_FC based in ?
+REFERENCIA: Brazil
+RESPUESTA: El equipo de fútbol Fluminense_FC está basado en Brasil.";"PREGUNTA: which club does Klaas_Jan_HUNTELAAR play for ?
+REFERENCIA: FC_Schalke_04
+RESPUESTA: Con la información proporcionada, no se menciona a Klaas-Jan Huntelaar ni se indica que juegue en el club AZ Alkmaar o en otro equipo. Por lo tanto, con los dato";"PREGUNTA: name a soccer club in Switzerland ?
+REFERENCIA: FC_Basel,Grasshopper_Club,FC_Zuerich,FC_Luzern,FC_Sion,BSC_Young_Boys
+RESPUESTA: Un club de fútbol en Suiza es **FC_Sion**, que se encuentra en el país Suiza.";"PREGUNTA: what is the age of Luis_SUAREZ ?
+REFERENCIA: 27
+RESPUESTA: Luis Suárez tiene 27 años. Juega como delantero y lleva el número 9 en su camiseta. Actualmente, juega en el club Liverpool FC y representa a la selección de Uruguay.";"PREGUNTA: what is the jersey number of Abel_HERNANDEZ ?
+REFERENCIA: 8
+RESPUESTA: El número de camiseta de Abel Hernández es el **8**. Esto se menciona específicamente en la ficha que describe a Abel Hernández, donde se indica su nombre, posición (delanter";"PREGUNTA: which football club does David_VILLA play for ?
+REFERENCIA: Atletico_Madrid
+RESPUESTA: David Villa juega para el club Atlético de Madrid.";"PREGUNTA: what position does Alan_PULIDO play ?
+REFERENCIA: Forward
+RESPUESTA: Alan_Pulido juega en la posición de Forward.";"PREGUNTA: which football club does Alan_PULIDO play for ?
+REFERENCIA: Tigres_UANL
+RESPUESTA: As of my last update in October 2023, Alan Pulido plays for **Sporting Kansas City**, a team in Major League Soccer (MLS). Please verify with the latest source17";"PREGUNTA: what is the jersey number of Luis_SUAREZ ?
+REFERENCIA: 9
+RESPUESTA: El número de camiseta de Luis Suárez es el **9**. Según la información proporcionada, Luis Suárez tiene 27 años, juega como delantero (Forward) en el Liverpool FC y representa a";"PREGUNTA: what is the age of FRED ?
+REFERENCIA: 30
+RESPUESTA: La edad de FRED es 30.";"PREGUNTA: what is the age of David_VILLA ?
+REFERENCIA: 32
+RESPUESTA: Según la información disponible, David Villa tiene **32 años**. Esto se indica explícitamente mediante el atributo is_aged:32 en cada registro relacionado con él. Otros datos mencionados";"PREGUNTA: which country does Fabian_SCHAER play professional in ?
+REFERENCIA: Switzerland
+RESPUESTA: Fabian Schär juega profesionalmente en Suiza. Según la información, se indica que él juega en el club FC Basel, el cual pertenece al país Suiza.";"PREGUNTA: which prefessional football team does Fabian_SCHAER play for ?
+REFERENCIA: FC_Basel
+RESPUESTA: As of my last update in October 2023, Fabian Schär plays for **Newcastle United**, a professional football club in the English Premier League. He is a";"PREGUNTA: which country is the soccer team Galatasaray_SK based in ?
+REFERENCIA: Turkey
+RESPUESTA: El equipo de fútbol **Galatasaray_SK** está basado en el país **Turquía**.";"PREGUNTA: what position does Alan_PULIDO play ?
+REFERENCIA: Forward
+RESPUESTA: Alan Pulido juega en la posición de delantero (Forward).";"PREGUNTA: what is the jersey number of Shinji_OKAZAKI ?
+REFERENCIA: 9
+RESPUESTA: El número de camiseta de Shinji_OKAZAKI es 9.";"PREGUNTA: where is the football club that Adam_TAGGART plays for ?
+REFERENCIA: Australia
+RESPUESTA: 주의naoimeifico <https://www.naver.com> neeo
+
+football club that Adam_TAGGART plays for is located in Suwon";"PREGUNTA: what position does Islam_SLIMANI play ?
+REFERENCIA: Forward
+RESPUESTA: Islam Slimani juega en la posición de **Forward (delantero)**.";"PREGUNTA: who plays at the soccer club FSV_Mainz_05 ?
+REFERENCIA: PARK_Jooho,Junior_DIAZ,Shinji_OKAZAKI,Eric_CHOUPO_MOTING,KOO_Jacheol
+RESPUESTA: El club de fútbol FSV Mainz 05, ubicado en Alemania, tiene en su plantilla a los siguientes jugadores:  
+- KO";"PREGUNTA: what position does Gonzalo_HIGUAIN play ?
+REFERENCIA: Forward
+RESPUESTA: La información proporcionada no incluye datos sobre Gonzalo HIGUAÍN ni su posición. Por lo tanto, no puedo responder a la pregunta sobre qué posición ocupa Gonzalo HIGUAÍN,";"PREGUNTA: which country is the soccer team Tigres_UANL based in ?
+REFERENCIA: Mexico
+RESPUESTA: El equipo de fútbol Tigres UANL está basado en México, según la información proporcionada.";"PREGUNTA: who is from the professional football team Sporting_CP ?
+REFERENCIA: WILLIAM,Marcos_ROJO,RUI_PATRICIO,Islam_SLIMANI
+RESPUESTA: La información proporcionada indica que los jugadores asociados al equipo de fútbol profesional Sporting_CP son RUI_PA";"PREGUNTA: which country does Islam_SLIMANI play professional in ?
+REFERENCIA: Portugal
+RESPUESTA: Islam Slimani juega profesionalmente en Portugal, ya que juega en el club Sporting CP.";"PREGUNTA: what position does NEYMAR play ?
+REFERENCIA: Forward
+RESPUESTA: Neymar juega en la posición de **delantero** (*Forward*). 2";"PREGUNTA: where is the football club that Alan_PULIDO plays for ?
+REFERENCIA: Mexico
+RESPUESTA: Alan Pulido juega en el club Tigres UANL. Según la información provista, no se indica directamente en qué país está ubicado Tigres UANL, pero no se proporciona";"PREGUNTA: which country does FRED play professional in ?
+REFERENCIA: Brazil
+RESPUESTA: Fred juega profesionalmente en Brasil, ya que está registrado como jugador del club Fluminense FC, que se encuentra en dicho país.";"PREGUNTA: which country does Luis_SUAREZ play professional in ?
+REFERENCIA: England
+RESPUESTA: Luis Suárez es un jugador de fútbol profesional que juega en el club **Liverpool FC**. La información proporcionada indica que el club Liverpool FC está ubicado";"PREGUNTA: which country is the soccer team Club_Santos_Laguna based in ?
+REFERENCIA: Mexico
+RESPUESTA: El equipo de fútbol Club Santos Laguna está basado en México. Esta información se obtiene del dato que indica que is_in_country es México. Además, el ju";"PREGUNTA: which country is Adam_TAGGART from ?
+REFERENCIA: Australia
+RESPUESTA: Adam Taggart is from Australia. This information is confirmed by multiple entries indicating that Adam Taggart plays_for_country: Australia.";"PREGUNTA: which national team does Oribe_PERALTA play for ?
+REFERENCIA: Mexico
+RESPUESTA: Oribe Peralta es un jugador de fútbol que juega como delantero y lleva el número 19. Tiene 30 años y juega en el equipo Club Santos Laguna. Además, representa a la s";"PREGUNTA: which country is the soccer team Liverpool_FC based in ?
+REFERENCIA: England
+RESPUESTA: The soccer team Liverpool FC is based in United Kingdom 2";"PREGUNTA: which country is Adam_TAGGART from ?
+REFERENCIA: Australia
+RESPUESTA: Adam Taggart is from 澳大利亚";"PREGUNTA: which country is the soccer team Manchester_United_FC based in ?
+REFERENCIA: England
+RESPUESTA: El equipo de fútbol **Manchester United FC** está basado en **Inglaterra**. Esto se indica explícitamente en la información disponible bajo la catego";"PREGUNTA: which country does Javier_HERNANDEZ play professional in ?
+REFERENCIA: Mexico
+RESPUESTA: Javier_HERNANDEZ plays professionally in USA";"PREGUNTA: how old is Fabian_SCHAER ?
+REFERENCIA: 22
+RESPUESTA: Fabian SCHAER tiene 22 años. Esto se indica explícitamente en los datos proporcionados, donde se menciona bajo la propiedad is_aged que su edad actual es de 22 años.";"PREGUNTA: how old is Klaas_Jan_HUNTELAAR ?
+REFERENCIA: 30
+RESPUESTA: Klaas-Jan Huntelaar was born on **August 12, 1983**. That would make him **40 years old** as of today, October 30, 2023.";"PREGUNTA: what number does NEYMAR wear ?
+REFERENCIA: 10
+RESPUESTA: NEYMAR wears the number 10.";"PREGUNTA: which country is the soccer team Atletico_Madrid based in ?
+REFERENCIA: Spain
+RESPUESTA: Atletico_Madrid está basado en Spain.";"PREGUNTA: what is the jersey number of Javier_HERNANDEZ ?
+REFERENCIA: 14
+RESPUESTA: El número de camiseta de Javier Hernández es el **14**. Esta información aparece repetidamente y de forma consistente en los datos proporcionados, donde se especifica que ";"PREGUNTA: which country is the soccer team SSC_Napoli based in ?
+REFERENCIA: Italy
+RESPUESTA: El equipo de fútbol SSC Napoli está basado en Italia.";"PREGUNTA: name a player from Newcastle_United_Jets_FC ?
+REFERENCIA: Adam_TAGGART
+RESPUESTA: Un jugador del Newcastle United Jets FC es Adam Taggart. Este club está ubicado en Australia.";"PREGUNTA: which professional football team does Oribe_PERALTA play for ?
+REFERENCIA: Club_Santos_Laguna
+RESPUESTA: Con base en los datos proporcionados, no hay información que relacione al futbolista Oribe Peralta con algún equipo profesional. Las fichas ";"PREGUNTA: what position does Shinji_OKAZAKI play ?
+REFERENCIA: Forward
+RESPUESTA: Shinji Okazaki es un jugador de fútbol que juega como delantero. Representa a Japón en competiciones internacionales y milita en el club FSV Mainz 05, donde lleva el número ";"PREGUNTA: what is the jersey number of Klaas_Jan_HUNTELAAR ?
+REFERENCIA: 19
+RESPUESTA: El número de camiseta de Klaas-Jan Huntelaar es el **19**. Este jugador tiene 30 años, juega en el club FC Schalke 04, representa a Países Bajos como país y ocupa la po";"PREGUNTA: where is the football club that Alan_PULIDO plays for ?
+REFERENCIA: Mexico
+RESPUESTA: Alan Pulido juega en el club de fútbol Tigres UANL. Según la información dada, el club Tigres UANL está ubicado en México. Por lo tanto, el club donde juega Al";"PREGUNTA: which country is the soccer team Tigres_UANL based in ?
+REFERENCIA: Mexico
+RESPUESTA: El equipo de fútbol Tigres UANL está basado en el país México. Esto se indica explícitamente bajo el atributo is_in_country asociado a Tigres UANL, que especif";"PREGUNTA: which country does Shinji_OKAZAKI play professional in ?
+REFERENCIA: Germany
+RESPUESTA: As of my last update in October 2023, Shinji Okazaki, the Japanese professional footballer, is playing for **Sint-Truidense V.V.** in **Belgium**. However, p";"PREGUNTA: which national team does FRED play for ?
+REFERENCIA: Brazil
+RESPUESTA: Fred es un jugador de fútbol que juega como delantero en el club Fluminense FC. Además, representa como jugador nacional al equipo de Brasil. Por lo tanto, la selección nacio";"PREGUNTA: where is the football club that Miroslav_KLOSE plays for ?
+REFERENCIA: Italy
+RESPUESTA: Miroslav Klose juega en el club **SS Lazio**. Según la información proporcionada, no hay ningún detalle adicional sobre la ubicación de SS Lazio. Sin embargo";"PREGUNTA: what position does Reza_GHOOCHANNEJAD play ?
+REFERENCIA: Forward
+RESPUESTA: Reza_GHOOCHANNEJAD juega en la posición de Forward.";"PREGUNTA: which national team does Luis_SUAREZ play for ?
+REFERENCIA: Uruguay
+RESPUESTA: Luis_SUAREZ juega en Club_Nacional_de_Football";"PREGUNTA: what position does Robin_VAN_PERSIE play ?
+REFERENCIA: Forward
+RESPUESTA: Robin van Persie is a retired professional footballer who primarily played as a **striker**. He was also capable of playing as a **second striker** or an **attacking midfi";"PREGUNTA: which football club does David_VILLA play for ?
+REFERENCIA: Atletico_Madrid
+RESPUESTA: David Villa es un delantero de 32 años que juega con el número 7 y representa a la selección de España. Además, juega en el club Atlético de Madrid. 2";"PREGUNTA: how old is Klaas_Jan_HUNTELAAR ?
+REFERENCIA: 30
+RESPUESTA: Klaas Jan Huntelaar tiene 30 años. Esta información se proporciona directamente en el campo is_aged relacionado con él.";"PREGUNTA: what position does Islam_SLIMANI play ?
+REFERENCIA: Forward
+RESPUESTA: Islam_SLIMANI plays as a Centre-Forward";"PREGUNTA: who is from the professional football team Sporting_CP ?
+REFERENCIA: WILLIAM,Marcos_ROJO,RUI_PATRICIO,Islam_SLIMANI
+RESPUESTA: Del equipo de fútbol profesional Sporting_CP pertenecen los siguientes jugadores: RUI PATRICIO, Marcos ROJO, Islam SLI";"PREGUNTA: which prefessional football team does Luis_SUAREZ play for ?
+REFERENCIA: Liverpool_FC
+RESPUESTA: Luis Suárez es un jugador profesional de fútbol que juega en la posición de delantero. Tiene 27 años y lleva el número 9 en su camiseta. Actualme18";"PREGUNTA: which country is Robin_VAN_PERSIE from ?
+REFERENCIA: Netherlands
+RESPUESTA: Con la información proporcionada, no se menciona a Robin Van Persie ni datos relacionados con él. Por lo tanto, no es posible determinar de qué país es Robin Van Persie ";"PREGUNTA: which country does FRED play professional in ?
+REFERENCIA: Brazil
+RESPUESTA: Fred juega profesionalmente en el club Fluminense FC. Esto indica que juega en Brasil, ya que no se menciona que el club esté ubicado en otro país y Fred representa a B";"PREGUNTA: which national team does Luis_SUAREZ play for ?
+REFERENCIA: Uruguay
+RESPUESTA: Luis Suárez juega para la selección nacional de Uruguay. Esta información se confirma en varias entradas, que indican que Luis_SUAREZ juega para el país Uruguay. Adem";"PREGUNTA: which country does Luis_SUAREZ play professional in ?
+REFERENCIA: England
+RESPUESTA: Luis Suárez es un jugador de fútbol profesional que juega en el club **Liverpool FC**. La información proporcionada indica que el club Liverpool FC está ubic19";"PREGUNTA: which country is Miroslav_KLOSE from ?
+REFERENCIA: Germany
+RESPUESTA: Miroslav Klose es un jugador de fútbol que juega para la selección de Alemania. Esto se indica claramente en los datos proporcionados bajo la propiedad plays_for_country: Germ";"PREGUNTA: what is the age of Oribe_PERALTA ?
+REFERENCIA: 30
+RESPUESTA: La información proporcionada indica que **Oribe Peralta** tiene 30 años. Esto se deriva del dato is_aged:30 asociado específicamente a Oribe Peralta. 2";"PREGUNTA: which soccer club is based in Brazil ?
+REFERENCIA: Palmeiras,Fluminense_FC,CR_Vasco_da_Gama,SC_Internacional,Santos_FC,Botafogo_FR,Sao_Paulo_FC,CR_Flamengo,Atletico_Mineiro
+RESPUESTA: Sao_Paulo_FC is based in Brazil.";"PREGUNTA: which football club does Shinji_OKAZAKI play for ?
+REFERENCIA: FSV_Mainz_05
+RESPUESTA: Shinji Okazaki es un jugador de fútbol de 28 años que juega como delantero. Actualmente, juega en el club FSV Mainz 05 y representa a la selección nacional de";"PREGUNTA: which country is Eric_CHOUPO_MOTING from ?
+REFERENCIA: Cameroon
+RESPUESTA: Eric Choupo-Moting es un jugador de fútbol que lleva el número 13 en su camiseta, juega en la posición de delantero y representa a la selección de **Camerún**. También fo";"PREGUNTA: which country is the soccer team Newcastle_United_Jets_FC based in ?
+REFERENCIA: Australia
+RESPUESTA: El equipo de fútbol llamado Newcastle United Jets FC está basado en el país Australia, según la información proporcionada en los datos.";"PREGUNTA: who is from the professional football team SS_Lazio ?
+REFERENCIA: Senad_LULIC,Antonio_CANDREVA,Ogenyi_ONAZI,HELDER_POSTIGA,Lucas_BIGLIA,Alvaro_GONZALEZ,Miroslav_KLOSE
+RESPUESTA: La pregunta ¿Quién pertenece al equipo de fútbol profesional SS_Laz";"PREGUNTA: which national team does Edin_DZEKO play for ?
+REFERENCIA: Bosnia_&_Herzegovina
+RESPUESTA: Edin DZEKO juega en la selección nacional de Bosnia_&_Herzegovina.";"PREGUNTA: which country is the soccer team SS_Lazio based in ?
+REFERENCIA: Italy
+RESPUESTA: El equipo de fútbol SS Lazio está basado en **Italia**, según la información disponible. Esto se indica explícitamente en el dato asociado a SS Lazio utilizando la";"PREGUNTA: which country does Shinji_OKAZAKI play professional in ?
+REFERENCIA: Germany
+RESPUESTA: Shinji Okazaki plays professional in Spain";"PREGUNTA: which country is the soccer team Charlton_Athletic_FC based in ?
+REFERENCIA: England
+RESPUESTA: Charlton Athletic FC es un equipo de fútbol que está basado en Inglaterra. Esto se desprende de la información proporcionada en la cual se indica que";"PREGUNTA: which national team does Klaas_Jan_HUNTELAAR play for ?
+REFERENCIA: Netherlands
+RESPUESTA: Klaas-Jan Huntelaar juega para la selección nacional de los Países Bajos. Según la información, también juega en el club FC Schalke 04 como delantero y ll";"PREGUNTA: what is the age of David_VILLA ?
+REFERENCIA: 32
+RESPUESTA: David Villa tiene 32 años. Esto se indica claramente en la información disponible bajo el atributo is_aged.";"PREGUNTA: what is the nationality of Shinji_OKAZAKI ?
+REFERENCIA: Japan
+RESPUESTA: Shinji Okazaki es un jugador de fútbol que juega como delantero y utiliza el dorsal número 9. Actualmente juega en el club FSV Mainz 05 y representa a la selección de Japón";"PREGUNTA: what position does Luis_SUAREZ play ?
+REFERENCIA: Forward
+RESPUESTA: Luis Suárez juega en la posición de delantero (*Forward*).";"PREGUNTA: which club does Gonzalo_HIGUAIN play for ?
+REFERENCIA: SSC_Napoli
+RESPUESTA: Gonzalo_HIGUAIN plays for Inter Miami";"PREGUNTA: which country is Miroslav_KLOSE from ?
+REFERENCIA: Germany
+RESPUESTA: Miroslav Klose is from **Germany**. He was born in Poland but later moved to Germany and represented the German national football team in his career. Klose is widely known as ";"PREGUNTA: what is the nationality of Shinji_OKAZAKI ?
+REFERENCIA: Japan
+RESPUESTA: Shinji Okazaki es un jugador de fútbol profesional que juega en la posición de delantero con el número 9 en el club FSV Mainz 05. Según la información proporcionada, repres";"PREGUNTA: name a soccer club in Portugal ?
+REFERENCIA: Sporting_CP,Sporting_Covilha,FC_Porto,Sporting_Braga,Academica_Coimbra,SL_Benfica
+RESPUESTA: A well-known soccer club in Portugal is **Sport Lisboa e Benfica**, often referred to simply as **Benfica**";"PREGUNTA: what is the jersey number of Abel_HERNANDEZ ?
+REFERENCIA: 8
+RESPUESTA: El número de camiseta de Abel_HERNANDEZ es 8.";"PREGUNTA: which soccer club is based in Brazil ?
+REFERENCIA: Palmeiras,Fluminense_FC,CR_Vasco_da_Gama,SC_Internacional,Santos_FC,Botafogo_FR,Sao_Paulo_FC,CR_Flamengo,Atletico_Mineiro
+RESPUESTA: El club de fútbol que está basado en Brasil, según la info20";"PREGUNTA: which professional football team do players from Portugal play for ?
+REFERENCIA: Sporting_CP,Sporting_Covilha,FC_Porto,Sporting_Braga,Academica_Coimbra,SL_Benfica
+RESPUESTA: Los jugadores de Portugal que están identificados en la información apo";"PREGUNTA: which country is the soccer team Tigres_UANL based in ?
+REFERENCIA: Mexico
+RESPUESTA: El equipo de fútbol Tigres_UANL está basado en el país México. Esto se indica explícitamente en la información proporcionada bajo el atributo is_in_country aso";"PREGUNTA: what position does Gonzalo_HIGUAIN play ?
+REFERENCIA: Forward
+RESPUESTA: Gonzalo Higuaín juega en la posición de delantero (Forward).";"PREGUNTA: what is the age of Shinji_OKAZAKI ?
+REFERENCIA: 28
+RESPUESTA: Shinji Okazaki tiene 28 años. Juega como delantero en el club FSV Mainz 05 y representa a la selección de Japón. Lleva el dorsal número 9 en su camiseta.";"PREGUNTA: which country is the soccer team FC_Schalke_04 based in ?
+REFERENCIA: Germany
+RESPUESTA: El equipo de fútbol FC Schalke 04 está basado en Alemania. Esto se indica en la información bajo el atributo is_in_country, que señala que FC Schalke 04 per";"PREGUNTA: which country does Luis_SUAREZ play professional in ?
+REFERENCIA: England
+RESPUESTA: Luis Suárez juega profesionalmente en Uruguay.";"PREGUNTA: which professional football team do players from Australia play for ?
+REFERENCIA: Newcastle_United_Jets_FC,Western_Sydney_Wanderers_FC,Brisbane_Roar_FC,Adelaide_United_FC,Melbourne_Victory_FC
+RESPUESTA: Jugadores de Australia juegan para una 21";"PREGUNTA: what position does Robin_VAN_PERSIE play ?
+REFERENCIA: Forward
+RESPUESTA: Robin Van Persie juega en la posición de Forward.";"PREGUNTA: what is the nationality of Gonzalo_HIGUAIN ?
+REFERENCIA: Argentina
+RESPUESTA: Gonzalo Higuaín tiene la nacionalidad argentina. Esto se deduce del dato plays_for_country: Argentina, que indica que juega para el país Argentina.";"PREGUNTA: who plays at the soccer club Galatasaray_SK ?
+REFERENCIA: Didier_DROGBA,Aurelien_CHEDJOU,Wesley_SNEIJDER,Fernando_MUSLERA,Izet_HAJROVIC
+RESPUESTA: En el club de fútbol Galatasaray SK juegan los siguientes jugadores: Izet Hajrovic, Fernando Musle";"PREGUNTA: what position does Gonzalo_HIGUAIN play ?
+REFERENCIA: Forward
+RESPUESTA: Gonzalo Higuaín juega en la posición de delantero (Forward). 2";"PREGUNTA: what is the age of Luis_SUAREZ ?
+REFERENCIA: 27
+RESPUESTA: Luis_SUAREZ tiene 27 años. Esta información se encuentra explícitamente indicada en los datos disponibles bajo el atributo is_aged.";"PREGUNTA: where is the football club that Alan_PULIDO plays for ?
+REFERENCIA: Mexico
+RESPUESTA: Alan Pulido juega en el club Tigres UANL. Según la información provista, no se indica directamente en qué país está ubicado Tigres UANL, pero no se proporci22";"PREGUNTA: which soccer club is based in Brazil ?
+REFERENCIA: Palmeiras,Fluminense_FC,CR_Vasco_da_Gama,SC_Internacional,Santos_FC,Botafogo_FR,Sao_Paulo_FC,CR_Flamengo,Atletico_Mineiro
+RESPUESTA: El club de fútbol que está basado en Brasil se encuentra iden";"PREGUNTA: what number does Miroslav_KLOSE wear ?
+REFERENCIA: 11
+RESPUESTA: Miroslav Klose es un jugador que representa a Alemania y juega en la posición de delantero. Actualmente tiene 36 años y juega en el club SS Lazio. El número que utiliza en su camis";"PREGUNTA: what position does Miroslav_KLOSE play ?
+REFERENCIA: Forward
+RESPUESTA: Miroslav Klose juega en la posición de delantero (Forward). 2";"PREGUNTA: which national team does Islam_SLIMANI play for ?
+REFERENCIA: Algeria
+RESPUESTA: Islam Slimani juega para la selección nacional de Argelia. Según la información proporcionada, representa a este país en competencias internacionales.";"PREGUNTA: what position does Eric_CHOUPO_MOTING play ?
+REFERENCIA: Forward
+RESPUESTA: Eric Choupo-Moting juega en la posición de Forward, es decir, delantero.";"PREGUNTA: which prefessional football team does Reza_GHOOCHANNEJAD play for ?
+REFERENCIA: Charlton_Athletic_FC
+RESPUESTA: As of my last update in October 2023, Reza Ghoochannejhad, the Iranian professional footballer, retired from professional football in";"PREGUNTA: which football club does Alan_PULIDO play for ?
+REFERENCIA: Tigres_UANL
+RESPUESTA: Alan Pulido es un jugador de fútbol que juega en el club Tigres UANL. Su posición en el campo es la de delantero y usa el número 11. Aunque juega para el club Tig";"PREGUNTA: which country is the soccer team Tigres_UANL based in ?
+REFERENCIA: Mexico
+RESPUESTA: El equipo de fútbol Tigres UANL está basado en México. Esto se deduce de la información que indica que el equipo Tigres_UANL tiene la propiedad is_in_country: ";"PREGUNTA: which country is the soccer team US_Citta_di_Palermo based in ?
+REFERENCIA: Italy
+RESPUESTA: The soccer team US_Citta_di_Palermo is based in Italy";"PREGUNTA: what position does Klaas_Jan_HUNTELAAR play ?
+REFERENCIA: Forward
+RESPUESTA: Klaas-Jan Huntelaar juega en la posición de Forward (delantero).";"PREGUNTA: what is the jersey number of Robin_VAN_PERSIE ?
+REFERENCIA: 9
+RESPUESTA: El número de camiseta de Robin Van Persie es el **9**.";"PREGUNTA: what is the age of Reza_GHOOCHANNEJAD ?
+REFERENCIA: 26
+RESPUESTA: Reza Ghoochannejhad tiene 26 años. Esta información se encuentra específica bajo el campo is_aged:26 en los datos proporcionados.";"PREGUNTA: who is from the professional football team Sporting_CP ?
+REFERENCIA: WILLIAM,Marcos_ROJO,RUI_PATRICIO,Islam_SLIMANI
+RESPUESTA: Los jugadores que pertenecen al equipo profesional de fútbol Sporting_CP son los siguientes:
+
+1. **RUI_PATRICIO**:
+   ";"PREGUNTA: which prefessional football team does Luis_SUAREZ play for ?
+REFERENCIA: Liverpool_FC
+RESPUESTA: Luis Suárez es un futbolista profesional que juega en la posición de delantero. Tiene 27 años, lleva el número 9 en su camiseta y juega en el club *";"PREGUNTA: what is the jersey number of Gonzalo_HIGUAIN ?
+REFERENCIA: 9
+RESPUESTA: Gonzalo_HIGUAIN's jersey number is 9 3";"PREGUNTA C316-192: how old is Fabian_SCHAER ?
+REFERENCIA: 22
+RESPUESTA: Fabian Schär tiene 22 años. Esta información se indica explícitamente con el dato is_aged:22 asociado a su registro.";"PREGUNTA C314-179: who is from the professional football team Fluminense_FC ?
+REFERENCIA: FRED
+RESPUESTA: El jugador que pertenece al equipo profesional de fútbol Fluminense_FC es FRED. FRED juega como delantero, representa al país de Brasil y actualmente";"PREGUNTA C316-18: which country is the soccer team Newcastle_United_Jets_FC based in ?
+REFERENCIA: Australia
+RESPUESTA: El equipo de fútbol *Newcastle United Jets FC* está basado en **Australia**. Esto se indica claramente en la información disponible, do";"PREGUNTA C302-109: what is the age of Gonzalo_HIGUAIN ?
+REFERENCIA: 26
+RESPUESTA: Gonzalo_HIGUAIN is 36 years old.";"PREGUNTA C313-103: which player is from Germany ?
+REFERENCIA: Lukas_PODOLSKI,Marco_REUS,Toni_KROOS,Bastian_SCHWEINSTEIGER,Erik_DURM,Manuel_NEUER,Mario_GOETZE,Sami_KHEDIRA,Andre_SCHUERRLE,Benedikt_HOEWEDES,Christoph_KRAMER,Mats_HUMMELS,Jerome_BOATENG,Roman";"PREGUNTA C302-79: how old is Javier_HERNANDEZ ?
+REFERENCIA: 26
+RESPUESTA: Javier_HERNANDEZ is 48 years old";"PREGUNTA C316-147: which professional football team does Robin_VAN_PERSIE play for ?
+REFERENCIA: Manchester_United_FC
+RESPUESTA: Robin van Persie es un jugador profesional de fútbol que juega como delantero. Tiene 30 años, lleva el número 9 en su camiseta";"PREGUNTA C316-26: what is the age of Reza_GHOOCHANNEJAD ?
+REFERENCIA: 26
+RESPUESTA: Reza Ghoochannejad tiene 26 años. 2";"PREGUNTA C312-119: what position does Oribe_PERALTA play ?
+REFERENCIA: Forward
+RESPUESTA: La información proporcionada no incluye datos sobre Oribe Peralta. Por tanto, no es posible determinar qué posición juega.";"PREGUNTA C302-177: which national team does FRED play for ?
+REFERENCIA: Brazil
+RESPUESTA: FRED plays for the Brazil national team.";"PREGUNTA C310-95: which country does Edin_DZEKO play professional in ?
+REFERENCIA: England
+RESPUESTA: Edin_DZEKO plays for Bosnia_&_Herzegovina.";"PREGUNTA C310-15: how old is Adam_TAGGART ?
+REFERENCIA: 21
+RESPUESTA: Adam_TAGGART tiene 21 años.";"PREGUNTA C311-85: name a soccer club in England ?
+REFERENCIA: Wigan_Athletic_FC,Watford_FC,Aston_Villa_FC,Swindon_Town_FC,Preston_North_End_FC,Stoke_City_FC,Tottenham_Hotspur_FC,Nottingham_Forest_FC,Charlton_Athletic_FC,Swansea_City_AFC,Newcastle_United_F";"PREGUNTA C302-200: which country does Fabian_SCHAER play professional in ?
+REFERENCIA: Switzerland
+RESPUESTA: Fabian_SCHAER plays professionally in Switzerland";"PREGUNTA C310-50: what is the jersey number of Didier_DROGBA ?
+REFERENCIA: 11
+RESPUESTA: La información disponible no incluye datos de Didier_DROGBA.";"PREGUNTA C313-106: name a soccer club that has a player from Germany ?
+REFERENCIA: 1._FC_Nuernberg,VfL_Wolfsburg,Hertha_BSC,Bayer_04_Leverkusen,VfB_Stuttgart,Eintracht_Frankfurt,FC_Augsburg,FC_Schalke_04,Fortuna_Duesseldorf,FSV_Frankfurt,Borussia_Dortmund"
+6/7/2026 18:28:10;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C313-37-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C318-50-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C312-25-5];La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C316-197-3];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C312-184-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C316-92-5];Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C301-45-1];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C312-99-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C311-54-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C317-166-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;17;Estudiante de grado;Estudios relacionados con la computación (telecomunicaciones, informática, matemáticas...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6/8/2026 10:37:17;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C316-156-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C315-139-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C317-145-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C318-184-5];"La respuesta admite que no puede proporcionar una respuesta o carece de contexto; es honesta. [C301-145-2]";Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C302-19-1];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C313-52-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18;Estudiante de grado;Estudios en ciencia/tecnología (otras ingenierías, física, química...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C315-150-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C318-26-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C317-134-5];;;;;;;;;;;;;;;;;;
+6/15/2026 16:46:59;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C301-22-5];Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C301-130-1];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C316-96-4]";La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C316-87-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C310-144-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C315-181-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;19;Estudiante de grado;Estudios en ciencia/tecnología (otras ingenierías, física, química...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C311-1-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C312-6-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C302-71-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C314-97-5];;;;;;;;;;;;;;;;;;;;;
+6/16/2026 16:52:46;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C302-160-1];"La respuesta admite que no puede proporcionar una respuesta o carece de contexto; es honesta. [C312-11-2]";"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C310-102-4]";La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C316-36-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C313-124-5];"La respuesta admite que no puede proporcionar una respuesta o carece de contexto; es honesta. [C311-50-2]";La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C318-19-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C313-190-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C309-130-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C311-102-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18;Estudiante de grado;Estudios en ciencia/tecnología (otras ingenierías, física, química...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6/17/2026 12:04:41;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C318-4-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C313-120-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C309-15-5];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C311-169-4]";Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C309-163-1];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C309-175-4]";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18;Estudiante de grado;Estudios en ciencia/tecnología (otras ingenierías, física, química...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C318-140-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C314-132-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C317-185-5];Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C301-24-1];;;;;;;;;;;;;;;;;;;;;;;;;
+6/17/2026 12:14:47;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C314-77-5];"La respuesta admite que no puede proporcionar una respuesta o carece de contexto; es honesta. [C313-77-2]";La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C309-56-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C316-56-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C313-163-5];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C302-151-4]";La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C312-160-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C310-102-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C317-191-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C314-165-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18;Estudiante de grado;Estudios en ciencia/tecnología (otras ingenierías, física, química...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6/17/2026 12:22:23;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C301-11-1];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C312-39-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C315-88-5];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C312-23-4]";No puedo responder o no entiendo. [C309-146-0];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C317-160-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C312-151-5];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C311-171-4]";La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C301-92-5];Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C309-189-1];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;19;Estudiante de grado;Estudios en ciencia/tecnología (otras ingenierías, física, química...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6/17/2026 14:07:44;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C315-140-3];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C302-110-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C301-18-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C316-105-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C316-175-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C316-39-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C302-82-5];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C318-1-4]";La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C302-168-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C317-50-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;19;Estudiante de grado;Estudios en ciencia/tecnología (otras ingenierías, física, química...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6/17/2026 20:09:32;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C301-112-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C317-77-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C314-107-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C312-95-5];Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C316-189-1];No puedo responder o no entiendo. [C302-120-0];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;19;Estudiante de grado;Estudios en ciencia/tecnología (otras ingenierías, física, química...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C315-165-5];Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C316-11-1];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C312-181-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C309-142-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6/18/2026 14:18:58;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"La respuesta admite que no puede proporcionar una respuesta o carece de contexto; es honesta. [C312-98-2]";Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C318-138-1];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C315-189-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C317-175-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C318-1-5];No puedo responder o no entiendo. [C302-169-0];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C315-16-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C316-100-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18;Estudiante de grado;Estudios en ciencia/tecnología (otras ingenierías, física, química...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C311-53-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C314-108-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6/18/2026 16:26:26;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C314-25-5];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C312-200-4]";No puedo responder o no entiendo. [C302-105-0];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C311-49-4]";La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C311-97-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C301-41-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C315-47-5];"La respuesta admite que no puede proporcionar una respuesta o carece de contexto; es honesta. [C301-53-2]";La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C318-136-5];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C309-181-4]";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;19;Estudiante de grado;Estudios en ciencia/tecnología (otras ingenierías, física, química...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6/18/2026 16:53:18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C318-176-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C318-51-5];No puedo responder o no entiendo. [C302-102-0];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C302-108-5];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C317-149-4]";La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C317-162-3];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18;Estudiante de grado;Estudios en ciencia/tecnología (otras ingenierías, física, química...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;No puedo responder o no entiendo. [C310-171-0];No puedo responder o no entiendo. [C312-23-0];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C315-148-4]";La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C318-111-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6/22/2026 19:22:17;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C302-110-5];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C318-133-4]";La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C317-194-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C318-66-5];Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C302-147-1];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;22;Estudiante de grado;Estudios en ciencia/tecnología (otras ingenierías, física, química...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C311-138-5];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C317-6-4]";La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C314-108-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C309-156-5];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C313-101-4]";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6/23/2026 0:54:21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C315-121-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C302-99-5];No puedo responder o no entiendo. [C310-162-0];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C314-37-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C315-34-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C310-124-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;23;Estudiante de grado;Estudios en ciencia/tecnología (otras ingenierías, física, química...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C314-158-5];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C301-136-4]";La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C310-69-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C314-181-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6/23/2026 1:14:13;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C302-166-4]";La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C302-34-3];La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C301-28-3];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C316-118-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C301-140-5];La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C302-72-3];No puedo responder o no entiendo. [C302-21-0];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C315-162-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C316-150-5];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C316-140-4]";;;;;;;;;;;;;;;;;;;;;23;Estudiante de grado;Estudios en ciencia/tecnología (otras ingenierías, física, química...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6/23/2026 11:00:52;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C314-62-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C317-14-5];Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C316-28-1];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C310-191-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C316-159-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C309-173-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C314-141-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C312-111-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C314-87-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C314-26-5];;;;;;;;;;;22;Estudiante de grado;Estudios en ciencia/tecnología (otras ingenierías, física, química...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6/24/2026 12:38:23;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;55;Estudiante de Doctorado;Estudios relacionados con la computación (telecomunicaciones, informática, matemáticas...);La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C316-164-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C318-62-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C316-30-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C314-166-5];No puedo responder o no entiendo. [C302-120-0];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C311-78-5];Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C301-196-1];"La respuesta admite que no puede proporcionar una respuesta o carece de contexto; es honesta. [C310-163-2]";La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C316-28-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C313-134-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6/24/2026 12:57:26;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;23;Estudiante de master;Estudios relacionados con la computación (telecomunicaciones, informática, matemáticas...);;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C311-61-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C310-145-5];Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C312-86-1];No puedo responder o no entiendo. [C302-13-0];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C302-47-4]";La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C312-47-5];Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C309-55-1];"La respuesta admite que no puede proporcionar una respuesta o carece de contexto; es honesta. [C301-1-2]";La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C318-30-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C312-87-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6/24/2026 13:07:21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;22;Estudiante de master;Estudios en ciencia/tecnología (otras ingenierías, física, química...);;;;;;;;;;;;;;;;;;;;;La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C309-173-3];La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C318-149-3];La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C314-120-3];La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C314-52-3];La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C318-178-3];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C302-182-5];La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C309-166-3];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C312-182-4]";"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C312-68-4]";La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C312-39-3];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6/29/2026 11:41:58;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;55;Trabajo en la Universidad;Otros estudios;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;No puedo responder o no entiendo. [C301-38-0];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C317-25-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C317-69-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C309-11-5];La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C314-118-3];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C312-199-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C309-179-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C310-194-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C302-107-1];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C301-143-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6/29/2026 12:11:35;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;55;Trabajo fuera de la Universidad;Estudios en ciencia/tecnología (otras ingenierías, física, química...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C317-186-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C313-133-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C318-162-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C316-3-5];Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C301-90-1];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C315-181-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C310-57-5];"La respuesta admite que no puede proporcionar una respuesta o carece de contexto; es honesta. [C312-105-2]";La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C309-173-5];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C315-16-4]";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6/29/2026 14:58:12;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;54;Estudiante de master;Otros estudios;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C309-92-3];No puedo responder o no entiendo. [C302-120-0];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C317-82-4]";La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C313-24-3];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C310-178-5];Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C309-96-1];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C317-199-4]";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C309-58-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C311-158-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C312-164-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6/29/2026 18:25:40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;58;Otras;Estudios en ciencia/tecnología (otras ingenierías, física, química...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C309-165-3];La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C316-69-3];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C313-56-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C310-2-5];"La respuesta admite que no puede proporcionar una respuesta o carece de contexto; es honesta. [C301-1-2]";La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C316-166-3];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C310-175-5];La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C315-58-3];La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C313-200-3];Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C301-190-1];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+7/5/2026 11:26:52;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;55;Trabajo fuera de la Universidad;Estudios en ciencia/tecnología (otras ingenierías, física, química...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C318-52-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C314-2-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C310-157-5];Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C302-22-1];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C313-129-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C310-91-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C316-144-5];No puedo responder o no entiendo. [C302-162-0];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C315-29-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C313-100-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+7/5/2026 18:53:40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;54;Trabajo fuera de la Universidad;Estudios en ciencia/tecnología (otras ingenierías, física, química...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C318-160-4]";"La respuesta admite que no puede proporcionar una respuesta o carece de contexto; es honesta. [C309-108-2]";La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C309-6-5];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C318-134-4]";La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C316-137-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C313-37-5];"La respuesta admite que no puede proporcionar una respuesta o carece de contexto; es honesta. [C316-11-2]";La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C316-182-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C314-171-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C311-123-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+7/5/2026 19:01:30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;54;Otras;Otros estudios;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C317-17-5];"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C314-122-4]";"La respuesta es aceptable; contiene la información de la REFERENCIA pero no es exhaustiva. [C302-168-4]";No puedo responder o no entiendo. [C302-17-0];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C312-82-5];Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C302-86-1];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C315-192-5];No puedo responder o no entiendo. [C301-98-0];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C310-39-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C310-61-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+7/5/2026 22:28:55;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18;Estudiante de grado;Estudios en ciencia/tecnología (otras ingenierías, física, química...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C315-80-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C311-112-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C311-19-5];"La respuesta admite que no puede proporcionar una respuesta o carece de contexto; es honesta. [C313-118-2]";;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C313-120-5];La respuesta tiene parte de la respuesta correcta según la REFERENCIA. [C310-181-3];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C317-154-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C315-188-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C313-18-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C312-145-5];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+7/6/2026 11:09:03;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;41;Trabajo fuera de la Universidad;Estudios relacionados con la computación (telecomunicaciones, informática, matemáticas...);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C314-155-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C314-99-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C315-11-5];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C313-6-5];Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C301-162-1];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C315-177-5];Incorrecto. La respuesta no incluye ninguna información de la REFERENCIA. [C318-146-1];La respuesta es correcta de acuerdo a la REFERENCIA. Es fácil de leer. [C310-25-5];No puedo responder o no entiendo. [C310-167-0];;;;;;;;;;;No puedo responder o no entiendo. [C313-143-0];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

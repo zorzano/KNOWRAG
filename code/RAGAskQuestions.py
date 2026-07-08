@@ -54,6 +54,7 @@ config.read_file(open(args.filename))
 questionfile = config.get('CONFIG', 'QuestionsFile')
 outputfile = config.get('CONFIG', 'OutputFile')
 resultfile = config.get('CONFIG', 'ResultFile')
+reflexionFile = config.get('CONFIG', 'ReflexionFile', fallback="reflexion.out.txt")
 
 #Analysis of parameters
 gp=GordopiloDialog()
@@ -75,14 +76,18 @@ print("Result File:"+resultfile)
 
 of=open(outputfile, 'w', encoding='utf-8')
 gpp.of=of
+rxf=open(reflexionFile, 'w', encoding='utf-8')
+
 gp.setParameters(gpp)
 totalResults=0
 
 seconds=time.time()
+
 # If command line test
 if args.question is not None:
     print ("Question:"+args.question+"\n")
     print ("Answer:"+gp.answerText(args.question)+"\n")
+    print ("ReflexionTrace:\n"+gp.getReflexionTrace())
 else:
     pairs = parse_question_answer_file(questionfile)
     positiveResults=0
@@ -96,6 +101,13 @@ else:
         logger.info("Gordopilo Answer:\n"+gpanswer+"\n")
         of.write("<A>\n"+gpanswer+"\n")
         logger.info("-" * 40)
+        
+        # Output to Reflexion File
+        rxf.write("###################################################\n")
+        rxf.write("PREGUNTA: "+question+"\n")
+        rxf.write(gp.getReflexionTrace())
+        rxf.write("REFERENCIA CORRECTA PARA LA RESPUESTA: "+reference+"\n")
+        
         totalResults+=1
         print(".", end="", flush=True)
     print("")
